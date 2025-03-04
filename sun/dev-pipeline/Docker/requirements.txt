@@ -1,0 +1,37 @@
+# Google Cloud SDK
+google-cloud-aiplatform==1.80.0
+google-cloud==0.34.0
+google-cloud-dlp==3.28.0
+
+# AWS SDK
+boto3==1.36.3
+botocore==1.36.3
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.2
+scipy==1.15.1
+scikit-learn==1.6.1
+ipywidgets==7.8.1
+
+# Logging
+logging
+
+# Data Validation
+pydantic==2.10.6
+
+# Text Scrubbing
+# spacy==3.8.0
+# scrubadub==2.0.1
+# scrubadub_spacy==2.0.0
+
+# Snowflake Connector
+snowflake-connector-python==3.13.2
+snowflake-connector-python[pandas]
+
+# Vertex AI Generative Models
+vertexai
+
+# Hugging Face Transformers for NLP & Sentiment Analysis
+transformers==4.48.3
+torch==2.6.0
