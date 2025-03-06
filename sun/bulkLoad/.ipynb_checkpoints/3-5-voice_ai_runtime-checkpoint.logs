@@ -1,0 +1,14 @@
+2025-03-05 08:36:07 [INFO]: Called: Initiate Master Dataframes
+2025-03-05 08:36:07 [INFO]: df_intra_calls_data.csv exists.
+2025-03-05 08:36:07 [INFO]: df_inter_calls_data.csv exists.
+2025-03-05 08:36:07 [INFO]: Fetching Category, Sub-category Mapping.
+2025-03-05 08:36:07 [INFO]: Fetching New Transcripts to process...
+2025-03-05 08:36:14 [INFO]: 
+2025-03-05 08:36:14 [INFO]: Transcripts to process: 7783
+2025-03-05 08:36:14 [INFO]:     File_Date  frequency
+0  2025-02-27       2312
+1  2025-02-28       2011
+2  2025-03-01         65
+3  2025-03-03       1950
+4  2025-03-04       1445
+2025-03-05 08:36:14 [INFO]: 
