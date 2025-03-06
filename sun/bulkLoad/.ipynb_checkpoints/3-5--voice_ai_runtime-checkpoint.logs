@@ -1,0 +1,40 @@
+2025-03-05 14:50:44 [INFO]: Called: Initiate Master Dataframes
+2025-03-05 14:50:44 [INFO]: df_intra_calls_data.csv exists.
+2025-03-05 14:50:44 [INFO]: df_inter_calls_data.csv exists.
+2025-03-05 14:50:44 [INFO]: Fetching Category, Sub-category Mapping.
+2025-03-05 14:50:45 [INFO]: Fetching New Transcripts to process...
+2025-03-05 14:50:51 [INFO]: 
+2025-03-05 14:50:51 [INFO]: Transcripts to process: 7934
+2025-03-05 14:50:51 [INFO]:     File_Date  frequency
+0  2025-02-27       2312
+1  2025-02-28       2011
+2  2025-03-01         65
+3  2025-03-03       1950
+4  2025-03-04       1445
+5  2025-03-05        151
+2025-03-05 14:50:51 [INFO]: 
+2025-03-05 14:51:17 [INFO]: --------------------------
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Processing
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Fetching Transcript from S3
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Successfully fetched the Transcript from S3
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Creating df_intra_call 
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Masking PII Data
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Completed Masking PII Data
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Successfully created df_intra_call 
+2025-03-05 14:51:17 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Creating df_inter_call 
+2025-03-05 14:51:19 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Successfully created df_inter_call 
+2025-03-05 14:51:20 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Persisted df_intra_calls_data to CSV.
+2025-03-05 14:51:20 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Persisted df_intra_calls_data to CSV.
+2025-03-05 14:51:20 [INFO]: 27984732-9ddc-4eda-8c7c-1cffc8e05185: Processed Call #4174 in 0 min 3.81 sec elapsed
+2025-03-05 14:51:20 [INFO]: --------------------------
+2025-03-05 14:51:20 [INFO]: 
+2025-03-05 14:51:20 [INFO]: 
+2025-03-05 14:51:20 [INFO]: --------------------------
+2025-03-05 14:51:20 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Processing
+2025-03-05 14:51:20 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Fetching Transcript from S3
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Successfully fetched the Transcript from S3
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Creating df_intra_call 
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Masking PII Data
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Completed Masking PII Data
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Successfully created df_intra_call 
+2025-03-05 14:51:21 [INFO]: 2dd7adc9-343c-4463-84cb-6d54fb2a19ce: Creating df_inter_call 
