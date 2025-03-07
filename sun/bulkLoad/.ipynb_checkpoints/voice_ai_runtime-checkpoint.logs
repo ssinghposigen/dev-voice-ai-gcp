@@ -1,14 +1,7 @@
-2025-03-06 07:28:44 [INFO]: Fetching Category, Sub-category Mapping.
-2025-03-06 07:28:44 [INFO]: 
-2025-03-06 07:28:44 [INFO]: Transcripts to process: 1598
-2025-03-06 07:28:44 [INFO]:     File_Date  frequency
-0  2025-03-05       1598
-2025-03-06 07:28:44 [INFO]: 
-2025-03-06 07:28:44 [INFO]: Called: Initiate Master Dataframes
-2025-03-06 07:28:44 [INFO]: df_intra_calls_data.csv exists.
-2025-03-06 07:28:45 [INFO]: df_inter_calls_data.csv exists.
-2025-03-06 07:28:48 [INFO]: --------------------------
-2025-03-06 07:28:48 [INFO]: 7fb5379e-56df-4962-91e3-73e52def2e7e: Processing
-2025-03-06 07:28:48 [INFO]: 7fb5379e-56df-4962-91e3-73e52def2e7e: Fetching Transcript from S3
-2025-03-06 07:28:48 [INFO]: 7fb5379e-56df-4962-91e3-73e52def2e7e: Successfully fetched the Transcript from S3
-2025-03-06 07:28:48 [INFO]: 7fb5379e-56df-4962-91e3-73e52def2e7e: Creating df_intra_call 
+2025-03-07 05:23:09 [INFO]: Fetching Category, Sub-category Mapping.
+2025-03-07 05:23:42 [INFO]: Fetching Category, Sub-category Mapping.
+2025-03-07 05:23:45 [INFO]: 
+2025-03-07 05:23:45 [INFO]: Transcripts to process: 2114
+2025-03-07 05:23:45 [INFO]:     File_Date  frequency
+0  2025-03-06       2114
+2025-03-07 05:23:45 [INFO]: 
