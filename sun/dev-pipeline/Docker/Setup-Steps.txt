@@ -20,4 +20,6 @@ docker buildx build --platform linux/amd64 -t $LOCATION-docker.pkg.dev/$PROJECT_
 # Push to Artifact Registry
 docker push $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG
 
-#us-central1-docker.pkg.dev/dev-posigen/dev-voice-ai/voice-ai-docker-image
+
+# Rebuilding:
+docker pull $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG

@@ -1,0 +1,46 @@
+Requirement already satisfied: kfp in /opt/conda/envs/posigen/lib/python3.13/site-packages (2.12.1)
+Requirement already satisfied: click<9,>=8.0.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (8.1.8)
+Requirement already satisfied: docstring-parser<1,>=0.7.3 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (0.16)
+Requirement already satisfied: google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (2.24.1)
+Requirement already satisfied: google-auth<3,>=1.6.1 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (2.38.0)
+Requirement already satisfied: google-cloud-storage<3,>=2.2.1 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (2.19.0)
+Requirement already satisfied: kfp-pipeline-spec==0.6.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (0.6.0)
+Requirement already satisfied: kfp-server-api<2.5.0,>=2.1.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (2.4.0)
+Requirement already satisfied: kubernetes<31,>=8.0.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (30.1.0)
+Collecting protobuf<5,>=4.21.1 (from kfp)
+  Using cached protobuf-4.25.6-cp37-abi3-manylinux2014_x86_64.whl.metadata (541 bytes)
+Requirement already satisfied: PyYAML<7,>=5.3 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (6.0.2)
+Requirement already satisfied: requests-toolbelt<2,>=0.8.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (1.0.0)
+Requirement already satisfied: tabulate<1,>=0.8.6 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp) (0.9.0)
+Collecting urllib3<2.0.0 (from kfp)
+  Using cached urllib3-1.26.20-py2.py3-none-any.whl.metadata (50 kB)
+Requirement already satisfied: googleapis-common-protos<2.0.dev0,>=1.56.2 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5->kfp) (1.69.0)
+Requirement already satisfied: proto-plus<2.0.0dev,>=1.22.3 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5->kfp) (1.26.0)
+Requirement already satisfied: requests<3.0.0.dev0,>=2.18.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5->kfp) (2.32.3)
+Requirement already satisfied: cachetools<6.0,>=2.0.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-auth<3,>=1.6.1->kfp) (5.5.2)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-auth<3,>=1.6.1->kfp) (0.4.1)
+Requirement already satisfied: rsa<5,>=3.1.4 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-auth<3,>=1.6.1->kfp) (4.9)
+Requirement already satisfied: google-cloud-core<3.0dev,>=2.3.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-cloud-storage<3,>=2.2.1->kfp) (2.4.2)
+Requirement already satisfied: google-resumable-media>=2.7.2 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-cloud-storage<3,>=2.2.1->kfp) (2.7.2)
+Requirement already satisfied: google-crc32c<2.0dev,>=1.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from google-cloud-storage<3,>=2.2.1->kfp) (1.6.0)
+Requirement already satisfied: six>=1.10 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp-server-api<2.5.0,>=2.1.0->kfp) (1.17.0)
+Requirement already satisfied: certifi in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp-server-api<2.5.0,>=2.1.0->kfp) (2025.1.31)
+Requirement already satisfied: python-dateutil in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kfp-server-api<2.5.0,>=2.1.0->kfp) (2.9.0.post0)
+Requirement already satisfied: websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kubernetes<31,>=8.0.0->kfp) (1.8.0)
+Requirement already satisfied: requests-oauthlib in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kubernetes<31,>=8.0.0->kfp) (2.0.0)
+Requirement already satisfied: oauthlib>=3.2.2 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from kubernetes<31,>=8.0.0->kfp) (3.2.2)
+Requirement already satisfied: pyasn1<0.7.0,>=0.4.6 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.1->kfp) (0.6.1)
+Requirement already satisfied: charset-normalizer<4,>=2 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5->kfp) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in /opt/conda/envs/posigen/lib/python3.13/site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5->kfp) (3.10)
+Using cached protobuf-4.25.6-cp37-abi3-manylinux2014_x86_64.whl (294 kB)
+Using cached urllib3-1.26.20-py2.py3-none-any.whl (144 kB)
+Installing collected packages: urllib3, protobuf
+  Attempting uninstall: urllib3
+    Found existing installation: urllib3 2.3.0
+    Uninstalling urllib3-2.3.0:
+      Successfully uninstalled urllib3-2.3.0
+  Attempting uninstall: protobuf
+    Found existing installation: protobuf 5.29.3
+    Uninstalling protobuf-5.29.3:
+      Successfully uninstalled protobuf-5.29.3
+Successfully installed protobuf-4.25.6 urllib3-1.26.20

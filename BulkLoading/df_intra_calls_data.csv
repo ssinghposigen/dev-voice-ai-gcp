@@ -1,0 +1,756 @@
+CONTACT_ID,SPEAKER_TAG,CAPTION,CALL_LANGUAGE,NEGATIVE,NEUTRAL,POSITIVE,SENTIMENT_LABLE,START_TIME_SECOND,END_TIME_SECOND,TIME_SPOKEN_SECOND,TIME_SILENCE_SECOND,LOAD_DATE
+e630c206-987c-47c2-8b23-2329d0b13ec6,CUSTOMER,Call has been forwarded to an automated voice messaging system.,en-US,2.39,89.15,8.46,Neutral,0,3,3,1,2025-03-10 05:46:49.600102
+e630c206-987c-47c2-8b23-2329d0b13ec6,CUSTOMER,***-***-**** is not available.,en-US,63.32,35.26,1.42,Negative,4,12,8,1,2025-03-10 05:46:49.600102
+e630c206-987c-47c2-8b23-2329d0b13ec6,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",en-US,1.37,90.28,8.35,Neutral,13,20,7,1,2025-03-10 05:46:49.600102
+e630c206-987c-47c2-8b23-2329d0b13ec6,AGENT,"Hello, this is Celeste with Positgen Solar. Can you please give me a call back at *-***-***-****? It's in regards to the portal access that you were trying to get the last time we had you on the phone. Thank you so much and have a great day.",en-US,0.72,30.33,68.95,Positive,21,34,13,0,2025-03-10 05:46:49.600102
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,0,0,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Hi, good afternoon. This is Celeste with Positgen Solar. Is, uh, am I speaking with Athenia Adams?",en-US,0.6,78.09,21.31,Neutral,1,8,7,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,Yes.,en-US,7.42,58.11,34.46,Neutral,9,10,1,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Hi, um, I did receive an email intake, uh, form from you. I just wanna make sure that I'm speaking to the correct person. Could you verify the address that you were inquiring about for the solar panels?",en-US,2.87,87.73,9.41,Neutral,10,25,15,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,*** is that your lane?,en-US,9.25,83.96,6.79,Neutral,26,28,2,2,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"And you said [REDACTED], and what's the city, state and zip code?",en-US,7.21,90.5,2.29,Neutral,30,34,4,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,"Leville, Mississippi **,***.",en-US,2.33,90.67,7.0,Neutral,35,37,2,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,Thank you and what about your email address?,en-US,0.66,38.25,61.09,Positive,37,40,3,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,in ia **@gmail.com.,en-US,2.54,87.18,10.28,Neutral,41,44,3,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,Got it and uh your phone number?,en-US,1.78,93.1,5.12,Neutral,44,47,3,3,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,***-***-****,en-US,17.5,70.67,11.82,Neutral,50,53,3,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,Thank you so much and then I also just wanted uh to go ahead and um send you that information but we I I did have to verify now you did want access to enroll on your the the portal and um was that sent over to you whenever they performed the boarding call and explained everything to you?,en-US,1.28,53.78,44.94,Neutral,53,74,21,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,OK,en-US,9.38,42.41,48.21,Positive,62,62,0,3,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,Oh,en-US,11.75,49.62,38.63,Neutral,65,65,0,11,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,I don't recall at least um I can get into.,en-US,21.41,70.23,8.36,Neutral,76,80,4,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,"The referral side but I can't get into where I can, you know, see the usage pay things like that.",en-US,50.93,46.93,2.14,Negative,81,87,6,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Oh, OK, so let me go ahead and send you that information. Give me a second.",en-US,2.39,77.96,19.64,Neutral,87,92,5,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"I can send it to you again, um, bear with me.",en-US,1.0,73.8,25.21,Neutral,93,97,4,5,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"And then your username is going to be your email address and then *** at the end, so give me just a second.",en-US,2.43,90.81,6.76,Neutral,102,109,7,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,Yeah,en-US,8.01,43.81,48.17,Positive,106,107,1,3,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Uh, I just sent it to you so you could set that up, OK?",en-US,1.42,90.48,8.1,Neutral,110,113,3,2,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,"OK, you send it to my email?",en-US,1.33,91.5,7.16,Neutral,115,117,2,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Yes, I sent it to the email that you just verified.",en-US,0.88,80.4,18.72,Neutral,117,120,3,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,"Yeah, I got it.",en-US,3.34,47.39,49.27,Positive,121,122,1,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,Alrighty then if you have any questions or concerns just give us a call back OK?,en-US,3.41,81.31,15.28,Neutral,123,127,4,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,OK. Thank you.,en-US,1.91,23.8,74.28,Positive,127,130,3,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,"Thank you mhm, enjoy the rest of your day.",en-US,0.45,2.36,97.19,Positive,129,131,2,1,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,CUSTOMER,You too.,en-US,4.49,57.69,37.82,Neutral,132,133,1,0,2025-03-10 05:46:54.789757
+ce79464e-86fd-4384-802b-ae13e09ba949,AGENT,Mhm bye bye.,en-US,8.65,80.8,10.54,Neutral,133,133,0,0,2025-03-10 05:46:54.789757
+d7e0a6cc-ec73-43bf-84ce-b46efc383d22,CUSTOMER,"Hello, no one is available to take your call. Please leave a message after the tone.",en-US,78.72,20.43,0.85,Negative,0,5,5,4,2025-03-10 05:46:57.550355
+d7e0a6cc-ec73-43bf-84ce-b46efc383d22,AGENT,"Hello, this is Celeste with Positgen Solar. Um, I am getting back to you in regards to an email we received. If you could please give me a call back at *-***-***-****. Thank you and have a great day.",en-US,0.5,21.73,77.77,Positive,9,22,13,0,2025-03-10 05:46:57.550355
+59ca2f0c-cf2e-4639-a17f-72ab65cf08fa,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,0,2025-03-10 05:47:00.309515
+59ca2f0c-cf2e-4639-a17f-72ab65cf08fa,AGENT,"Hi, uh, this is Celeste from Posit and Solar. Mr. Kevin Hart, if you could please give me a call back. I'm calling in regards to your email inquiry, uh, regarding your portal, and please give me a call back at *-***-***-****. Thank you so much and have a great day.",en-US,0.39,16.95,82.66,Positive,9,26,17,0,2025-03-10 05:47:00.309515
+ef86d123-3b8c-4e30-a6f8-1cc6dbe3e628,CUSTOMER,has been forwarded to an automated voice messaging system.,en-US,1.74,92.38,5.87,Neutral,0,3,3,2,2025-03-10 05:47:03.132719
+ef86d123-3b8c-4e30-a6f8-1cc6dbe3e628,CUSTOMER,Is not available.,en-US,44.32,52.61,3.08,Neutral,5,7,2,1,2025-03-10 05:47:03.132719
+ef86d123-3b8c-4e30-a6f8-1cc6dbe3e628,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press * for more options. To leave a callback number, press *.",en-US,1.38,91.59,7.03,Neutral,8,17,9,3,2025-03-10 05:47:03.132719
+ef86d123-3b8c-4e30-a6f8-1cc6dbe3e628,AGENT,"Hello, this is Celeste with Positant Solar. Um, Miss, Mr. um, Burakulfar, um, I was calling in regards to your billing ingra. If you could please give me a call back at *-***-***-****. Thank you and have a great day.",en-US,0.83,36.22,62.95,Positive,20,34,14,0,2025-03-10 05:47:03.132719
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,1,2,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Hi, hello, this is Celeste with Posogen Solar. Uh, is this, um, Steven Byrons?",en-US,0.87,87.43,11.69,Neutral,2,9,7,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Uh, one problem, I already have solar panels.",en-US,40.56,52.61,6.83,Neutral,9,13,4,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Um, no, yes, it's in regards to an inquiry you, you submitted with us with, with the company that you have panels with. We're Positgen Solar.",en-US,3.82,90.73,5.45,Neutral,13,22,9,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Oh wait a minute, oh, OK. So what if, oh yeah, right. OK.",en-US,3.22,62.02,34.76,Neutral,23,28,5,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,25,26,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"So it's so just to, just to let you know that the call is being recorded for quality assurance purposes and just to move forward uh to be able to help you out um I did just need to verify just three things and can you verify the address that is associated with your solar panels?",en-US,4.57,85.19,10.24,Neutral,26,44,18,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Well, wait a minute. First of all, what's the, what's the purpose of the call for the call?",en-US,24.07,73.51,2.42,Neutral,44,49,5,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Well, I received a case um regarding a general question, uh, but the case does not have a question. It doesn't have information so I was trying to get more information in regards to if you know you needed anything, uh, but in order to do so I do have to verify, you know, your the these three things I have to verify the address that is associated with the account, um, your email address and your phone number just to make sure I'm speaking to Mr. Steven Barons.",en-US,30.35,66.8,2.85,Neutral,48,76,28,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"That's odd you're calling and went on a Saturday. Um, yeah, [REDACTED].",en-US,61.43,37.14,1.43,Negative,77,83,6,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,81,82,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Uh-huh.,en-US,8.11,81.25,10.64,Neutral,83,84,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Um, uh, my phone number is ***-***-****.",en-US,3.74,91.69,4.56,Neutral,85,90,5,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,And just your email address.,en-US,8.73,85.83,5.44,Neutral,91,93,2,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And what,en-US,13.53,69.33,17.14,Neutral,91,92,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Oh, I have two of them. Sman Bay ** at gmail.com.",en-US,1.95,75.51,22.55,Neutral,93,99,6,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"There you go. And um the city, state and zip code of your address?",en-US,6.23,90.24,3.54,Neutral,99,103,4,2,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,** *****.,en-US,6.32,87.16,6.52,Neutral,105,107,2,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,And that city state?,en-US,17.66,79.5,2.84,Neutral,108,109,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"That's in New Jersey, Audubon, Audubon, New Jersey.",en-US,1.82,82.24,15.94,Neutral,110,113,3,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Got it thank you so much. Now, so um I just received this case it doesn't have a reason or anything and I just wanted to verify if if there was something that I can help you with that you were inquiring about recently or everything has been situated.",en-US,6.22,64.97,28.81,Neutral,113,130,17,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Yeah,en-US,8.01,43.81,48.17,Positive,121,122,1,7,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Oh, got it. I think I called about * months ago.",en-US,3.93,81.71,14.37,Neutral,129,132,3,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Mhm. And what was it? Do you remember what was it about or didn't, but this, this was recently.",en-US,5.89,89.61,4.5,Neutral,133,140,7,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And some,en-US,6.44,66.56,27.0,Neutral,133,134,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Had to be.,en-US,16.77,61.74,21.49,Neutral,135,135,0,4,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Yeah, I was just.",en-US,11.89,67.78,20.33,Neutral,139,140,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Yeah, the, the guy that sold me the panels.",en-US,13.82,77.21,8.97,Neutral,141,144,3,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,144,144,0,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Um,",en-US,7.58,76.2,16.22,Neutral,145,146,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,He had told me that,en-US,4.36,86.83,8.81,Neutral,146,148,2,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Um,",en-US,7.58,76.2,16.22,Neutral,149,149,0,3,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Let me see, he had told me that um.",en-US,3.09,91.35,5.56,Neutral,152,155,3,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,I would be paying my electric bill to your company and not PSE and G.,en-US,45.01,51.23,3.76,Neutral,156,162,6,2,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And,en-US,14.01,49.95,36.04,Neutral,164,165,1,2,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And also it turns out that I'm really not saving a whole heck of a lot of money saving a little bit.,en-US,84.76,14.01,1.23,Negative,167,171,4,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Because I, I lease these panels.",en-US,2.87,84.75,12.38,Neutral,172,175,3,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,176,176,0,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And they charged me so much per month for the for the panels.,en-US,74.66,23.38,1.95,Negative,176,180,4,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,180,181,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,And it comes out to probably the same amount as almost the same amount as before I even had them.,en-US,15.61,68.4,15.99,Neutral,182,188,6,2,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,So those were my questions.,en-US,7.99,84.64,7.36,Neutral,190,192,2,2,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Hm,en-US,9.48,64.7,25.82,Neutral,194,194,0,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Yes.,en-US,7.42,58.11,34.46,Neutral,195,197,2,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,The cost of the lease is is is almost even with what I was already paying for my electric.,en-US,46.99,47.62,5.39,Neutral,196,202,6,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Um, the **.** monthly?",en-US,5.86,90.24,3.91,Neutral,203,206,3,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Yeah. Yeah. Mhm.,en-US,1.56,49.9,48.55,Neutral,206,208,2,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Mhm, with your, with your, um,",en-US,1.88,84.58,13.53,Neutral,208,211,3,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"My electric bill is lower than that in the winter, but in the summers, it's, it's higher.",en-US,18.46,65.57,15.97,Neutral,212,217,5,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,I know.,en-US,11.43,64.47,24.11,Neutral,212,213,1,4,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Yeah, and that's, that's, that's one of the things is, um, that, that's one of the benefits as well and you have to take into consideration, you know, the, the weather and everything. I always like to tell my customers to at least wait, um, you know, a full year to be able to grab.",en-US,2.15,31.92,65.93,Positive,217,234,17,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Ask the most information. I know it's, it's a long, it's a long term, uh, investment because you know we have customers that you know they don't produce throughout their winter months, which, you know, we are experiencing a lot of winter months right now, especially with the, you know, with the cold weather, not a lot of sun, um, and you know with summer coming up that's one of our best benefits, uh, some of our customers it diff it it's just different for everybody. I can't speak for, you know, just one person.",en-US,10.71,65.5,23.8,Neutral,234,262,28,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"I one of uh like just one customer but there's customers where you know they they do see the value in the system, you know, most likely summer because that's, you know, one of the best months um depending on where you know you're actually located to be able to, you know, consume all those savings and, and have your system, you know, overproduce. Now the benefits, the benefits of it, I know like, you know, in your winter months you're not gonna see a lot of benefits and, and that's because of the weather.",en-US,3.28,25.53,71.19,Positive,262,292,30,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Uh, but it is, um, still helping you feed off of the solar throughout the day because, you know, as, as you use, as you produce the energy, you know, uh, from the, the peak of the morning that you have on your, on your actual, um, solar panels.",en-US,2.1,62.93,34.98,Neutral,292,312,20,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"From the beginning of the morning when you, when you hit your, when you actually hit your peak, then, you know, you're, you're producing it and, and using the same energy that you're producing on a day to day basis. Now, you know, when the sun goes down, obviously you go to the grid and that's, that means, you know, it's, it's going, it's feeding off of your actual utility company.",en-US,1.68,74.85,23.47,Neutral,312,334,22,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Um, and that's where you see your utility bill still being, you know, a charged because any energy that's not covered by our solar solar, then that actually gets charged by your utility company now on months that you are going going to overproduce, then you will see the credits on your utility bill um stating how much you actually sold back to the actual utility company and um it'll show it on the bill as well. It, it, it tells you.",en-US,15.57,80.23,4.2,Neutral,334,362,28,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"You know, from from the from the utility company to um to you and um on the bill it actually it would actually show that information uh there's gonna be months that that you you will experience, you know, a low, you know, a low production uh it all depends on weather as well and I like to tell my customers at least give it that first year. I know you just got activated back in it looks like um July.",en-US,20.55,72.76,6.69,Neutral,362,392,30,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,389,390,1,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"And I, I think they also mentioned about the possibility of putting one extra panel up there.",en-US,0.97,87.61,11.43,Neutral,391,397,6,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,But I never got I never heard anything else about that.,en-US,65.24,33.29,1.47,Negative,398,401,3,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Yeah and that that can take um that can take place but I will let you know if you do do do an additional like system as far as even an extra panel because it's not within the first design then that will be um you know an extra not an extra but it would, it would be a different contract for that additional um those additional panels, OK.",en-US,7.55,83.91,8.53,Neutral,401,424,23,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Oh, so in other words, they're gonna charge me more for adding another panel.",en-US,49.17,46.45,4.38,Negative,423,427,4,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Yeah, and, and only because you know the system is designed whenever the design team takes into consideration it takes into consideration like how many panels is your house uh going to need, how much energy are those panels going to.",en-US,13.12,79.57,7.31,Neutral,426,440,14,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Um, measure on, um, you know, on a yearly basis to be able to see, you know, how, how can they design the system exactly for your home, so that's why, you know, when there's additional panels to be added then then that considers a different contract because it's it's all based off of, you know, contract by contract um I do like to be transparent with my customers I do like to give them all the information that I do contain.",en-US,3.63,87.57,8.8,Neutral,440,467,27,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Because I don't want, you know, any, you know, miscommunication or, you know, an upset customer not knowing that, you know, that could possibly happen and in these cases, some, some of these cases are it's not explained and, and I do understand that, yeah.",en-US,76.49,21.8,1.72,Negative,467,483,16,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Well, yeah, but she has been done.",en-US,24.5,70.38,5.12,Neutral,482,484,2,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Did not go over any of that with me, but they're up there now, so.",en-US,13.19,77.92,8.9,Neutral,484,489,5,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Yeah.,en-US,9.89,57.98,32.13,Neutral,490,491,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Um, you know, there's not much I can do about it. All right.",en-US,46.1,49.7,4.19,Neutral,490,494,4,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"Yeah, alright, and I just, I was just wanted to, did, did I answer all your questions and concerns?",en-US,3.71,64.17,32.12,Neutral,494,500,6,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,499,499,0,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"Yes, yes.",en-US,2.49,49.11,48.4,Neutral,500,501,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,"OK, if you have any other questions or concerns in the for the future, just know that you can reach out to us and we'll be able to help you, OK?",en-US,2.76,59.7,37.54,Neutral,501,507,6,1,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,508,509,1,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Alright thank you so much enjoy the rest of your weekend.,en-US,0.29,1.94,97.77,Positive,509,511,2,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,CUSTOMER,"OK, bye-bye.",en-US,12.15,72.45,15.4,Neutral,510,513,3,0,2025-03-10 05:47:14.033964
+12f8583f-b4d3-4f7c-867d-d8045da27021,AGENT,Mhm bye bye,en-US,7.01,80.36,12.63,Neutral,512,513,1,0,2025-03-10 05:47:14.033964
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,2,3,1,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"Hi, good afternoon. This is Celeste with Pos Solar. Is this Mr. uh, Nicholas Rouse?",en-US,0.52,77.04,22.43,Neutral,3,9,6,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,9,10,1,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"Hi, Mr. Rouse, uh, we received your intake, um, your email intake, and I wanted to go ahead and answer your question, uh, but before doing so, can you go ahead and verify your phone number for me, please?",en-US,1.0,86.82,12.18,Neutral,10,23,13,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,***-***-****,en-US,14.4,76.3,9.3,Neutral,24,27,3,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,Thank you. And then just for verification reasons we do have to verify your email address and um the address that is associated with the account here at Poshagen.,en-US,1.11,79.37,19.53,Neutral,27,37,10,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,"OK, it's Ralph ** at gmail.com and [REDACTED].",en-US,0.81,85.71,13.48,Neutral,38,44,6,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"OK, zip code?",en-US,3.05,90.26,6.69,Neutral,44,46,2,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,*****,en-US,15.41,64.98,19.61,Neutral,47,49,2,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,Thank you and then the uh the email address is different so do you have a different email address?,en-US,1.83,77.48,20.69,Neutral,49,54,5,2,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,"Um, it should be rouse Nicholas*@gmail.com unless it, it could be Nicholas.rouse@ma.edu. That's the only other one I have.",en-US,6.61,86.11,7.29,Neutral,56,66,10,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"Oh no, OK, no, it's, it's correct, um, the browse Nicholas*@gmail.com. Got it. And uh you did email us in regarding to your account number. Do you have something to write with?",en-US,2.47,56.24,41.28,Neutral,66,77,11,2,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,Oh yeah.,en-US,5.42,40.71,53.87,Positive,79,80,1,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"OK, once you get something to write with, I can give you your account number.",en-US,0.91,84.24,14.85,Neutral,80,84,4,6,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,90,91,1,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,You have it?,en-US,2.45,90.5,7.06,Neutral,92,93,1,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,94,94,0,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"OK, so your account number is going to be, give me a second, it is ***-**.",en-US,2.76,90.59,6.64,Neutral,95,105,10,3,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,****.,en-US,6.37,71.88,21.75,Neutral,108,110,2,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,111,112,1,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"All right, um, do you have any questions or concerns?",en-US,5.91,90.02,4.06,Neutral,113,116,3,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,"No, thank you.",en-US,7.27,58.35,34.38,Neutral,117,118,1,1,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,"No problem, thank you so much and enjoy your weekend.",en-US,0.39,2.68,96.93,Positive,119,122,3,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,CUSTOMER,"OK, bye.",en-US,13.29,71.14,15.57,Neutral,122,123,1,0,2025-03-10 05:47:18.743375
+18972bf1-faa9-4d2b-8644-03aea19da9ba,AGENT,Mhm bye bye.,en-US,8.65,80.8,10.54,Neutral,123,124,1,0,2025-03-10 05:47:18.743375
+3b1b94c6-ab26-4b35-8bf6-54cf2b52182a,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,0,2025-03-10 05:47:21.914362
+3b1b94c6-ab26-4b35-8bf6-54cf2b52182a,AGENT,"Hi, this is Celeste with Poso and Solar. This is da Castillo. Um, and I was, uh, calling in regards to the email inquiry that you, uh, submitted. I was trying to know the reason for the inquiry. If you could please give me a call back at *-*****-*-****. Thank you so much and have a great day.",en-US,1.79,58.81,39.39,Neutral,9,27,18,0,2025-03-10 05:47:21.914362
+6865c252-821f-440c-a3e3-5ba58da70045,CUSTOMER,Please leave your message for ***-***-****.,en-US,4.59,86.89,8.52,Neutral,2,10,8,1,2025-03-10 05:47:24.706463
+6865c252-821f-440c-a3e3-5ba58da70045,AGENT,"Hi, this is Ela with Posit and Solar. Mr. Kevin for, I was, um, giving you a call back in regards to your email intake that we have, uh, regarding your request to register your customer portal. If you could please give me a call back at *-***-***-****. Thank you so much and have a great day.",en-US,0.79,32.01,67.2,Positive,11,29,18,0,2025-03-10 05:47:24.706463
+f5cd4507-46df-4579-aba9-a4da4616307a,CUSTOMER,"Hello, you've reached Shante Antrim. Please leave a detailed message. Thank you and have a good day.",en-US,0.76,19.47,79.78,Positive,0,4,4,2,2025-03-10 05:47:27.491599
+f5cd4507-46df-4579-aba9-a4da4616307a,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press * for more options. To leave a callback number, press *.",en-US,1.38,91.59,7.03,Neutral,6,15,9,3,2025-03-10 05:47:27.491599
+f5cd4507-46df-4579-aba9-a4da4616307a,AGENT,"Hey, good afternoon. This is Yamile with Passage and Solar. I was hoping to speak with Ms. Chante in regards to getting confirmation on your email because we want to send over documentation of the type of rope that was done by us. But first we need to confirm your email. If you could please give us a call back at ***-***-****. Thank you and have a great day.",en-US,0.96,60.64,38.4,Neutral,18,41,23,0,2025-03-10 05:47:27.491599
+3841b54d-bcdb-4580-8de6-2a90cb616e24,CUSTOMER,Your call has been,en-US,3.51,82.68,13.81,Neutral,0,0,0,0,2025-03-10 05:47:30.272661
+488d80c9-121e-48ef-9425-abcaaae251d7,CUSTOMER,Your call has been,en-US,3.51,82.68,13.81,Neutral,0,0,0,0,2025-03-10 05:47:32.046828
+8cdb8b13-3320-4408-842e-0f2e06875ec5,CUSTOMER,Your call has been forwarded to voicemail. The person you're,en-US,36.77,60.7,2.53,Neutral,0,2,2,0,2025-03-10 05:47:34.017315
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,1,2,1,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Hi, am I speaking to Miss uh Marky?",en-US,0.7,88.5,10.8,Neutral,3,5,2,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Who's calling?,en-US,4.06,90.21,5.72,Neutral,6,7,1,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Hi, uh, my name is, uh, George. I'm here calling from Postage and Solar. Uh, the reason why I call you man is because I was just trying to do a follow up, uh, from a call back on the **th of February, uh, regarding, uh, that you had a reverse mortgage, uh, and recently got a foreclosure on the, uh, on the mortgage regarding what your lease agreement for the solar panels or the, uh, solar panels, ma'am.",en-US,3.85,85.77,10.38,Neutral,8,32,24,2,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,34,35,1,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Yes, and I was just trying to uh give you uh uh just a follow up call just to see if by any chance have you contacted the reverse mortgage company regarding uh the case number.",en-US,3.77,91.59,4.65,Neutral,36,46,10,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,"Yes, I have.",en-US,2.54,68.34,29.12,Neutral,46,48,2,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"OK, perfect. Uh, I.",en-US,1.46,18.59,79.94,Positive,48,50,2,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Did,en-US,10.93,51.85,37.22,Neutral,48,49,1,3,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Yes, ma'am. Uh, so, yes, my apologies. Uh, by any chance do you have that, uh, case number so we can go ahead, uh, and foreclose, uh, so we can process the termination on the contract?",en-US,7.51,86.1,6.39,Neutral,52,61,9,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,52,53,1,10,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,Are you the bank or something or what?,en-US,5.82,88.9,5.28,Neutral,63,65,2,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"No, ma'am. I'm here as a customer care agent from the, from Postage and solar, uh, from the solar panels.",en-US,6.46,86.65,6.89,Neutral,66,73,7,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,From the what center?,en-US,4.73,92.68,2.59,Neutral,74,76,2,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"From the solar panels, um, I'm here calling as a customer care agent.",en-US,11.45,81.24,7.31,Neutral,76,80,4,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,"Look, I'm right now I'm driving and I can't talk to you, so when I get home I'll, I'll give you a call back, OK?",en-US,14.11,72.72,13.17,Neutral,81,87,6,1,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Oh, yes, ma'am. Uh, in case I don't answer, uh, most likely it's because our office is about to be closing. If, if it's possible to do a follow-up call for you on Monday?",en-US,12.95,80.2,6.85,Neutral,88,97,9,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,"Yes, yes.",en-US,2.49,49.11,48.4,Neutral,97,99,2,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,"Got it for you. I do apologize for that, for the inconvenience Ms. Margy. I'll go ahead and do a follow-up call with you on Monday.",en-US,11.13,76.24,12.63,Neutral,99,105,6,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,CUSTOMER,OK. Thank you. Bye-bye.,en-US,5.57,55.44,38.99,Neutral,105,107,2,0,2025-03-10 05:47:38.371544
+01e50093-ca61-42c7-935f-02a7f26efd4a,AGENT,You're welcome. Bye-bye.,en-US,9.85,52.29,37.86,Neutral,107,108,1,0,2025-03-10 05:47:38.371544
+348e64f4-4cd3-40df-87aa-421e801ce0e1,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-03-10 05:47:41.452804
+348e64f4-4cd3-40df-87aa-421e801ce0e1,CUSTOMER,Evitalo.,en-US,6.14,80.85,13.01,Neutral,5,6,1,5,2025-03-10 05:47:41.452804
+348e64f4-4cd3-40df-87aa-421e801ce0e1,AGENT,"Hello, good morning. This is Celeste with Poso and Solar. Um, is this Ms. Evita, um, Avalos? I was calling because I'm missing information for your request. Uh, if you could call us back at *-*****-*****. Thank you and have a great day.",en-US,1.58,59.15,39.27,Neutral,11,28,17,0,2025-03-10 05:47:41.452804
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,1,1,2,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,Yeah Emilia with Passage and Solar calling from a recorded line. Am I speaking with Ms. Anna Ortega?,en-US,1.72,94.84,3.45,Neutral,3,9,6,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,Yes you are.,en-US,4.16,60.63,35.21,Neutral,9,11,2,1,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,"Hi, so I'm giving you a call. We were notified that you were having difficulties reaching us out, and I do see that you had a question about your bill. I just wanted to see if I can assist you.",en-US,9.68,81.86,8.46,Neutral,12,22,10,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,"Yes, um, but they explained to me that once the inspection goes through then.",en-US,1.26,91.06,7.68,Neutral,22,27,5,1,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,I'll be paying you guys cause I got a light bill.,en-US,2.44,64.3,33.25,Neutral,28,32,4,1,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,"Correct. So,",en-US,3.06,76.34,20.6,Neutral,33,34,1,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,And he said that I have to keep paying my life bill so you guys come and connect.,en-US,14.5,74.88,10.62,Neutral,33,39,6,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,"Oh, OK.",en-US,6.62,63.62,29.77,Neutral,37,38,1,2,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,"I understand. OK, so I do see that your system was installed on February **, ****. Um, the next step will be for us to wait from your utility company to give us the permission to turn on the panels, but as of now, yes, you will still have to continue paying your electricity bill.",en-US,4.02,87.48,8.5,Neutral,40,55,15,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,46,47,1,9,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,Yep.,en-US,7.19,57.17,35.64,Neutral,56,57,1,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,Thank you.,en-US,1.88,14.67,83.45,Positive,57,58,1,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,All righty. Of course. Any other questions that you may have for me?,en-US,1.34,61.12,37.55,Neutral,58,62,4,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,"No, that's it.",en-US,46.99,47.87,5.15,Neutral,62,63,1,1,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,AGENT,"All righty, Miss Anna. Have a great day, OK? Bye for now.",en-US,0.35,2.78,96.87,Positive,64,67,3,0,2025-03-10 05:47:45.544735
+fd87aeeb-d48a-4843-b805-05efc7d249d7,CUSTOMER,You too. All right. Bye-bye.,en-US,9.44,60.43,30.13,Neutral,66,68,2,0,2025-03-10 05:47:45.544735
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,0,1,1,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"Hi, Mr. Chung, uh, Kuan, this is Celeste with Positgen Solar. How are you today?",en-US,0.75,79.12,20.12,Neutral,1,6,5,3,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,9,10,1,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"I'm so sorry, give me one moment.",en-US,83.04,14.99,1.97,Negative,11,13,2,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,14,14,0,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"Can you say that again, please? I'm so sorry.",en-US,93.15,6.24,0.6,Negative,14,18,4,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,I said this is Celeste with Posagegen Solar. How are you today?,en-US,0.75,86.9,12.36,Neutral,18,21,3,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,I just like,en-US,2.35,27.2,70.45,Positive,19,20,1,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"Oh yes, yes, uh, hi, how are you doing? Yes, I'm doing good.",en-US,0.3,3.32,96.38,Positive,20,24,4,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"I'm doing great as well. I did want to just uh let you know that the call is being recorded for quality assurance purposes just to move forward on your inquiry in regards to your the noise that's coming from the solar panels, can you verify your, uh your uh phone number for me please and your email?",en-US,1.2,33.41,65.38,Positive,24,41,17,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,31,33,2,4,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Hey.,en-US,4.11,62.34,33.55,Neutral,37,39,2,3,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,***-***-****.,en-US,5.01,84.0,10.98,Neutral,42,45,3,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,Mhm and email address?,en-US,3.03,92.01,4.96,Neutral,45,47,2,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Uh john. ***@gmail.com.,en-US,3.58,87.8,8.62,Neutral,48,52,4,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,OK. And I have a different one. Do you remember your old one?,en-US,1.86,90.9,7.24,Neutral,52,56,4,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"Um, is it cloudJ at ***@gmail.com?",en-US,2.93,93.36,3.71,Neutral,57,61,4,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,Got it. And then your um your address that is associated with the account.,en-US,3.54,87.77,8.7,Neutral,61,67,6,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,62,63,1,4,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,[REDACTED] you.,en-US,3.19,91.92,4.88,Neutral,67,71,4,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,*****.,en-US,4.2,82.28,13.53,Neutral,72,73,1,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"Thank you so much and um we did, I did receive your inquiry in regards to the noise. Uh what I'm going to do is because it might, the noise that might be coming from the panels might be like a loose wire or something, um, if you can, if you can just record the noise or if you're able to record through outside, um, close to the noise, um, can you send that video through the email that I'm about to send you?",en-US,2.45,47.83,49.72,Positive,73,101,28,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,E,en-US,9.04,48.03,42.93,Neutral,74,75,1,11,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,86,87,1,3,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,It,en-US,12.4,44.88,42.72,Neutral,90,91,1,11,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"Um, I can try, but it, it happens so randomly. It's not, it's not like an often everyday kind of occurrence.",en-US,71.63,26.88,1.49,Negative,102,109,7,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"Oh, I see. Well, whenever you do get the chance, um, you can send that video to the email that I'm sending you right now, um, that way, because sometimes it's not, you know, it could be a rodent, sometimes it could just be, you know, something going on with the panels or there's just wiring because your system is producing.",en-US,3.82,84.32,11.86,Neutral,108,127,19,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,116,117,1,1,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,I,en-US,11.37,41.85,46.78,Positive,118,118,0,8,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,126,127,1,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"It, it's nothing wrong with the system, but we wanna make sure that, you know, it's nothing else or if it's a rodent that, you know, obviously that's something that we don't, we don't handle unless it's something that's, you know, something wrong with the actual system, then we go in and inspect it. But uh if you, if you can, once you get the chance, you can send us a, a video of that. OK.",en-US,36.26,57.7,6.04,Neutral,127,150,23,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Yeah,en-US,8.01,43.81,48.17,Positive,133,133,0,2,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Uh huh.,en-US,13.15,78.77,8.08,Neutral,135,138,3,11,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"Um, I can try, yeah, if it, if it happens. Uh, what about the other inquiry that I submitted about the battery?",en-US,4.87,83.72,11.41,Neutral,149,156,7,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"Mm you're gonna get contacted by the sales team. Um, the inquiry is, is, it's made on there, um, so we're just waiting on the, on the, on the sales department to get in contact with you.",en-US,3.01,90.25,6.74,Neutral,156,166,10,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,163,163,0,4,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"OK, that sounds good. OK, uh, I'll keep that in mind. Yeah, just send me the email for now and if, if, if I happen to get it then I'll, I'll send it over.",en-US,0.71,19.91,79.37,Positive,167,175,8,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,AGENT,"All right, no problem. Thank you so much. Mhm. Bye bye.",en-US,0.89,10.85,88.26,Positive,175,179,4,0,2025-03-10 05:47:51.428479
+aea79735-d6dd-4464-91ff-224da2d45667,CUSTOMER,"All right. All right, thank you.",en-US,0.84,8.45,90.71,Positive,177,180,3,0,2025-03-10 05:47:51.428479
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,0,1,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Hi, am I speaking to Mr. Samuel?",en-US,0.63,92.39,6.99,Neutral,2,4,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Yes.,en-US,7.42,58.11,34.46,Neutral,5,5,0,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Hi Samuel. Uh, my name is Coya Lopez. I'm here calling from Postage and Solar as a customer care agent. Um, the reason why I call you, sir, is because, uh, it seems we received an email from you back on the **nd of February regarding your login access within your, uh, Posagegen account.",en-US,3.28,89.15,7.57,Neutral,6,22,16,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Yeah, uh, can you, could you talk with my wife?",en-US,2.36,81.42,16.22,Neutral,24,27,3,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Oh, sure thing. Uh,",en-US,3.22,44.63,52.15,Positive,28,30,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,She understands better than me. Just a minute.,en-US,5.22,36.37,58.4,Positive,28,31,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,31,32,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Could you talk with the log in.,en-US,2.8,91.0,6.2,Neutral,33,34,1,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Yes.,en-US,7.42,58.11,34.46,Neutral,36,37,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,37,38,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Hello. Am I speaking with uh Miss uh,en-US,1.09,87.33,11.58,Neutral,39,41,2,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Uh, from.",en-US,4.95,89.44,5.61,Neutral,43,44,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,44,45,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Hi, uh, my name is Jorge Lopez. I'm here calling from Postage and Silva. Uh, we received an email from you, uh, back on the ** of February regarding, um,",en-US,1.72,90.4,7.88,Neutral,45,56,11,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Regarding the login access, you sent us an email saying that you're having an issue logging into the account and I'm here to support any information that you might need. Uh, you wasn't able to log in overall, correct?",en-US,47.02,51.41,1.57,Neutral,56,70,14,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,That's,en-US,10.46,58.22,31.31,Neutral,64,65,1,6,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"So we were able to log in once um the customer service rep she sent us a direct link, um, we were able to reset the password and log in and after that.",en-US,0.75,68.46,30.79,Neutral,71,85,14,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"It just doesn't allow us to log to log back in, back in, sorry.",en-US,72.05,26.48,1.47,Negative,86,91,5,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"I can, gotcha. OK. Let me see here. Um and just to confirm, I do have the right email. It's under Samuel F. Malves uh M A L V E S at outlook.com.",en-US,0.75,50.73,48.52,Neutral,92,106,14,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,107,108,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Got it. OK. Uh, what I can do is, uh, I'm gonna go ahead and send you two emails, one just to confirm on your, uh, username that's still the same, and the second email will be the link to reset your password. Once you click that second email, it has a link. Once you click the link, it's connected to enter a new password. Once that password has been entered, uh, it should give you a direct uh login overall for your uh for your account.",en-US,1.73,84.87,13.4,Neutral,108,135,27,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Yeah, so we did that already.",en-US,6.43,76.61,16.96,Neutral,136,137,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,And it still give you the,en-US,4.97,46.96,48.07,Positive,138,140,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,And,en-US,14.01,49.95,36.04,Neutral,139,140,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,And once we reset the password.,en-US,3.26,85.18,11.56,Neutral,140,143,3,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,It doesn't let us log back in it's like a one time login type thing.,en-US,68.17,30.75,1.08,Negative,144,149,5,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Hm, OK. Let me see here.",en-US,1.76,76.53,21.71,Neutral,151,153,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"I mean, try it again. I have you on the phone. I don't mind doing it again. I, I'm just saying that, you know, what we've done previously.",en-US,5.05,54.41,40.54,Neutral,153,160,7,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"No, yes, I, and I do apologize for that. Uh, let's try, let's try ahead and see if we can, I can try to send you the email again and see if it maybe it works this time.",en-US,18.25,62.28,19.48,Neutral,160,168,8,3,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,I need to go.,en-US,10.49,65.71,23.8,Neutral,171,173,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,You just,en-US,24.31,60.58,15.1,Neutral,172,173,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Let me just go ahead and sign here.,en-US,3.75,78.46,17.79,Neutral,174,177,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Mhm,en-US,9.76,61.06,29.18,Neutral,177,177,0,8,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,185,186,1,3,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,So of the user.,en-US,8.92,84.8,6.27,Neutral,189,191,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Then from there, reset password.",en-US,8.13,86.19,5.69,Neutral,192,195,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"OK, uh, so again, you're gonna receive two emails. First email, it's just just confirming that this is your, uh, your username. Basically it's the uh full uh Samuel F. uh Malves, which is M A L V E S at outlook.com and then it's gonna be dot.",en-US,2.18,87.39,10.43,Neutral,195,212,17,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Let's see here. ***, if I'm not mistaken.",en-US,1.82,88.92,9.26,Neutral,213,218,5,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Yeah, that's the log the user name.",en-US,4.12,88.94,6.94,Neutral,219,221,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Username, correct. And from here, uh, within the second email is gonna be the link to reset the password, basically enter the new password, and from there it should give you the direct access. Uh, let me know once you've done that and so that way I can double check here for you.",en-US,1.39,85.83,12.78,Neutral,221,235,14,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,231,232,1,4,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"OK, give me one minute.",en-US,5.22,77.54,17.24,Neutral,236,237,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Not a problem.,en-US,10.32,66.3,23.38,Neutral,238,239,1,25,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"So I only got one, it's the one to reset the password.",en-US,17.36,73.97,8.67,Neutral,264,268,4,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"OK, got you. Uh, I think the other one might send out a little bit sooner, or not sooner, but later on.",en-US,1.2,68.78,30.02,Neutral,269,276,7,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"OK, so I could go ahead and reset the password?",en-US,3.26,85.76,10.98,Neutral,278,280,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Yes.,en-US,7.42,58.11,34.46,Neutral,281,281,0,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Or,en-US,16.98,58.09,24.93,Neutral,281,282,1,5,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,So,en-US,13.18,50.03,36.78,Neutral,287,288,1,9,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Should I go ahead and reset the password or should I wait for the other email?,en-US,5.27,91.59,3.14,Neutral,297,300,3,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"You go ahead and and send uh click on it for the password. Uh, let me try to see here if I can send you another email.",en-US,10.57,84.42,5.01,Neutral,302,309,7,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Just to make, just to confirm that the agent is still here.",en-US,2.86,90.2,6.94,Neutral,310,314,4,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Uh, let me see.",en-US,3.26,80.53,16.21,Neutral,316,318,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Oh, it's here, it's on the.",en-US,2.53,65.65,31.82,Neutral,319,321,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,When I go to reset my username is here.,en-US,3.21,88.02,8.76,Neutral,322,325,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"OK, perfect. You can go ahead and submit it.",en-US,1.69,21.16,77.15,Positive,325,327,2,3,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Mm,en-US,10.37,56.57,33.05,Neutral,330,331,1,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Absolutely.,en-US,14.37,48.56,37.07,Neutral,333,335,2,111,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Mm.,en-US,8.26,69.18,22.56,Neutral,446,446,0,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Mm.,en-US,8.26,69.18,22.56,Neutral,447,449,2,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Uh, were you able, uh, weren't you able to, uh, log in?",en-US,7.48,89.72,2.8,Neutral,451,454,3,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Yeah, so I'm logged in. I just wanna log out.",en-US,13.87,70.55,15.58,Neutral,455,459,4,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"OK, yes.",en-US,3.28,66.38,30.34,Neutral,461,462,1,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,And try to lock that,en-US,19.26,73.57,7.16,Neutral,461,462,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Gotcha. OK.,en-US,4.07,48.74,47.19,Neutral,463,464,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Because that was where the issue.,en-US,35.62,61.19,3.19,Neutral,465,468,3,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,And one of the email.,en-US,9.7,82.61,7.69,Neutral,470,473,3,12,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"No, same thing.",en-US,32.17,62.31,5.52,Neutral,485,487,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Same thing, really? Hmm, OK.",en-US,16.46,77.09,6.45,Neutral,487,489,2,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Let me see here and that's within the same uh email, right? The same user uh email along with the new password?",en-US,1.36,93.75,4.89,Neutral,491,497,6,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Oh no, I'm sorry?",en-US,74.44,23.72,1.84,Negative,498,500,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Oh, and that's within the same uh username and the new password, correct?",en-US,2.19,91.79,6.03,Neutral,501,504,3,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,505,505,0,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"OK. hm, I may have to create an IT ticket for you, uh, so we can try to get this resolved for you.",en-US,2.14,83.08,14.78,Neutral,506,511,5,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,**.,en-US,5.3,62.62,32.08,Neutral,512,513,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Hold on one second. Oh good.,en-US,1.05,11.97,86.98,Positive,514,516,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,516,516,0,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Thank you.,en-US,1.88,14.67,83.45,Positive,518,519,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,520,520,0,5,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,No you,en-US,20.32,64.59,15.09,Neutral,525,526,1,9,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Oh wait a minute, I was able, let me do it again.",en-US,1.28,35.23,63.49,Positive,535,537,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Oh, OK. Oh",en-US,4.45,59.8,35.76,Neutral,538,540,2,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,Was it maybe like a mistype or?,en-US,29.2,69.26,1.54,Neutral,540,543,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Uh-huh.,en-US,8.11,81.25,10.64,Neutral,541,541,0,3,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,When I see the,en-US,7.65,76.75,15.61,Neutral,544,546,2,4,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Got it. It was the dot at the end. OK, so let me update it. Well, it says now here.",en-US,1.23,68.01,30.76,Neutral,550,557,7,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,I.,en-US,8.7,63.04,28.26,Neutral,558,563,5,3,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,You get passage on.,en-US,10.18,73.47,16.34,Neutral,566,568,2,14,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"Sorry to keep you out. Just one second, please.",en-US,40.92,52.8,6.28,Neutral,582,585,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"No, you're fine. Take your time.",en-US,6.56,38.98,54.46,Positive,585,586,1,52,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,It doesn't work in the Google phone.,en-US,38.23,59.12,2.65,Neutral,638,639,1,4,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Just retype the password and just to make sure.,en-US,4.41,85.11,10.48,Neutral,643,646,3,10,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Mm,en-US,10.37,56.57,33.05,Neutral,656,657,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Just walking the edge.,en-US,21.77,68.55,9.68,Neutral,658,660,2,2,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,I don't think so.,en-US,22.23,71.68,6.1,Neutral,662,663,1,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,OK perfect we got access to it thank you.,en-US,0.49,5.46,94.05,Positive,664,667,3,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Awesome. Not a problem. I can go ahead and close out this, uh, this case for you as resolved. Uh, in case you have any uh questions or concerns, uh, you can always give us a call, uh, especially on Saturday, Saturdays we're open from * to **. The only reason why I was able to call is because, uh, we were, we were kinda able to catch up on like assignments assigned to us, so.",en-US,0.61,11.46,87.92,Positive,667,692,25,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Uh, I do apologize for the inconvenient as well for the long wait as well.",en-US,48.37,47.78,3.85,Negative,692,696,4,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,"No, no problem.",en-US,5.97,55.76,38.27,Neutral,696,698,2,1,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,AGENT,"Got it. But besides from this, uh, I wish you the very best day and happy weekend.",en-US,0.42,2.54,97.04,Positive,699,703,4,0,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,That is wrong.,en-US,85.26,13.6,1.14,Negative,699,700,1,4,2025-03-10 05:48:02.155704
+54de8d68-a761-4d8c-a3d5-eab5c1a9c616,CUSTOMER,Thank you you too bye.,en-US,0.79,5.47,93.74,Positive,704,705,1,0,2025-03-10 05:48:02.155704
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,0,0,0,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Hi, hello. Good morning, Ms. Shawna. Um, this is Celeste, uh, with, uh, Positgen Solar. Is this Miss uh Shawna Scott?",en-US,0.46,54.28,45.26,Neutral,0,8,8,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Yes.,en-US,7.42,58.11,34.46,Neutral,9,10,1,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Hi, um, I did just wanna let you know that the call is being recorded for quality assurance purposes and also can I confirm a few things? I am calling in regards to your request, but can you confirm your phone number for me, please?",en-US,1.06,82.8,16.14,Neutral,10,25,15,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,16,17,1,9,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Um, ***-***-****.",en-US,3.11,92.54,4.35,Neutral,26,30,4,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Thank you, ma'am. And your email address?",en-US,0.77,26.75,72.48,Positive,30,32,2,2,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,I think the one you guys have is skyne*@yahoo.com.,en-US,1.88,90.51,7.61,Neutral,34,38,4,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,Got it and then your address that we have on file?,en-US,1.39,92.46,6.16,Neutral,38,41,3,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,[REDACTED],en-US,2.5,87.19,10.31,Neutral,42,47,5,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Thank you so much and uh just to uh follow up on your request in regards to getting a copy of your lease agreement I did just wanna confirm, did you want that um emailed or uh well can I email that to you to that email that we have on file?",en-US,0.81,43.32,55.87,Positive,47,60,13,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Yes, um, it was just, um, is this from a follow up uh call that I requested a while ago?",en-US,2.79,91.01,6.2,Neutral,61,68,7,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Um, no, this was just recently from, from you when you spoke to Amaya in regards that you wanted a copy of your lease agreement. She wasn't able to give it to you, so.",en-US,25.31,72.55,2.15,Neutral,68,77,9,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Yeah, I wanted, I wanted that and um because I needed some information for this rebate program I was trying to do and while I have you on the phone, um, they did allow me to link to the customer portal.",en-US,3.1,57.69,39.21,Neutral,76,90,14,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,90,90,0,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"However, I'm still not able to see specific information about my panels. Like all it shows is it says my account and it says my solar production, but it doesn't say anything about which each panel is producing, like it was supposed to be like this big like breakdown of everything, and it's, it's like only one screen that says my solar production.",en-US,77.3,21.91,0.8,Negative,91,120,29,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Yes, and the actual, um, it's not gonna show how much each panel is producing it's gonna show in general how much is producing on a on a monthly basis that I see on there now uh we get, yeah, we get to us as employees we get to see your your production on a day to day basis, um, but it does look like your your um.",en-US,14.54,79.56,5.9,Neutral,121,145,24,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,134,135,1,10,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Your system is um you know producing now the ones that you get is gonna be in a month to month basis you're gonna get to see on a month to month basis and that's the reason for it but we don't we don't have, you know, an option unfortunately of, you know how much each panel is making, not even ourselves, uh, we do have it to where we're able to see how much you're making, um, on a day to day basis, but you guys get to see the month to month basis.",en-US,41.24,53.7,5.05,Neutral,145,170,25,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,163,164,1,8,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"So you, yeah, unfortunately we're working on trying to get, you know, um, those additional features on the portal. It's the portal is new. It's a new thing that we have. So right now they are working on it. I'm not sure how long would it take for them to, you know, have the, the additional, uh, features, but, uh, I, I could tell you that we are working on that.",en-US,7.36,75.66,16.98,Neutral,172,195,23,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,173,173,0,9,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,182,182,0,14,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Mm.,en-US,8.26,69.18,22.56,Neutral,196,197,1,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Yes, because we used to have a * we used to have a third party um portal, but we, we weren't able, you know, it was kind of hard so we were able to get our own and that's what we started off with.",en-US,24.47,70.32,5.21,Neutral,197,209,12,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,201,202,1,5,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,Um.,en-US,10.0,77.51,12.49,Neutral,207,209,2,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,210,211,1,3,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,214,215,1,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"But right now I am sending you the copy of your, of your lease agreement for your records you could you could make copies of it at any time or save it to your phone. Uh, do you have any other questions or concerns?",en-US,2.24,89.87,7.89,Neutral,215,229,14,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,right now,en-US,6.87,76.84,16.29,Neutral,216,217,1,7,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,224,226,2,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,227,228,1,2,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Um, no, that's all, and they did, um, they were charging me at the rate of $** when I was supposed to start on that, um, promotional.",en-US,73.54,25.5,0.96,Negative,230,241,11,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Um, package, so hopefully they took care of that.",en-US,2.64,57.07,40.29,Neutral,242,245,3,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"Yes, they did. Uh, I might actually take care of that for you.",en-US,2.06,69.96,27.98,Neutral,246,249,3,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,248,249,1,1,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"OK, great. OK, that's all for now then. Hopefully I'll start seeing some, some savings soon.",en-US,0.69,6.75,92.56,Positive,250,257,7,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,251,252,1,5,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,"No, of course, of course, I do want you to have a good experience as well. If you do have any questions or concerns in the for for the future, just give us a call back. We're able to uh to help you just like as I did today and AI as well.",en-US,0.93,11.29,87.78,Positive,257,271,14,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"Oh, yeah.",en-US,6.17,48.14,45.69,Neutral,258,260,2,9,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,269,269,0,3,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,272,273,1,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,273,274,1,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,"All right, thank you so much.",en-US,0.85,5.92,93.23,Positive,274,276,2,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,Uh no problem thank you have a great day.,en-US,0.44,2.47,97.09,Positive,275,278,3,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,CUSTOMER,All right. Thanks. Bye bye.,en-US,3.89,45.37,50.74,Positive,277,280,3,0,2025-03-10 05:48:08.725599
+634cb90b-a5e6-4a2b-a3b9-a576e8a2f3d4,AGENT,Bye bye.,en-US,20.27,62.93,16.8,Neutral,279,279,0,0,2025-03-10 05:48:08.725599
+7b9a83e4-c1e0-4371-b916-e746457d39a2,CUSTOMER,"Hi, this is David Lee. Sorry, I can't get to the phone right now, but if you leave a name and message, I can get back to you as soon as I can. Thanks.",en-US,9.73,77.0,13.27,Neutral,1,7,6,2,2025-03-10 05:48:11.929712
+7b9a83e4-c1e0-4371-b916-e746457d39a2,AGENT,"Hi, this is Ales with Positgen Solar. Um, if you could please give me a call back at *-*****-*-****. Thank you and have a great day.",en-US,0.44,12.55,87.01,Positive,9,18,9,0,2025-03-10 05:48:11.929712
+13cc61e0-9a74-47e5-9a47-9be5c90eead1,CUSTOMER,"This is Robbie Bet. Please leave your name and number, and I'll get back to you. Thank you.",en-US,3.11,85.9,10.99,Neutral,1,6,5,3,2025-03-10 05:48:14.331388
+13cc61e0-9a74-47e5-9a47-9be5c90eead1,AGENT,"Hi, hello, this is Celeste with Poso and Solar. Um, if you could please give me a call back, Mr. Robert Beck. I was calling you in regards to your inquiry about your, um, your refrigerator being connected to your battery system. Um, I do have updates. I did want to let you know, um, to give me a call back at *-*****-*****. Thank you.",en-US,1.11,78.57,20.32,Neutral,9,32,23,0,2025-03-10 05:48:14.331388
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Hi, am I speaking to Mr. uh Tennis?",en-US,0.8,93.16,6.04,Neutral,0,3,3,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,"Yeah, but I can barely hear you.",en-US,55.11,38.77,6.12,Negative,4,6,2,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Oh, my apologies. Uh, let me see here. Can you hear me now?",en-US,7.89,78.38,13.73,Neutral,6,9,3,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,"Yes, yes.",en-US,2.49,49.11,48.4,Neutral,10,11,1,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"OK, perfect. My apologies. Uh, my name is, uh, Jorge Lopez. I'm here calling from Posa Solar as a customer care agent. Uh, the reason why I was reaching out to you, Mr. Kenneth, is, uh, from the **th of February you gave us a call regarding a strange sound coming from a box that's connected to the solar system, and I just wanted to.",en-US,6.12,73.41,20.46,Neutral,11,31,20,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,That's correct.,en-US,2.62,54.9,42.48,Neutral,30,31,1,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Yeah, just to make sure if that sounds still coming out of that uh solar system.",en-US,16.08,77.51,6.41,Neutral,32,36,4,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,"Uh, honestly, I couldn't tell you. I haven't been there in a few days, so I'm not sure sure what's going on right now.",en-US,60.67,38.2,1.14,Negative,36,44,8,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Got it for you, sir. Uh, what I can do, because I do see here that there's a case here open regarding, uh, to do a system check. Uh, what I'm gonna go ahead to do is I'm gonna send this out uh to uh to field service diagnosis to do a follow up and do a remote check.",en-US,1.53,83.18,15.29,Neutral,45,60,15,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,"Yeah, that'd be good.",en-US,0.54,3.01,96.45,Positive,59,60,1,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,Go.,en-US,10.11,62.33,27.56,Neutral,61,62,1,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,I'd like somebody to actually come out and take a look at it and just make sure there's nothing going on inside there.,en-US,46.36,50.31,3.33,Neutral,61,67,6,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Not a problem, Mr. Kne. Now, regarding for uh someone to be sent out, uh, we first had to do a system check. Most likely field server will do a remote system check from their side to see if there's any error going on within your system. From here, if, if, if it's determined that something's going wrong, uh, we will, they will most likely, uh, send a technician out. It will give you a follow-up call regarding if a technician has to be sent out to your location.",en-US,9.17,81.64,9.18,Neutral,67,93,26,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,94,94,0,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Yes, sir. Again, uh, now it's not a ***% guarantee that we are sending someone but it all, it all depends if they receive a bad error from their side. But rest assured, we will go ahead and get, try to get this resolved for you and give you a follow-up as well.",en-US,43.44,51.53,5.03,Neutral,95,109,14,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,That would be good. I appreciate that.,en-US,1.12,3.44,95.44,Positive,110,112,2,0,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Not a problem Mr. Goodness. I'll go ahead and create this for you. Uh, besides from this, is there anything else that you might need in service as well?",en-US,1.36,39.4,59.24,Positive,112,120,8,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,"Uh, no, not right now. That was my main concern because it's something I've never, never heard before.",en-US,49.74,46.09,4.17,Negative,121,126,5,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,"Not a problem, sir. Besides from that, I'll go ahead and, and I'll create this case for you. Uh, besides from this, I wish you the very best day and a happy weekend.",en-US,0.65,5.6,93.75,Positive,127,135,8,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,Thank you.,en-US,1.88,14.67,83.45,Positive,136,137,1,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,AGENT,You're welcome bye bye.,en-US,5.27,46.28,48.45,Positive,138,139,1,1,2025-03-10 05:48:18.891675
+986263f7-b236-4c4e-9180-9ac991909ace,CUSTOMER,Bye bye.,en-US,20.27,62.93,16.8,Neutral,140,140,0,0,2025-03-10 05:48:18.891675
+24dcb3c6-86db-4be6-a265-9b89eb95b031,CUSTOMER,"Hi, you've reached Kelly leave me a message and I'll call you back.",en-US,1.54,81.71,16.75,Neutral,0,3,3,2,2025-03-10 05:48:21.828090
+24dcb3c6-86db-4be6-a265-9b89eb95b031,AGENT,"Hello. Hi, Kelly. Uh, my name is Jorge Lopez. I'm here as a customer care agent from Poso and Solar. I'm here just trying to reach out regarding an email you sent over. This email was sent, if I'm not mistaken, it was, let's see.",en-US,3.39,87.73,8.88,Neutral,5,19,14,1,2025-03-10 05:48:21.828090
+24dcb3c6-86db-4be6-a265-9b89eb95b031,AGENT,"On the **th of February regarding uh tax credit information, if you could please give us a call back at *-***-***-***** once again that's *-***-***-****. Uh, right now it seems like we're our office is about to be closing, so most likely we will if we do reach out today, it was more than likely we'll uh follow up with you on Monday. Uh, again, this is, uh, George calling from Positar. I hope you enjoy the rest of your day.",en-US,3.65,80.13,16.22,Neutral,20,49,29,0,2025-03-10 05:48:21.828090
+665b6017-4072-4c6a-b18e-b3c52b526274,CUSTOMER,"Hi, you've reached Kelly. Leave me a message and I'll call you back.",en-US,1.42,77.37,21.2,Neutral,1,4,3,0,2025-03-10 05:48:24.418465
+6a342a8d-f1ec-4e77-b097-017b48126b17,CUSTOMER,"Hi, I've reached Josh with Connecticut Mason Contractors. Please leave a message. Thank you.",en-US,1.76,80.86,17.38,Neutral,0,4,4,0,2025-03-10 05:48:26.995962
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,0,0,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Hey, Ms. Hall, this is Ms. Garrett with Positing on a recorded line. I wanted to call and explain the contract to you that it is necessary for you to sign that document because it's part of the settlement agreement that you and I made when I got all that money for you.",en-US,3.24,91.01,5.74,Neutral,1,19,18,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,we.,en-US,6.49,74.11,19.4,Neutral,8,10,2,10,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"Oh, what money you what you got? $**** for me?",en-US,7.22,70.31,22.47,Neutral,20,24,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Yes, ma'am.",en-US,1.93,56.03,42.04,Neutral,24,25,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,A ***. What it was.,en-US,7.99,66.68,25.33,Neutral,25,28,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"No, I gave you ****.",en-US,12.52,74.11,13.38,Neutral,26,29,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"OK, nah.",en-US,20.98,69.49,9.53,Neutral,29,31,2,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,You told me I wasn't gonna have to pay passengers no money.,en-US,49.17,45.48,5.35,Negative,32,36,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"No, you're not paying positive until time for your payment.",en-US,49.56,48.1,2.34,Negative,36,40,4,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Your payments to finish off your contract with the panels, you will then.",en-US,1.77,89.86,8.36,Neutral,43,49,6,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,But right now what I'm.,en-US,5.91,75.5,18.58,Neutral,52,54,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"So what, what, what payment, the payment for my bill when I get it?",en-US,23.12,74.09,2.79,Neutral,52,57,5,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Your monthly payment, that's what you will have to pay.",en-US,12.52,81.18,6.3,Neutral,56,60,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,But,en-US,14.8,58.53,26.68,Neutral,59,59,0,18,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,And what would that be?,en-US,14.52,80.78,4.7,Neutral,77,79,2,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Do, do you have the contract, uh, can you ask her?",en-US,1.54,95.33,3.13,Neutral,81,84,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"I don't have no contract with, I don't have nothing.",en-US,26.48,63.43,10.09,Neutral,83,87,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Can you ask me to show it to you because I sent it over.,en-US,1.7,90.18,8.12,Neutral,85,89,4,5,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,94,95,1,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,I'm put in,en-US,4.75,80.88,14.36,Neutral,98,99,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"So I'm, I, I'm not gonna have to pay you $****.",en-US,34.23,53.24,12.54,Neutral,98,103,5,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"No, ma'am. Why, why you think that?",en-US,61.65,36.78,1.56,Negative,103,106,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,105,106,1,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Why do you think that?,en-US,44.12,54.39,1.48,Neutral,108,109,1,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"Because that's what she told me. That's the way it seems that the contract read, I was gonna have to pay y'all $****.",en-US,28.04,65.28,6.68,Neutral,110,119,9,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Let me, let me, let me make sure. Hold on, baby.",en-US,1.32,53.71,44.97,Neutral,119,122,3,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,That's alarming. So let me check that. Hold on.,en-US,77.44,20.92,1.64,Negative,123,126,3,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"So, let me see all this.",en-US,8.15,76.41,15.44,Neutral,127,129,2,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"Ma, let me see that phone right quick. I need to read the email.",en-US,12.43,77.32,10.24,Neutral,131,135,4,7,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,We do.,en-US,5.71,68.02,26.27,Neutral,142,144,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"Huh, I think they're so cute.",en-US,0.67,4.25,95.08,Positive,144,146,2,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"That's Malik, huh.",en-US,12.37,81.83,5.8,Neutral,149,151,2,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"No, no.",en-US,24.24,59.06,16.7,Neutral,153,156,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,156,157,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,You know no good thing.,en-US,87.9,10.19,1.91,Negative,157,161,4,4,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,so she's.,en-US,3.68,83.72,12.6,Neutral,165,169,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Let's see here.,en-US,2.34,78.87,18.78,Neutral,167,168,1,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"OK, the contract says.",en-US,1.5,80.94,17.57,Neutral,170,172,2,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Like,en-US,9.33,51.24,39.43,Neutral,173,174,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,174,176,2,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Hm.,en-US,8.17,75.19,16.63,Neutral,179,180,1,5,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,That's right.,en-US,6.29,59.76,33.95,Neutral,185,186,1,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Yes sir,en-US,3.25,48.48,48.28,Neutral,187,188,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"No, uh uh.",en-US,21.93,71.3,6.77,Neutral,188,190,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"That's not what it means, cause I don't have no $**** to get passengers.",en-US,78.17,20.05,1.78,Negative,190,196,6,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Wait a minute, hold on, hold on. I'm not looking for you to have to have ****. Hold on, hold on.",en-US,45.38,51.98,2.64,Neutral,192,200,8,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,I ain't got no money like that.,en-US,64.5,31.77,3.72,Negative,203,205,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Right, let's see.",en-US,4.17,63.87,31.96,Neutral,204,207,3,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"Wait, wait, stop the boy. Yeah, he gonna get beat to death by his mom.",en-US,86.99,11.41,1.61,Negative,210,219,9,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,That's your baby.,en-US,12.86,64.34,22.81,Neutral,214,216,2,4,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Come down *.,en-US,4.42,81.79,13.79,Neutral,220,222,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Y'all better leave my boy alone. Give him a popsicle, you know, he like.",en-US,55.54,37.89,6.56,Negative,220,224,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,223,225,2,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"I told him if he don't be good, I'm not buying it.",en-US,67.58,29.78,2.63,Negative,226,229,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,This is what,en-US,12.58,70.8,16.62,Neutral,227,227,0,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Uh **.,en-US,11.1,81.74,7.17,Neutral,229,231,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,231,231,0,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Let me see.,en-US,6.03,66.21,27.76,Neutral,232,233,1,3,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Mm,en-US,10.37,56.57,33.05,Neutral,236,237,1,6,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"No, no, no, no.",en-US,61.57,33.47,4.96,Negative,243,245,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Mm,en-US,10.37,56.57,33.05,Neutral,243,244,1,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Let me get back with the girl that pulled this together.,en-US,5.68,73.49,20.83,Neutral,246,250,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"One more, one more, one more.",en-US,4.67,59.61,35.72,Neutral,247,250,3,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Um,en-US,11.8,63.25,24.95,Neutral,251,252,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Because I need to make sure.,en-US,4.1,80.11,15.8,Neutral,252,254,2,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"Excuse me, I want clarity.",en-US,15.31,76.37,8.32,Neutral,255,257,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,Um,en-US,11.8,63.25,24.95,Neutral,255,256,1,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,I need some clarity because I ain't got no $**** to get passengers.,en-US,80.05,18.46,1.49,Negative,258,262,4,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"I will tell and you know me, I'm gonna make sure and and you should, I don't know why she got it like this. So let me get with her.",en-US,36.77,54.85,8.38,Neutral,259,267,8,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"And to Monday, uh, if I get it today, I'll call y'all back. If not, then it'll be Monday, OK?",en-US,1.27,77.21,21.52,Neutral,268,274,6,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,268,269,1,6,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,OK. Thank you.,en-US,1.91,23.8,74.28,Positive,275,277,2,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,"All right, thank you guys. I appreciate y'all.",en-US,0.43,1.66,97.91,Positive,275,278,3,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,All right.,en-US,5.09,52.39,42.52,Neutral,278,279,1,0,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,AGENT,Bye-bye.,en-US,17.73,64.39,17.88,Neutral,279,280,1,1,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,So,en-US,13.18,50.03,36.78,Neutral,281,282,1,2,2025-03-10 05:48:35.479399
+be051897-0bc2-4995-809d-58b50f5f15a2,CUSTOMER,"You see, I got to get some clarity on this because you don't owe you don't owe passenger that kind of money if I.",en-US,54.04,43.67,2.29,Negative,284,295,11,0,2025-03-10 05:48:35.479399
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,1,2,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Hi, uh, am I speaking to Mr. uh George uh Wagner?",en-US,0.92,92.31,6.77,Neutral,3,6,3,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Yes you are.,en-US,4.16,60.63,35.21,Neutral,6,7,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Hi, Mr. George. Uh, my name is also George. I'm here calling from Passage and Solar from your, uh, from your solar panel company. How are you doing today, sir?",en-US,1.06,75.43,23.52,Neutral,8,16,8,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Oh where?,en-US,6.32,87.0,6.67,Neutral,16,17,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Uh, passage and solar.",en-US,7.86,83.25,8.89,Neutral,18,20,2,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Never heard of you.,en-US,41.15,51.09,7.76,Neutral,21,22,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Oh, no, yes, um, I'm here calling as a customer care agent. Uh, I'm here just giving you a call regarding from an email you sent back on the **th of February regarding, uh, you send an email uh regarding your the tax credit information from the Positing account.",en-US,15.24,78.9,5.86,Neutral,23,40,17,2,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,"Yes, OK. All right, now I got you. OK.",en-US,0.71,14.93,84.36,Positive,42,46,4,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Yes, I, yes, I, I was just returning the calls, uh, uh, uh, well, not returning the call, but I was just basically trying to give you a call to see if you have any questions regarding, uh, within, uh, the email. I did see here that you, you, it shows here that we send you an email regarding, uh, information within your text.",en-US,4.18,82.11,13.71,Neutral,45,65,20,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,"Right. I read the email. The email said that in New York,",en-US,2.29,90.31,7.39,Neutral,62,69,7,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,That it was allowable to get a refund on money for installation.,en-US,6.91,82.7,10.4,Neutral,70,76,6,2,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Doesn't tell me about New Jersey.,en-US,28.36,68.89,2.75,Neutral,78,79,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Yes, I do apologize for the inconvenience on that email. Uh, what I can tell you, Mr. George, is, uh, if you'd like to get more information regarding if you're eligible to receive tax credit from the solar panels, uh, the only information I have here is to, uh, reach out to your tax advisor and see if you're eligible for tax credit within, uh, the solar panels.",en-US,16.98,78.94,4.08,Neutral,80,100,20,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,I do my own taxes.,en-US,9.33,78.75,11.92,Neutral,100,102,2,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,Correct.,en-US,8.58,60.1,31.31,Neutral,102,103,1,2,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,"Since I'm retired, I do my own.",en-US,1.95,74.09,23.95,Neutral,105,107,2,2,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Oh, OK, got it for you, sir. I wanna say, uh, just try to reach out to a tax advisor. I know, I know some tax advisor will give you a free conversation regarding to see if you're eligible for the tax credit for the, for the solar panels.",en-US,2.37,73.21,24.42,Neutral,109,123,14,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,120,120,0,3,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,123,124,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,All right.,en-US,5.09,52.39,42.52,Neutral,125,125,0,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,I thank you for the call.,en-US,0.39,6.9,92.71,Positive,126,128,2,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Yes, sir.",en-US,1.94,56.29,41.76,Neutral,126,127,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,"Not a problem, Mr. George. Besides from that, uh, I hope you enjoy the rest of your day.",en-US,0.72,7.51,91.78,Positive,128,133,5,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Right.,en-US,11.43,62.64,25.93,Neutral,130,131,1,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,131,132,1,1,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,CUSTOMER,"OK, you too. Good day.",en-US,0.59,4.19,95.22,Positive,133,135,2,0,2025-03-10 05:48:40.719874
+9d278699-940d-4f10-a6c6-6cd806477248,AGENT,Did it.,en-US,6.84,64.51,28.66,Neutral,135,136,1,0,2025-03-10 05:48:40.719874
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,1,2,1,2,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,4,5,1,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"Hey, good afternoon. This is Emilia with Confi and Solar calling from a recorded line. Can I speak?",en-US,0.87,80.36,18.77,Neutral,5,11,6,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"With what? Hold on, hold on, hold on. Could you slow down who you calling, where you calling from and where? What is it for?",en-US,14.01,83.13,2.86,Neutral,10,17,7,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,My name is Yamil with Passage and Solar.,en-US,1.87,90.71,7.42,Neutral,17,20,3,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Oh yeah, hi, how are you? Yeah, I had to say.",en-US,2.03,37.36,60.61,Positive,21,25,4,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"Hi, I'm doing well.",en-US,0.51,5.53,93.96,Positive,23,25,2,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Yeah, I had to spend $*** because your system triggered the it trigger.",en-US,91.19,8.03,0.79,Negative,26,33,7,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"No power, no electricity. I tried calling multiple places. Nobody picked up the phone and, uh, I mean I had to pay money. that's very unfair.",en-US,94.72,4.81,0.48,Negative,34,44,10,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,35,36,1,4,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,40,41,1,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Um, but I had to pay $***. Yeah, I had to pay an electrician to trigger your system. I called Connecticut Light and Power. They came and they said you gotta call an electrician. The system was, was tripping. I don't know why it tripped everything and uh.",en-US,81.88,16.93,1.19,Negative,44,62,18,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,45,45,0,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,48,49,1,13,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"I don't know. I really don't know the details. All I can tell you is that I have problems with my power. I called my sales person. He did the right thing. He escalated the call, but I mean, I couldn't be without power for * days. So this happened yesterday. Yeah, nobody called back. Nobody, I mean, I, I don't know how the system, how your company operates, but there's an emergency, somebody should be able to return the calls immediately or within the same day.",en-US,81.86,16.95,1.19,Negative,62,89,27,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,76,76,0,14,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"So I had to call Connecticut Light and Power. They, they didn't want to do nothing. They didn't want to touch it because, you know, they only deal with the outside power and they, they told me to call an electrician. I had to get an electrician to come and reset everything. They had to come and, I don't know what he did, but all, all I could tell you is that they got the power back on and it cost me $*** and he said call your um.",en-US,73.31,24.89,1.81,Negative,90,111,21,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,90,91,1,21,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Your solar company and if it trip us again, you know, because that's a problem. I mean, I'm already spending money on the system and I haven't even and your system is not charging or anything just to let you know.",en-US,85.87,13.15,0.98,Negative,112,124,12,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,114,114,0,11,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,It's not charging it's not that's what he said. I don't know. He said he couldn't touch that system because it doesn't go that far. All he did was reset it because it was just tripping everything.,en-US,54.0,44.01,1.99,Negative,125,134,9,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,132,132,0,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,So I don't know if you guys gonna reimburse me for that. I have the bill.,en-US,77.54,21.73,0.73,Negative,135,139,4,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,135,136,1,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"OK, yes sir. That was the reason why I was giving you the call, um, because if you already had it resolved, um, and the electrician was able to confirm that it was due to the solar panels, of course, we will reimburse you and we will need the proof of either the invoice or how you made the payment to him. Um, and if I can send you an email, if I can send you an email and if in that email you could just please reply back to it with either the invoice or any type of proof that you.",en-US,1.81,70.52,27.66,Neutral,139,166,27,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Um,",en-US,7.58,76.2,16.22,Neutral,140,140,0,4,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,144,144,0,7,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Yep.,en-US,7.19,57.17,35.64,Neutral,151,151,0,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Yep.,en-US,7.19,57.17,35.64,Neutral,154,155,1,2,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"OK, yep.",en-US,4.87,66.48,28.64,Neutral,157,158,1,6,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Yep, and just send me an email and I'll send you the invoice here.",en-US,1.1,82.21,16.69,Neutral,164,168,4,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"OK, perfect.",en-US,1.82,9.23,88.96,Positive,168,170,2,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Yep, and also Connecticut Light and Power came by and they said they didn't wanna even touch your system. They said nope, we don't touch that.",en-US,81.11,17.49,1.41,Negative,168,175,7,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"They just said you got a problem with your solar system because with your solar panels and it's stripping the, the thing so it might happen again. I don't know, um, but then then again I I'll, I'll forward you the bill because I'm not even in the country. I'm in Colombia so I could tell you that my wife had a call. She was all nervous, bent out of shape with no power. She couldn't work because we work out of. She works out of the house, so she couldn't work, so she was a little bit out of shape. Yeah, yeah, no problem.",en-US,70.32,27.72,1.96,Negative,176,203,27,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,190,190,0,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,193,194,1,5,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"Oh, OK, great, sorry for this, uh, but we're trying to get it right for you. Um, if you just mind confirming with me your email so that way I can send you an email for you to reply back.",en-US,4.24,35.61,60.16,Positive,199,212,13,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"All right, no worries.",en-US,2.72,37.53,59.75,Positive,204,206,2,5,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,It's E D D Y E S T E V E Z.,en-US,27.72,63.21,9.07,Neutral,211,215,4,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,At ATT.net. Eddie Eta as one word.,en-US,1.63,90.65,7.72,Neutral,218,221,3,2,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"At ATT.net. OK, perfect. All righty. So have I mentioned you can expect an email from Passage and Solar and have a mention, just reply back to it. Don't edit anything on the email, just attach the the approval, OK? And another quick question for you, of course, yes, sir. I don't wanna take too much of your time, but I just have enough.",en-US,1.89,43.23,54.88,Positive,223,241,18,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,All right.,en-US,5.09,52.39,42.52,Neutral,226,227,1,5,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,You got it.,en-US,2.96,39.16,57.89,Positive,232,233,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,You got it.,en-US,2.96,39.16,57.89,Positive,234,235,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"OK, thank you.",en-US,1.74,20.69,77.57,Positive,236,237,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Mhm,en-US,9.76,61.06,29.18,Neutral,238,239,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"You, you gotta send somebody over because your system is not charging.",en-US,70.21,28.44,1.35,Negative,240,243,3,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"It's not producing it's not charging. I don't know if you guys monitor that how you monitor, but you, you could send someone over to look at the system.",en-US,61.65,36.97,1.38,Negative,244,251,7,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"OK, so that's what I was gonna let you know next in regards to you stating that the, the system is not charging. I actually have your production open and I'm viewing it live and I do see that it is consuming the energy. We don't have any open alerts of system issues.",en-US,43.08,54.65,2.28,Neutral,251,265,14,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,261,261,0,2,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,It is.,en-US,10.07,61.76,28.18,Neutral,263,264,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"OK, I don't know. All I could tell you is that I, I was out of power. I'm not there. I'm in Colombia, and my wife told me she doesn't know anything about that, so I don't know. I don't have no clue how that works. So I've been here since October, so I wasn't even there when you installed the system. So I don't know if you're monitoring it and you see that it's producing, that's fine. My bill went up like outrageously. It went up to about $*** instead of going down, it went up. I'm not even consuming. I'm not even there.",en-US,75.28,23.25,1.47,Negative,265,293,28,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,282,283,1,11,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,294,295,1,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"It's only one person in the household right now and the system instead of going it was going backwards. So it's actually I'm spending more, I mean consuming more electricity than I was consuming before according to the new bill I went it's higher, so I'm paying more for electricity now than I was that I was paying two months ago.",en-US,59.66,36.72,3.62,Negative,294,312,18,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,OK,en-US,9.38,42.41,48.21,Positive,308,308,0,4,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,All right.,en-US,5.09,52.39,42.52,Neutral,312,313,1,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"I hear you. OK, so I do see that you were active on January **, ****. Um, I do see that in Connecticut, obviously the weather, it's not obviously the warmest weather. So you were active during the cold during the cold months. So obviously it's too soon for you to even see those savings um with your electricity company. But just allow the springtime and the summertime, and you should be able to see a drastic change on, on your utility bill.",en-US,19.59,68.86,11.54,Neutral,313,338,25,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Mhm, OK.",en-US,3.28,72.37,24.35,Neutral,318,320,2,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,323,324,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Right.,en-US,11.43,62.64,25.93,Neutral,325,325,0,3,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Since the,en-US,8.95,68.3,22.75,Neutral,328,329,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Yeah, no, no problem.",en-US,11.93,54.64,33.44,Neutral,330,331,1,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"Yep, that's fine that's fine.",en-US,1.55,21.0,77.44,Positive,332,334,2,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Yep.,en-US,7.19,57.17,35.64,Neutral,335,335,0,4,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,"OK, alright, I, I think this is gonna cost me an arm and a leg because I was paying every month ** to $*** to Connecticut like, uh, to, uh, Eversource. Now my bill between yours and them. I'm gonna go up to about $***. So let's see what happens, right? I it's too soon to tell, right? OK, alright, alright, bye bye.",en-US,76.7,21.55,1.75,Negative,339,359,20,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"OK, right.",en-US,11.51,72.57,15.91,Neutral,353,355,2,1,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,AGENT,"All right. Yes, sir. All righty, Mr. Eddy. It was a pleasure speaking with you today and have a great day, OK? Mm, bye-bye. Thank you. Bye-bye.",en-US,0.32,1.96,97.72,Positive,356,364,8,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Bye bye.,en-US,20.27,62.93,16.8,Neutral,360,361,1,0,2025-03-10 05:48:50.060136
+b13ce390-67e5-4ad1-856d-86b9c915ac00,CUSTOMER,Same here ma'am you too bye bye.,en-US,7.59,72.01,20.4,Neutral,361,363,2,0,2025-03-10 05:48:50.060136
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,That's,en-US,10.46,58.22,31.31,Neutral,1,1,0,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Hey, Demetrius, this is Ms. Garrett on a recorded line with Podgerson. I, I don't know what happened. It might have been my phone. I don't know, but I, I couldn't hear nothing. Could you hear me?",en-US,47.09,50.25,2.67,Neutral,1,13,12,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Yes ma'am.,en-US,1.94,47.59,50.47,Positive,3,4,1,10,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"I can hear you now. I was, I, I was, I was trying to move the cars with um my mama.",en-US,2.67,70.92,26.41,Neutral,14,19,5,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Oh.,en-US,13.57,62.58,23.85,Neutral,15,16,1,4,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"OK, great.",en-US,0.93,6.02,93.05,Positive,20,21,1,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Hold on a second.,en-US,11.29,75.81,12.9,Neutral,22,23,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,23,23,0,32,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,55,56,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Hello.,en-US,2.23,42.53,55.25,Positive,56,57,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"Yeah, hold on a second, hold on, hold, hold on.",en-US,4.33,63.22,32.45,Neutral,57,60,3,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,59,59,0,25,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,84,85,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,85,86,1,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"Baby? OK, they're on the phone. Oh, Miss G, so this, this is the problem. I received the email. In the process of me receiving the email.",en-US,36.65,54.74,8.6,Neutral,87,100,13,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Hey,en-US,6.39,48.86,44.75,Neutral,91,92,1,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Hey babe.,en-US,0.67,24.75,74.58,Positive,93,94,1,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,96,97,1,3,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"I asked her, mama, I said, you know, I asked her for her permission to let her know that I have this. She said not to sign it because she's not paying positive and she wants the panels removed. Now I'm confused on.",en-US,65.82,33.21,0.97,Negative,100,114,14,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,106,106,0,7,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Oh no, that's bad. No, because she, the agreement, if you go back over the agreement that I sent over when we agreed to give her all that money.",en-US,78.21,20.16,1.63,Negative,113,123,10,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Oh.,en-US,13.57,62.58,23.85,Neutral,118,119,1,4,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,123,124,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Part of the agreement is, was a removal reinstalled, so it has to be reinstalled.",en-US,4.94,89.84,5.23,Neutral,124,129,5,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,And I'm trying to keep her from accruing.,en-US,38.22,57.58,4.2,Neutral,130,134,4,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"A big bill is doing this for her. So it, it, she got to sign it.",en-US,2.42,33.28,64.3,Positive,135,142,7,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,139,140,1,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"OK, so listen, this, this is what I need from you because the only person that can give me the OK to sign it because it's in her name is her. Please call her phone. She's at home. I'm in her house, but she's in the back of the house where her phone is. Call her and have that conversation with her and explain it to her.",en-US,11.17,70.97,17.86,Neutral,142,163,21,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Mhm. Right.,en-US,3.94,74.73,21.33,Neutral,151,153,2,4,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,157,158,1,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,I will.,en-US,5.99,52.75,41.26,Neutral,159,159,0,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Because I mean y'all know, yeah, y'all know, we, we went, I mean, well I went above and beyond to give her.",en-US,1.19,18.84,79.97,Positive,161,170,9,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Oh,en-US,11.75,49.62,38.63,Neutral,165,167,2,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,I know you did.,en-US,8.32,74.23,17.45,Neutral,169,170,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Come on, don't make me look, you know, like I'm bogus.",en-US,78.56,19.5,1.95,Negative,170,175,5,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"No, we, we, when we, that we don't want to do, so that's the reason why I said.",en-US,53.97,43.08,2.96,Negative,175,179,4,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,So that's not right. It's not right to do that at this point.,en-US,90.51,8.93,0.55,Negative,178,181,3,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"No, it's, no, it's not. So I'm asking you to give her a ring and explain it to her in her in entirety because the what what she saw was from the email was that it said amount due, which is like $*,****.** and she was like, you're not signing nothing.",en-US,42.68,54.55,2.77,Neutral,181,201,20,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Mm.,en-US,8.26,69.18,22.56,Neutral,182,182,0,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,I will.,en-US,5.99,52.75,41.26,Neutral,184,185,1,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,I'm gonna do it right now.,en-US,1.19,70.11,28.7,Neutral,186,188,2,11,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"So she didn't see, she didn't see where that goes to the end. She's not having to pay that.",en-US,39.28,57.42,3.3,Neutral,199,206,7,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,207,208,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"See, just call her babe, cause you can explain it better. I don't, I don't all I told her was I would, I was gonna sign it. She said no. So when she told me no, I told Mr. Shelter I told Dee to call you back. And he tried to ring you twice and he didn't get no answer. So he said, babe, I'm gonna wait cause she gonna call me. I said, well, if she don't call you, I said, not cause I said she gonna try to reach back out to Pat.",en-US,45.75,49.77,4.49,Neutral,207,232,25,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,I will.,en-US,5.99,52.75,41.26,Neutral,210,211,1,10,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,221,222,1,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,224,225,1,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Oh yeah.,en-US,5.42,40.71,53.87,Positive,227,227,0,5,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"I said, but you know she sent the email to us. I said, but I wanna make sure that she knows to, to explain it to mama because I me explaining it is one thing, and for me, like I'm being honest, she don't like doing that I got to say cause she feel like I feel like I know everything. You on the other hand, you the company. You can explain it, you get it? Like.",en-US,15.99,74.77,9.25,Neutral,232,253,21,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"I do, right.",en-US,2.77,76.79,20.44,Neutral,235,236,1,3,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,I will.,en-US,5.99,52.75,41.26,Neutral,239,240,1,8,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Mm.,en-US,8.26,69.18,22.56,Neutral,248,248,0,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Mhm. I mean, yeah, I will, but also the uh baby.",en-US,4.29,69.99,25.72,Neutral,250,256,6,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"I, I pray I got your, and, yeah, and that it's wrong. Yeah, and that, that could cause a problem.",en-US,78.89,18.58,2.52,Negative,257,264,7,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,I'm gonna get it done cause I have it.,en-US,1.28,22.28,76.44,Positive,258,260,2,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,I have it,en-US,5.73,66.62,27.65,Neutral,260,261,1,3,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"And see, I don't want it to be a problem on nobody in. That's why I said just if you explain it to her properly because maybe.",en-US,32.6,62.25,5.16,Neutral,264,273,9,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,You don't need to go through that.,en-US,78.24,19.74,2.02,Negative,265,267,2,1,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,Mm mm.,en-US,6.55,77.44,16.01,Neutral,268,269,1,2,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"Because don't you know, yeah, I'm gonna do it. I'm gonna do it. I, I, I'm gonna call her now and",en-US,1.22,22.37,76.41,Positive,271,278,7,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,"Yes ma'am, please do.",en-US,1.6,27.46,70.94,Positive,278,279,1,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,AGENT,"We'll go from there. OK, baby, bye-bye.",en-US,5.36,63.36,31.28,Neutral,279,281,2,0,2025-03-10 05:48:58.098802
+eb2b4ae1-c8b1-4c4b-aace-130ceffd9c87,CUSTOMER,Thank you. Bye-bye.,en-US,7.27,44.74,47.99,Positive,281,282,1,0,2025-03-10 05:48:58.098802
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,0,0,0,1,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,"Hey Mitri, this is Ms. Garrett with Posygen on a recorded line. I didn't get a call back or or the the and I checked the email to make sure it went to the Step Foundation, and it did.",en-US,21.42,76.22,2.36,Neutral,1,15,14,1,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Can y'all check to make sure it's there?,en-US,1.95,93.35,4.7,Neutral,16,18,2,6,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,"Can you hear me, Matrix?",en-US,1.84,83.91,14.25,Neutral,24,25,1,3,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,28,29,1,5,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,"Demetri, can you hear me?",en-US,2.83,78.76,18.41,Neutral,34,36,2,6,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Hello.,en-US,2.23,42.53,55.25,Positive,42,43,1,3,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Dmitri,en-US,9.08,69.03,21.89,Neutral,46,47,1,4,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Dimitri.,en-US,2.63,82.88,14.49,Neutral,51,52,1,2,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,I don't know what's wrong.,en-US,73.02,25.75,1.23,Negative,54,57,3,1,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,58,59,1,1,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,Uh hello?,en-US,2.7,86.95,10.35,Neutral,60,63,3,2,2025-03-10 05:49:01.674816
+018eb319-f379-4de6-ba5f-9d1fd79ee5d9,AGENT,You you gonna hang up and call you back cause I can't hear anything.,en-US,58.25,38.95,2.8,Negative,65,69,4,0,2025-03-10 05:49:01.674816
+bcfde1f5-af1c-4632-83b8-586f0edafb47,CUSTOMER,Please leave your message for ***-***-****.,en-US,4.0,88.34,7.67,Neutral,2,9,7,2,2025-03-10 05:49:04.551858
+bcfde1f5-af1c-4632-83b8-586f0edafb47,AGENT,"Hello, my name is Jorge Lopez. I'm here calling from Posage and Solar. I was trying to reach out to Mr. Frederick Miller regarding an email that was sent over here. I'm, uh, from the **th of February. Uh, I'm here just letting you know that we received, uh, you had questions regarding, uh, the Pennsylvania tax credit.",en-US,2.87,89.01,8.12,Neutral,11,32,21,0,2025-03-10 05:49:04.551858
+bcfde1f5-af1c-4632-83b8-586f0edafb47,AGENT,"Uh, uh, be advised to get more information regarding to your, uh, to your, to your tax credit. Uh, please, uh, reach out to your tax advisor to see if you're eligible for tax credit associated with your positive or system. If you have any more further questions, please give us a call back at *-***-***-****. Once again, that's *-******-****. Thank you.",en-US,3.49,88.05,8.46,Neutral,32,60,28,0,2025-03-10 05:49:04.551858
+dd80900b-b218-47f0-b34f-61836dcb2d21,CUSTOMER,Please leave your message for ****.,en-US,3.35,88.59,8.06,Neutral,2,6,4,0,2025-03-10 05:49:07.054091
+335809ab-d269-41c1-903c-8b7fe4e55332,CUSTOMER,Please leave your message for ***-***-****.,en-US,5.13,86.38,8.49,Neutral,2,9,7,1,2025-03-10 05:49:09.521739
+335809ab-d269-41c1-903c-8b7fe4e55332,AGENT,"Hello, my name is Jorge Lopez. I'm here calling from Posit and Solar in regards to your, uh, email of your permit status. If you could please give us a call back at *-***-***-****. Once again, that's *-***-***-****. Thank you.",en-US,3.87,87.08,9.05,Neutral,10,28,18,0,2025-03-10 05:49:09.521739
+cb09915c-6f95-49be-a5fa-a87563d88b1c,CUSTOMER,Please leave your,en-US,45.65,46.4,7.95,Neutral,2,3,1,0,2025-03-10 05:49:11.651369
+caa9ebc0-0617-438d-b8d4-68852915235d,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,0,2025-03-10 05:49:13.684549
+caa9ebc0-0617-438d-b8d4-68852915235d,AGENT,I was gonna pick.,en-US,7.16,78.3,14.53,Neutral,0,0,0,1,2025-03-10 05:49:13.684549
+caa9ebc0-0617-438d-b8d4-68852915235d,AGENT,I leave a voicemail.,en-US,19.02,75.89,5.1,Neutral,1,2,1,0,2025-03-10 05:49:13.684549
+a1d49c2e-6e15-4900-a1fc-e7b60c1a2e94,CUSTOMER,"Sorry, the mailbox is full and there is not enough",en-US,78.88,19.22,1.9,Negative,0,3,3,0,2025-03-10 05:49:16.020519
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,3,3,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Hi, this is Christian from Posit and Solar. Can I speak to Mrs. Charles, please?",en-US,0.92,82.0,17.07,Neutral,1,5,4,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,This is she.,en-US,4.41,84.9,10.68,Neutral,5,6,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Tell you really quickly, uh, we were supposed to be out for you for a service appointment on the *th. I was about *, about * or so days ago. Um, you guys did go and cancel. We're just wondering if you had another date in mind so we can get you rescheduled.",en-US,34.34,62.02,3.64,Neutral,6,17,11,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,There's a problem.,en-US,65.84,32.16,1.99,Negative,7,8,1,6,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,14,16,2,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Well, I didn't even know nobody was coming. That's why I told I asked the fan.",en-US,37.71,55.62,6.67,Neutral,17,20,3,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,I didn't know nothing about it.,en-US,44.11,51.88,4.02,Neutral,21,23,2,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Gotcha, gotcha. Yeah, I'm seeing here looks like.",en-US,3.11,65.06,31.83,Neutral,24,26,2,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Still don't, I don't know what they're coming for, what they, I didn't have no information.",en-US,71.77,26.54,1.69,Negative,25,30,5,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,Mhm. Got you.,en-US,3.13,61.04,35.82,Neutral,31,32,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"And, and that's why I canceled it because I don't know who they spoke to.",en-US,88.02,11.4,0.57,Negative,31,36,5,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"For sure. So I, I do see the, the, the primary name on the account is Mitchell Charles. I'm not sure if it was Mr. Charles who we called in, um, but I do see it looks like dating back to it's about I think.",en-US,1.03,88.38,10.6,Neutral,37,47,10,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,42,42,0,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Mhm.,en-US,7.62,73.91,18.48,Neutral,43,45,2,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Miss, Miss, don't talk to nobody.",en-US,59.55,35.92,4.53,Negative,46,49,3,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"OK, yeah, I'm not sure. Yes, dating back to about late October, maybe early November, um, it did say that at least someone from, from this account had called in to express some concern with, you know, how high the utility bill was, uh, and kind of wanted.",en-US,22.85,73.78,3.37,Neutral,49,62,13,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Nobody.,en-US,18.95,61.72,19.33,Neutral,50,52,2,4,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,56,59,3,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Oh, that's now that's what I did. I did because the bills are high, higher, and I was asking if um if the panels needed to be serviced because nobody's come out to service these panels since we got them.",en-US,52.41,44.64,2.95,Negative,61,76,15,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,64,65,1,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,66,67,1,9,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Got you, got you.",en-US,1.34,30.75,67.91,Positive,76,77,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"And there's some years, and I know one time when I called to pay the bill, the lady said that I needed to upgrade and I'm like, ma'am, I can't talk to you right now about that cause, you know, I need to know how much that is, what it is, uh, you know, whatever the case may be. But I never did get back with anybody.",en-US,72.9,25.74,1.36,Negative,77,94,17,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Got you. Yeah, it looks like about a, about a month or so after that, uh, our diagnostic teams took a look at it. They, you know, verified there was, you know, it was slightly underproducing, um, you know, and they, they sent some things over to our technicians so we can get out there. It looks like that's what they were coming by for to, to come out and in person.",en-US,6.29,84.99,8.73,Neutral,94,110,16,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,99,100,1,5,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Uh huh.,en-US,13.15,78.77,8.08,Neutral,105,106,1,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Oh, OK. And see somebody would have called me or text me or say that, you know, I, I would have kept the appointment, but I wasn't gonna be home and I didn't know what they were coming for. So I have dogs in the yard. They're chained up, but if you look at them, you won't go back to your truck. That's my, my children's dogs cause, you know, me and my daddy, we're not no young spring chicken no more, so they like, oh no, them dogs. I, I tried to get rid of them several times.",en-US,39.13,55.28,5.59,Neutral,108,136,28,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,Right.,en-US,11.43,62.64,25.93,Neutral,113,114,1,8,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,122,122,0,4,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,I got you.,en-US,2.24,25.95,71.81,Positive,126,127,1,9,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,But they tell me no.,en-US,60.2,37.39,2.41,Negative,136,138,2,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,Got you.,en-US,5.37,50.8,43.83,Neutral,137,138,1,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,They take the offer.,en-US,3.22,70.24,26.54,Neutral,139,141,2,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,140,140,0,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"No worries. Yes, so I, I mean, you know, it's not like we, you know.",en-US,3.72,39.88,56.4,Positive,142,145,3,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"OK, so we can reschedule it, but I just need to know prior to it's coming up.",en-US,4.05,82.7,13.25,Neutral,142,150,8,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"OK. Did you, do you have another date in mind? We're coming out on the *th because that was the earliest we have, but I mean, you know, the, the scheduling team did say they can get out there for you as soon as possible. Did you have a date in mind?",en-US,1.2,85.34,13.47,Neutral,150,160,10,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Uh-huh.,en-US,8.11,81.25,10.64,Neutral,155,157,2,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Whatever they y'all have, you know, cause my husband is home every day, all day.",en-US,11.07,62.1,26.83,Neutral,159,164,5,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,160,161,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"Alright, and then",en-US,3.3,76.68,20.02,Neutral,161,162,1,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"OK, got you. So no particular time whenever we can get to you?",en-US,1.68,79.66,18.66,Neutral,164,167,3,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"Yes, sir.",en-US,1.94,56.29,41.76,Neutral,166,168,2,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"OK, alright, sounds good I'll go ahead and let him know. Uh, I said be on the lookout because there should be a text message coming to you soon, uh, that actually lets you know that the date and time that we have kind of solidified our.",en-US,0.56,25.6,73.84,Positive,168,177,9,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,173,174,1,2,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,OK.,en-US,8.54,60.05,31.41,Neutral,176,177,1,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,"OK, oh.",en-US,7.8,76.87,15.34,Neutral,178,181,3,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"All right, thank you much.",en-US,1.19,10.14,88.67,Positive,179,181,2,1,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,You're welcome.,en-US,1.68,15.53,82.79,Positive,182,183,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,AGENT,"All right, you have a good one.",en-US,0.96,5.68,93.36,Positive,183,184,1,0,2025-03-10 05:49:26.540929
+d800ba00-8363-49cc-9aaf-463ba7ee3091,CUSTOMER,Why is she having my phone.,en-US,55.03,43.1,1.86,Negative,184,186,2,0,2025-03-10 05:49:26.540929
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,1,1,0,2,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,This is Yemi wither calling from a recorded line. Am I speaking with Ms. Rosa Toya?,en-US,3.48,93.97,2.55,Neutral,3,9,6,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,May I ask who's calling?,en-US,2.76,91.74,5.5,Neutral,10,11,1,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,"Yes, yeah, with positgen solar.",en-US,0.71,34.95,64.34,Positive,12,14,2,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,Yeah.,en-US,9.89,57.98,32.13,Neutral,13,15,2,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,Yes this is her.,en-US,3.16,67.67,29.17,Neutral,16,17,1,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,"Hi, the reason I'm reaching out to you is because we were made aware that you have a leak on your basement and on your kitchen after our crew from Energy efficiency audits left. I was wondering if we could get more details in regards to the leak, so I can open up a case for you for investigation.",en-US,23.65,73.64,2.71,Neutral,18,34,16,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,He got the best.,en-US,0.61,2.98,96.41,Positive,22,24,2,7,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,Hello,en-US,5.67,41.5,52.83,Positive,31,32,1,2,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"Oh yes. Um, when the guy had, um, when he, when he corked the, the, um, the windows. Now, we never had a leak before he corked. I'm not saying it was his fault, but, but, you know, when he corked, we never had a leak. So when the rain came and it was really, really bad, the rain came, we started getting water in the kitchen and we just got our floors done the night before.",en-US,36.0,55.25,8.75,Neutral,34,58,24,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"And the water came in the kitchen really, really bad. And um I didn't know nothing about the basement until my husband came home. I told him about, about the rain. I had took a um a video, but I was trying to send it to Chris, but it was too big to go to him. Um, he came home, he looked in the basement where he corked that in the basement windows it in, in the back, the gym room in the basement, the water was coming all out the basement windows.",en-US,74.74,23.56,1.71,Negative,59,86,27,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,59,59,0,13,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,72,73,1,11,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK,en-US,9.38,42.41,48.21,Positive,84,84,0,3,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,And I couldn't take the picture for that cause I was already gone.,en-US,66.02,31.79,2.19,Negative,87,89,2,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,88,88,0,2,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"I had left the house. So when I came back, he told me to go in the basement and see where he corked at by the window, um, in the basement. So I saw the water all over the floor in the basement where the two rooms that he corked. And I was like, oh, OK, cause I didn't see that cause I didn't go downstairs. I just saw it coming in and I just saw it coming in the um in the kitchen. No, it didn't, it didn't cut it off. I'm still don't talked to a lady. No, they didn't cut it off the um the elevator didn't come all the way down yet.",en-US,8.58,85.62,5.8,Neutral,90,119,29,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,101,102,1,1,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,Um,en-US,11.8,63.25,24.95,Neutral,103,104,1,7,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,"Right, OK.",en-US,8.49,61.17,30.34,Neutral,111,113,2,8,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"Um, we gave the, for those, those were the, the three places that um my husband saw. I thought, I, I saw for myself in the kitchen because I was getting ready to leave out the house.",en-US,1.12,90.07,8.81,Neutral,121,131,10,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,126,126,0,6,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"And um I had this, and I um",en-US,8.49,81.25,10.26,Neutral,132,134,2,0,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,132,133,1,2,2025-03-10 05:49:36.549136
+a820dd35-b417-4a0f-94de-6931dc6cfd64,CUSTOMER,"I kept hearing all this water, so when I went in the kitchen.",en-US,25.83,68.09,6.08,Neutral,135,138,3,1,2025-03-10 05:49:36.549136
