@@ -1,7 +1,8 @@
 # Google Cloud SDK
 google-cloud-aiplatform
-google-cloud
 google-cloud-dlp
+google-cloud-logging
+google-cloud-secret-manager
 
 # Vertex AI Generative Models
 vertexai

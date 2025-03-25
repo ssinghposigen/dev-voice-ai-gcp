@@ -3,7 +3,7 @@ export PROJECT_ID="dev-posigen"
 export LOCATION="us-central1"
 export REPO_NAME="dev-voiceai"
 export IMAGE_NAME="dev-voice-ai-docker-image"
-export TAG="dev-3"
+export TAG="dev-4"
 
 # Create the repository
 gcloud artifacts repositories create $REPO_NAME \
@@ -15,7 +15,8 @@ gcloud artifacts repositories create $REPO_NAME \
 gcloud auth configure-docker $LOCATION-docker.pkg.dev
 
 # Build the image with appropriate tag
-docker buildx build --platform linux/amd64 -t $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG .
+# docker buildx build --platform linux/amd64 -t $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG .
+docker buildx build -t $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG .
 
 # Push to Artifact Registry
 docker push $LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$IMAGE_NAME:$TAG
