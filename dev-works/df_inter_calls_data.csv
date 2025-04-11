@@ -1,0 +1,1620 @@
+CONTACT_ID,CALL_TEXT,CALL_SUMMARY,TOPIC,CATEGORY,SUB_CATEGORY,AGENT_COACHING,AGENT_SPEECH_SPEED,CUSTOMER_SPEECH_SPEED,TOTAL_TALKTIME_AGENT_SECOND,TOTAL_TALKTIME_CUSTOMER_SECOND,TOTAL_TALKTIME_CALL_SECOND,TOTAL_DURATION_CALL_SECOND,TOTAL_DEAD_AIR_CALL_SECOND,CALL_LANGUAGE,CALL_S3_URI,AC_LAST_MODIFIED_DATE
+a0604caf-9cef-48ca-b815-cdbbc4db1633,"Hello, thank you for calling GNL Welding Service and repair. I'm sorry we're unavailable to take your call. Please leave your name, number, and a detailed message, and someone will return your call as soon as possible. Thank you. The mailbox is full and cannot accept any messages at this time. Goodbye.",The call was directed to voicemail. The voicemail box was full and unable to accept any new messages. No interaction with a live agent occurred.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Voicemail box full
+  - Lack of alternative contact method
+  - Missed opportunity for customer interaction
+specific_recommendations:
+  - Monitor voicemail box regularly and empty frequently
+  - Implement a system to alert when voicemail is full
+  - Consider adding an overflow voicemail or alternative contact number
+  - Ensure prompt return calls to customers
+skill_development_focus:
+  - Call handling
+  - Customer service
+  - Communication",0,156,0,19,19,23,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a0604caf-9cef-48ca-b815-cdbbc4db1633_20250407T22:58_UTC.wav,2025-04-07 22:58:48
+cf6c558b-b662-41df-9bb7-40e6021600ee,"Yeah, Jack. Hello, we are not available now. Please call again. Thank you for your call. Memory full","The call was unanswered due to a full voicemail box.  The caller, Jack, reached a voicemail message indicating unavailability. The system's voicemail was full.",Unanswered Call - Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Voicemail system monitoring
+  - Proactive voicemail management
+  - Regular voicemail box capacity checks
+specific_recommendations:
+  - Implement regular checks of voicemail capacity.
+  - Establish a process for timely voicemail deletion or overflow management.
+  - Consider using a system with automatic notification of full voicemail boxes.
+  - Investigate alternative voicemail solutions to prevent future issues.
+skill_development_focus:
+  - System maintenance
+  - Problem-solving
+  - Customer service technology",194,132,0,7,7,12,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/cf6c558b-b662-41df-9bb7-40e6021600ee_20250407T22:56_UTC.wav,2025-04-07 22:56:01
+58b60fd8-3994-44c1-8d01-7682c86495a0,"Your call has been forwarded to an automatic voice message system. Chan. is not available at the tone, please record your message. When you have finished recording you may hang up or press one for more options.","The call was answered by an automated voicemail system. The agent, Chan, was unavailable.  The caller left a message. No specific details about the message were provided.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,160,0,13,13,14,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/58b60fd8-3994-44c1-8d01-7682c86495a0_20250407T22:54_UTC.wav,2025-04-07 22:54:19
+e936dacb-7470-4aca-a330-d51efe4bdda7,Hello? Closeo carcase. Hello.,The call was unsuccessful. The agent received a garbled response and likely did not connect with the intended party.  The call was brief and did not lead to any meaningful interaction.,Unsuccessful Call Attempt,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Call clarity and connection verification
+  - Proactive caller identification and verification
+  - Handling garbled or unclear connections
+specific_recommendations:
+  - Implement a more robust call connection protocol
+  - Clarify the caller's identity and reason for calling early in the conversation
+  - Train on strategies for handling poor call quality
+  - Review and update any communication systems or equipment
+skill_development_focus:
+  - Effective communication in challenging situations
+  - Proactive troubleshooting of technical issues
+  - Call handling procedures",53,72,2,1,3,5,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e936dacb-7470-4aca-a330-d51efe4bdda7_20250407T22:38_UTC.wav,2025-04-07 22:38:06
+c86ad7f6-73e9-40f7-95f6-ddcb22b110c6,"Call has been forwarded to an automated voice messaging system. ***-***-**** is not available. At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",The call was answered by an automated voicemail system. The recipient was unavailable.  A message could be left. No conversation occurred between the caller and a representative.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,113,0,18,18,20,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/c86ad7f6-73e9-40f7-95f6-ddcb22b110c6_20250407T22:36_UTC.wav,2025-04-07 22:36:25
+593a963b-ac8e-471d-adb5-be38634c0de2,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was directed to voicemail. The voicemail box was full and unable to accept any messages.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Mailbox maintenance
+  - Call routing
+  - Voicemail capacity
+specific_recommendations:
+  - Regularly check and clear voicemails
+  - Review call routing and forwarding protocols
+  - Increase voicemail capacity or implement alternative solutions
+  - Implement a notification system for full voicemails
+skill_development_focus:
+  - Communication
+  - Technology
+  - Problem Solving",0,108,0,15,15,17,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/593a963b-ac8e-471d-adb5-be38634c0de2_20250407T22:34_UTC.wav,2025-04-07 22:34:59
+17228774-5087-443d-bf13-5503d010d7e9,"I'm sorry, but the person you called has a voicemail box that has not been set up yet. Goodbye.",The call was unsuccessful. The recipient's voicemail box was not set up. The call ended.,Unsuccessful call attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - No specific agent action needed in this case.
+  - 
+  - 
+specific_recommendations:
+  - Ensure voicemail boxes are properly set up for all agents.
+  - Review call routing procedures to prevent calls from reaching unconfigured voicemail boxes.
+  - 
+  - 
+skill_development_focus:
+  - Call handling
+  - Troubleshooting
+  -",0,187,0,6,6,7,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/17228774-5087-443d-bf13-5503d010d7e9_20250407T22:33_UTC.wav,2025-04-07 22:33:37
+496f45e3-02ef-4043-9ce8-7bec1c49251e,"Hello. Hi, this is Alvario from Position in Sola on a recording line. Can I speak with","The call was received on a recording line.  The caller, Alvario, attempted to reach someone at the company. The call transcript is incomplete and does not provide enough information to determine the purpose of the call.",Unsuccessful Contact,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Improve call handling procedures for recording lines
+  - Enhance call screening and routing to reduce unsuccessful contacts
+  - Implement a more comprehensive system for tracking and managing incoming calls
+specific_recommendations:
+  - Review and update call handling protocols
+  - Investigate potential improvements to the phone system
+  - Train staff on proper voicemail procedures
+  - Analyze call data to identify trends and areas for improvement
+skill_development_focus:
+  - Effective communication
+  - Call handling techniques
+  - Problem-solving",184,188,5,0,5,6,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/496f45e3-02ef-4043-9ce8-7bec1c49251e_20250407T22:31_UTC.wav,2025-04-07 22:31:46
+9d25c685-c5ca-4f63-afcd-c95f93b1bb83,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Good afternoon. This is Mary calling on behalf of Pathogen and partnership. With EMT Solar I am calling to speak with Christina. When you have time, can you please just give me a call back at *-*****-*****. Thank you.","The caller, Mary from Pathogen and Partnership, left a voicemail message for Christina at EMT Solar.  The message requested a return call at the number provided. The call was unsuccessful.",Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",112,206,20,9,30,32,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/9d25c685-c5ca-4f63-afcd-c95f93b1bb83_20250407T22:30_UTC.wav,2025-04-07 22:30:56
+77240c4c-37dd-4424-88cc-fadbdac527dd,Your call has been forwarded to an automated voice messaging system. ********** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was forwarded to voicemail. The voicemail box was full and unable to accept messages.,Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Voicemail box monitoring
+  - Mailbox capacity management
+  - Call routing efficiency
+specific_recommendations:
+  - Implement a system for regular voicemail box checks.
+  - Increase voicemail box capacity or implement a notification system for near-full capacity.
+  - Review and optimize call routing processes to prevent frequent full voicemails.
+  - Consider alternative methods for handling high call volume.
+skill_development_focus:
+  - Communication
+  - Time Management
+  - Problem Solving",0,106,0,15,15,17,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/77240c4c-37dd-4424-88cc-fadbdac527dd_20250407T22:30_UTC.wav,2025-04-07 22:30:23
+a30cd39f-a46d-4be2-a871-a3d360d8386d,A call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was forwarded to voicemail. The voicemail box was full and unable to accept messages.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Voicemail box management
+  - Call routing optimization
+  - Proactive monitoring of voicemail capacity
+specific_recommendations:
+  - Implement a system to monitor voicemail box capacity and alert when nearing full.
+  - Regularly check and clear full voicemails
+  - Explore alternative call handling solutions to avoid full voicemails.
+  - Review and optimize call routing processes.
+skill_development_focus:
+  - Voicemail management
+  - Proactive problem-solving
+  - Technology utilization",0,103,0,16,16,18,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a30cd39f-a46d-4be2-a871-a3d360d8386d_20250407T22:28_UTC.wav,2025-04-07 22:28:50
+336b064b-7c5c-441d-9c60-fb3747a3598a,"No. Hello, you have",The call was unanswered.  The caller reached voicemail. No interaction with an agent occurred.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",150,153,0,1,1,5,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/336b064b-7c5c-441d-9c60-fb3747a3598a_20250407T22:24_UTC.wav,2025-04-07 22:24:49
+e1250ed1-44b0-462e-a13a-4982ab83c5a3,"Hello? Hello, you have reached ***.",The call reached voicemail.  No conversation took place. The customer did not leave a message.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",58,93,1,3,4,7,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e1250ed1-44b0-462e-a13a-4982ab83c5a3_20250407T22:24_UTC.wav,2025-04-07 22:24:03
+ef9b66cd-7329-44d8-8a43-582797708aff,Your call has been forwarded to an automated voice messaging system. Brandon Stewart II.,"The call was answered by an automated voice messaging system.  The caller, Brandon Stewart II, reached a voicemail. No conversation took place.",Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+improvement_areas:
+specific_recommendations:
+skill_development_focus:",0,146,0,5,5,7,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/ef9b66cd-7329-44d8-8a43-582797708aff_20250407T22:23_UTC.wav,2025-04-07 22:23:03
+f74408e7-fc80-4854-bfd2-1236f203ba87,"A call has been forwarded to an automated voice messaging system. ********** is not available. At the tone, please record your message. When you've finished recording you may hang up or press * for more options. To leave a callback number, press *.",The call was unanswered and reached the automated voicemail system.  The caller was given options to leave a message or a callback number. No interaction with a live agent occurred.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",0,122,0,21,21,22,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f74408e7-fc80-4854-bfd2-1236f203ba87_20250407T22:14_UTC.wav,2025-04-07 22:14:33
+7b2eacce-a9ef-4673-995a-d4dacd2c27c8,"Please leave your message for ******-****. Good afternoon. This is Mary calling on behalf of Passage and Solar in partnership with AVO Services. I am calling to speak with Augustus when you have time, can you please just give me a call back at *-*****-*****. Thank you.","Mary from Passage and Solar, partnered with AVO Services, left a voicemail requesting a callback from Augustus.  The purpose of the call was not specified. The message was clear and professional.",Callback Request,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise message
+  - Professional tone
+  - Accurate identification of company
+improvement_areas:
+  - Did not state the purpose of the call
+  - Call could have included more context
+specific_recommendations:
+  - Clearly state the reason for the callback in future voicemail messages.
+  - Provide a brief overview of the topic to increase call efficiency.
+  - Consider providing alternative contact methods.
+  - Explore using a call tracking system for better data.
+skill_development_focus:
+  - Effective communication
+  - Proactive communication
+  - Time management",112,48,21,7,29,34,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/7b2eacce-a9ef-4673-995a-d4dacd2c27c8_20250407T22:11_UTC.wav,2025-04-07 22:11:29
+3e8ee191-5c87-4b80-9211-e53b6d211917,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with AVO Services. I am calling to speak with Paul. When you have time, can you please just give me a call back at *-*****-*****. Thank you.","The call was a voicemail message left by Mary from Pasagegen Solar, requesting a callback from Paul.  The message included contact information. The initial call was unsuccessful.",Missed Call; Callback Request,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",109,211,22,9,31,32,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/3e8ee191-5c87-4b80-9211-e53b6d211917_20250407T22:05_UTC.wav,2025-04-07 22:05:37
+02cebabe-0210-4a49-9cc2-5988cab02883,"Your call has been forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. Good afternoon. This is Mary calling on behalf of Passagegen Solar in partnership with AVO Services. I am calling to speak with James. When you have time, can you please just give me a call back at *-*****-*****. Thank you.",The call was unanswered and went to voicemail.  A message was left by Mary from Passagegen Solar requesting a callback from James at *-*****-*****. The purpose of the call was not specified in the voicemail.,Unsuccessful Contact Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - Left a clear and concise voicemail message
+  - Identified herself and her company
+  - Provided a callback number
+improvement_areas:
+  - Did not state the purpose of the call in the voicemail
+  - Voicemail message may benefit from specifying a timeframe for callback
+  - Could consider alternative contact methods
+specific_recommendations:
+  - Include the reason for the call in future voicemail messages
+  - Suggest a specific time range for the callback (e.g., 'Please call back by end of day')
+  - Explore using email or other communication channels for initial contact
+skill_development_focus:
+  - Effective voicemail communication
+  - Contact strategy optimization
+  - Multi-channel communication techniques",112,123,21,18,39,40,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/02cebabe-0210-4a49-9cc2-5988cab02883_20250407T22:02_UTC.wav,2025-04-07 22:02:48
+801c86be-75d6-4366-8167-b9ad0a7c92e9,"Hi, please leave a message and I'll get back to you as soon as I can thanks. The mailbox is full and cannot accept any messages at this time. Goodbye.",The call was unsuccessful. The voicemail box was full and unable to accept any new messages.,Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Full voicemail box
+  - Regularly check and clear voicemail
+  - Implement a system for managing voicemail messages
+specific_recommendations:
+  - Check voicemail frequently and delete old messages
+  - Increase voicemail box capacity or use alternative message system
+  - Set up voicemail notifications to alert to full box
+  - Provide an alternative contact method on voicemail greeting
+skill_development_focus:
+  - Voicemail management
+  - Communication protocols
+  - Customer service efficiency",0,202,0,8,8,10,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/801c86be-75d6-4366-8167-b9ad0a7c92e9_20250407T22:01_UTC.wav,2025-04-07 22:01:36
+c6c1dbd6-b91e-420f-a452-c01cb556d0e0,"Hello? Hi, this is Alvaro from Pulsation Solar. Can I","The call was answered by Alvaro from Pulsation Solar.  The transcript is incomplete, providing insufficient information to determine the call's purpose or outcome.  Further details are needed to provide a comprehensive summary.",Unknown,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Complete call recording
+  - Improve call handling procedures
+  - Ensure proper call connection
+specific_recommendations:
+  - Record the entire call
+  - Implement measures to prevent dropped calls
+  - Establish a process for handling incomplete calls
+  - Review call protocols
+skill_development_focus:
+  - Call handling
+  - Communication
+  - Problem-solving",122,66,4,0,5,5,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/c6c1dbd6-b91e-420f-a452-c01cb556d0e0_20250407T22:00_UTC.wav,2025-04-07 22:00:52
+a4437b5c-b97e-43de-9ba2-2ae4338a16b5,Please leave your message for ***. Hello.,The call went straight to voicemail. No conversation occurred between the agent and the customer.  The customer did not leave a detailed message.,Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",73,106,0,3,4,5,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a4437b5c-b97e-43de-9ba2-2ae4338a16b5_20250407T22:00_UTC.wav,2025-04-07 22:00:44
+88d3ea79-b615-4563-b318-0b9df8c4de86,Reason Please leave your message for,The call went straight to voicemail. No conversation occurred.  The reason for the call is unknown.  No customer interaction took place.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",94,152,0,1,2,4,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/88d3ea79-b615-4563-b318-0b9df8c4de86_20250407T22:00_UTC.wav,2025-04-07 22:00:16
+ae7133fa-b53f-4ae8-97f7-1628b9719d6f,Please leave your message for Please.,The call went straight to voicemail. No conversation took place.  The agent did not answer the call. No customer interaction occurred.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Answering incoming calls promptly
+  - Improving call handling efficiency
+  - Reducing missed calls
+specific_recommendations:
+  - Ensure the phone is always attended during business hours
+  - Implement a call-handling strategy to minimize missed calls
+  - Consider using a call-waiting system or forwarding calls to a backup agent
+  - Review call center policies and procedures to identify opportunities for improvement
+skill_development_focus:
+  - Call handling skills
+  - Time management
+  - Customer service",34,155,1,1,3,4,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/ae7133fa-b53f-4ae8-97f7-1628b9719d6f_20250407T21:59_UTC.wav,2025-04-07 21:59:46
+184ab1ff-c6f4-44c3-b296-c0e54e73d99b,"Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. At the tone, please record your message. When you've finished recording you may hang up or press one for more options. Good afternoon. This is Mary calling on behalf of Pathogen in partnership with Lifestyle Solar. I am calling to speak with Eric. When you have time, can you please just give me a call back at *-*****-*****. Thank you.",The call was unanswered and went to voicemail. Mary left a message requesting a callback regarding a matter related to Pathogen in partnership with Lifestyle Solar.,Missed Call/Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",110,113,21,19,40,42,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/184ab1ff-c6f4-44c3-b296-c0e54e73d99b_20250407T21:59_UTC.wav,2025-04-07 21:59:21
+777526a4-8e75-4cb0-bded-af85bade32a5,"Welcome to this voicemail. ***-***-**** is not available. Please leave your message after the tone. After you have finished your message, just hang up, or to hear more options, please press one.",The call reached voicemail.  The agent was unavailable to answer the call. No message was left by the caller. The voicemail system provided options to the caller.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,122,0,15,15,17,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/777526a4-8e75-4cb0-bded-af85bade32a5_20250407T21:58_UTC.wav,2025-04-07 21:58:44
+eb949f1b-0602-463e-93ea-69933e1c356e,"I'm sorry, but the person you called has a voicemail box that has not been set up yet. Goodbye.","The call was unsuccessful. The recipient's voicemail box was not set up, resulting in the call going directly to a message indicating this.",Unsuccessful Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,189,0,6,6,7,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/eb949f1b-0602-463e-93ea-69933e1c356e_20250407T21:57_UTC.wav,2025-04-07 21:57:37
+0f655265-687d-45d3-accd-620fd46223da,"has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Good afternoon. This is Mary calling on behalf of Passagegen in partnership with the Lifestyle Solar. I am calling to speak with Brian. When you have time, can you please just give me a call back at *-*****-*****. Thank you.","The caller, Mary from Passagegen, reached a voicemail.  She left a message requesting a callback from Brian regarding a matter related to Lifestyle Solar.  The call did not connect with the intended recipient.",Missed Call - Callback Request,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional identification
+  - Provided callback number
+improvement_areas:
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+specific_recommendations:
+  - Ensure accurate contact information is used
+  - Consider alternative contact methods if voicemail is consistently reached
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+skill_development_focus:
+  - Time management
+  - Contact strategy
+  - None applicable for a voicemail",119,180,20,10,30,31,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/0f655265-687d-45d3-accd-620fd46223da_20250407T21:56_UTC.wav,2025-04-07 21:56:52
+3ce13e24-e14f-4cd1-a19e-6b098fcec619,"Please leave your message for ***-***-****. Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with New York State Solar. I am calling to speak with Bao May. When you have time, can you please just give me a call back at *-*****-*-****. Thank you.","The call was a voicemail message left by Mary from Pasagegen Solar, requesting a callback from the recipient. The message included the caller's name, company affiliation, and contact number.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise message
+  - Professional tone
+  - Provided all necessary contact information
+improvement_areas:
+  - None
+  - None
+  - None
+specific_recommendations:
+  - None
+  - None
+  - None
+  - None
+skill_development_focus:
+  - None
+  - None
+  - None",125,46,20,7,28,33,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/3ce13e24-e14f-4cd1-a19e-6b098fcec619_20250407T21:54_UTC.wav,2025-04-07 21:54:47
+751a66ad-cc67-4895-aae7-9c780c680526,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. And you just The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was directed to voicemail. The mailbox was full and unable to accept any new messages.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Mailbox management
+  - Call routing
+  - 
+specific_recommendations:
+  - Ensure voicemails are regularly checked and cleared to allow for new messages.
+  - Review call forwarding settings to ensure proper routing and avoid full voicemails.
+  - Implement a system for monitoring voicemail capacity and automated alerts.
+  - 
+skill_development_focus:
+  - Proactive voicemail management
+  - Call handling best practices
+  -",254,100,0,16,17,17,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/751a66ad-cc67-4895-aae7-9c780c680526_20250407T21:54_UTC.wav,2025-04-07 21:54:06
+2928f13e-e174-4b48-a0de-b467a956e87d,Your call has been forwarded to an automated voice messaging system. ********** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,"The call was directed to voicemail. The voicemail inbox was full, preventing message recording.",Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Monitor voicemail box capacity
+  - Implement a system to alert when voicemail is nearing capacity
+  - Establish a procedure for handling full voicemail situations
+specific_recommendations:
+  - Regularly check voicemail storage
+  - Set up voicemail alerts
+  - Provide alternative contact methods when voicemail is unavailable
+  - Implement a voicemail overflow system
+skill_development_focus:
+  - Proactive system management
+  - Problem anticipation and resolution
+  - Customer service contingency planning",0,104,0,16,16,17,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/2928f13e-e174-4b48-a0de-b467a956e87d_20250407T21:53_UTC.wav,2025-04-07 21:53:38
+76da8096-6a17-4e7c-b754-af92f07ce656,"Hello. Turner Hello. Hi, Ms. Turner. Ms. Turner. Can you hear me? This is your account manager from Passenger Solar on a recorded line. How are you? Uh Oh Hello?","The call likely began with an attempt to contact a customer.  Initial connection was unclear; there was difficulty establishing clear communication. The call ended abruptly, with the customer's response unclear.",Customer Contact Attempt,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Identified customer
+  - 
+  - 
+improvement_areas:
+  - Call initiation and audio clarity
+  - Troubleshooting connection issues
+  - Confirming customer understanding
+specific_recommendations:
+  - Verify clear audio connection at the start
+  - Implement strategies to address connection drops
+  - Use a clearer, more concise introduction
+  - Attempt callback if connection is lost
+skill_development_focus:
+  - Communication Skills
+  - Technical Troubleshooting
+  - Call Management",157,79,9,3,12,25,13,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/76da8096-6a17-4e7c-b754-af92f07ce656_20250407T21:52_UTC.wav,2025-04-07 21:52:27
+4ae44c37-d4dd-46cc-97f8-6f5faa14384f,"Call has been forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with Power Energy Solutions. I am calling to speak with Antoinette. When you have time, can you please just give me a call back at one. ***-***-****. Thank you.","The call reached an automated voicemail system.  A message was left by Mary from Pasagegen Solar, requesting a callback from Antoinette at a specified number.",Missed Call - Voicemail Left,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional identification of company
+  - Provided callback number
+improvement_areas:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+specific_recommendations:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+skill_development_focus:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message",122,124,20,17,38,39,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4ae44c37-d4dd-46cc-97f8-6f5faa14384f_20250407T21:47_UTC.wav,2025-04-07 21:47:48
+cc7cea44-7eba-4bfd-adf8-61e707b08354,"I'm sorry, but the person you called has a voicemail box that has not been set up yet. Goodbye.",The call was directed to a voicemail box that had not yet been set up.  The caller did not reach a live agent. The call ended automatically.,Voicemail Box Unavailable,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Ensure all voicemail boxes are properly configured.
+  - Investigate the root cause of the missing voicemail setup.
+  - Implement a system to proactively identify and resolve voicemail setup issues.
+specific_recommendations:
+  - Check voicemail system settings
+  - Confirm proper user provisioning
+  - Implement regular system checks for voicemail functionality
+  - Review and update voicemail setup procedures
+skill_development_focus:
+  - Troubleshooting
+  - System administration
+  - Proactive problem solving",0,196,0,5,5,7,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/cc7cea44-7eba-4bfd-adf8-61e707b08354_20250407T21:46_UTC.wav,2025-04-07 21:46:48
+36fc9e62-de54-4eb4-8640-947294865f9e,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Yeah Hello, my name is Leo with Posygen Solar in partnership with Power Energy Solutions. Uh, please give us a call to ***-***-**** in reference to your account. Thank you and have a great day.","The call was forwarded to voicemail.  A message was left by Leo with Posygen Solar, providing a callback number and referencing the account.",Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional tone
+  - Provided callback number and account reference
+improvement_areas:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+specific_recommendations:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+skill_development_focus:
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message
+  - None applicable for a voicemail message",138,182,15,10,25,26,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/36fc9e62-de54-4eb4-8640-947294865f9e_20250407T21:46_UTC.wav,2025-04-07 21:46:32
+72abdd6e-7261-4661-b8ff-3cbf3dc1e0b7,"Hi, you've reached the voicemail Tony Bullock. I'm sorry I missed your call. Please leave your name and a sweet message, and I'll be sure to return your call. Thank you. Have a nice day. Yeah.",The call went to voicemail.  No message was left by the caller beyond the voicemail greeting.  The agent was unavailable to take the call.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Professional voicemail greeting
+  - 
+  - 
+improvement_areas:
+  - Improve call-back timeliness
+  - Consider offering alternative contact methods
+  - 
+specific_recommendations:
+  - Implement a system for timely voicemail retrieval and return calls
+  - Add a website or email address to the voicemail greeting
+  - Review and update voicemail message regularly
+  - 
+skill_development_focus:
+  - Time management
+  - Communication strategies
+  -",24,228,2,9,11,9,-2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/72abdd6e-7261-4661-b8ff-3cbf3dc1e0b7_20250407T21:46_UTC.wav,2025-04-07 21:46:05
+ee49368f-6d85-4578-b6b4-f921b1afd97b,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. job",The call was unanswered and went to voicemail. No message was left by the caller.  The call recipient was unavailable.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",137,209,0,9,9,9,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/ee49368f-6d85-4578-b6b4-f921b1afd97b_20250407T21:45_UTC.wav,2025-04-07 21:45:13
+705e8a1b-bb65-4f07-af38-0a7c3335ba03,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was directed to voicemail. The voicemail box was full and unable to accept any messages.,Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Voicemail box maintenance
+  - Call routing optimization
+  - 
+specific_recommendations:
+  - Regularly check and clear voicemail messages.
+  - Review and adjust call routing strategy to prevent full voicemails.
+  - Implement a system to notify when voicemail is nearing full capacity.
+  - 
+skill_development_focus:
+  - Time management
+  - System troubleshooting
+  -",0,105,0,16,16,17,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/705e8a1b-bb65-4f07-af38-0a7c3335ba03_20250407T21:43_UTC.wav,2025-04-07 21:43:46
+b46bc8f3-fa23-4686-9e9f-31bf27c8f127,"Hi, you've definitely reached the right person unfortunately at an inconvenient time. However, if you leave a brief message, I'll be sure to get back to you at my earliest convenience. Please have. OK, uh.","The call went to voicemail. The agent's message was polite and professional, indicating they would return the call at their earliest convenience.  No specific inquiry was made by the caller.",Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - Professional and polite voicemail message
+  - Clear indication of intent to return the call
+  - Concise message
+improvement_areas:
+  - Consider providing a more specific timeframe for returning the call
+  - Offer alternative contact methods if possible
+  - Could have offered to take a message including the caller's name and number
+specific_recommendations:
+  - Add a statement specifying a timeframe, such as 'I will return your call within 24 hours'
+  - Train on creating more effective voicemail messages to increase efficiency
+  - Implement a system to track voicemails received and ensure prompt follow-up
+skill_development_focus:
+  - Effective voicemail communication
+  - Time management
+  - Customer service skills",88,157,1,12,14,13,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/b46bc8f3-fa23-4686-9e9f-31bf27c8f127_20250407T21:41_UTC.wav,2025-04-07 21:41:25
+e5440692-4cd3-4e72-9af2-e60abebe5c40,"To yadda errebio Albus on the boss la persona colaque intenta communic carte no tpolegrava to menage desue del to puedegarasinado de gravaro. Hi, this is Mikayla with Posit and Solar in partnership with the EMT Solar. If you could just give me a call back at *-***-***-****. Thank you.",The call was a voicemail left by Mikayla with Posit and Solar.  The message requested a callback at a specified phone number regarding an unspecified issue. The initial portion of the message is unintelligible.,Callback Request,Unsuccessful Contact,Voicemail,"strengths:
+  - Left a clear and concise message
+  - Identified company and partnership
+  - Provided callback number
+improvement_areas:
+  - Improve message clarity in the beginning
+  - Specify reason for callback in message
+  - Ensure message is easily understood
+specific_recommendations:
+  - Rehearse message to ensure clarity
+  - Include a brief explanation for the callback request
+  - Consider using a script to ensure consistency
+  - Record and listen to own voicemails for quality control
+skill_development_focus:
+  - Clear communication
+  - Effective voicemail messaging
+  - Professional phone etiquette",174,116,9,11,21,22,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e5440692-4cd3-4e72-9af2-e60abebe5c40_20250407T21:41_UTC.wav,2025-04-07 21:41:02
+550ba547-7c58-47f6-9442-bdfa15b3bae7,"Call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Good afternoon. This is Mary calling on behalf of Passagen in partnership with Lifestyle Solar. I am calling to speak with Angel. When you have time, can you please just give me a call back at *-*****-*****. Thank you.",The call was forwarded to voicemail.  A message was left by Mary from Passagen/Lifestyle Solar requesting a callback. The purpose of the call was not specified in the message.,Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - Left a clear and concise voicemail message
+  - 
+  - 
+improvement_areas:
+  - Did not state the purpose of the call in the voicemail message
+  - Could improve call-back request by providing a brief summary of the reason for calling
+  - 
+specific_recommendations:
+  - Include a brief explanation of the reason for the call in future voicemail messages.
+  - Consider offering alternative contact methods (e.g., email).
+  - Train on providing more context in voicemail messages.
+  - 
+skill_development_focus:
+  - Effective communication in voicemail messages
+  - Proactive problem-solving
+  -",126,184,18,10,28,30,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/550ba547-7c58-47f6-9442-bdfa15b3bae7_20250407T21:40_UTC.wav,2025-04-07 21:40:42
+9c8f280e-2acd-489c-9441-eff50ab26609,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,"The call was directed to voicemail. The voicemail inbox was full, preventing message delivery.",Voicemail Full,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Monitor voicemail box capacity
+  - Implement a system for notifying when voicemail is full
+  - Establish a process for handling full voicemail situations
+specific_recommendations:
+  - Regularly check voicemail capacity
+  - Set up alerts for low storage space
+  - Develop a protocol for managing full voicemail, such as forwarding calls to an alternative number or providing a notification message
+  - Train staff on how to handle full voicemail messages
+skill_development_focus:
+  - Voicemail Management
+  - Call Handling Protocols
+  - Customer Service Solutions",0,104,0,16,16,17,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/9c8f280e-2acd-489c-9441-eff50ab26609_20250407T21:40_UTC.wav,2025-04-07 21:40:16
+324632c3-b03e-4a35-960d-d8f0d106e7e3,"Please leave your message for Hello. Hello. Sorry, mailbox is full. To send an SMS notification, press *.","The call went straight to voicemail. The mailbox was full, preventing message delivery. An SMS notification option was available.",Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - Mailbox full
+  - Lack of message delivery
+  - Ineffective contact attempt
+specific_recommendations:
+  - Empty voicemail box regularly
+  - Implement a system for monitoring voicemail capacity
+  - Utilize alternative contact methods proactively
+  - Explore call routing solutions to prevent full voicemails
+skill_development_focus:
+  - Communication management
+  - Technology utilization
+  - Proactive customer contact",0,111,0,9,9,14,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/324632c3-b03e-4a35-960d-d8f0d106e7e3_20250407T21:40_UTC.wav,2025-04-07 21:40:04
+be3610f8-d119-45f1-bfc4-3fa7f1ef9f33,"Please leave your message for Hello. Hello. Hey Sorry, mailbox.",The call reached a voicemail. No conversation took place.  The mailbox was full or unavailable.  No message was left.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Call routing and voicemail management
+  - Proactive contact strategy
+  - Mailbox monitoring
+specific_recommendations:
+  - Review voicemail system and ensure adequate storage space.
+  - Implement a strategy for timely voicemail retrieval and response.
+  - Consider alternate contact methods for urgent issues.
+  - Monitor voicemail regularly to avoid missed opportunities
+skill_development_focus:
+  - Communication
+  - Time management
+  - Problem-solving",71,95,0,5,6,11,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/be3610f8-d119-45f1-bfc4-3fa7f1ef9f33_20250407T21:39_UTC.wav,2025-04-07 21:39:37
+eed23f66-9800-4428-8f15-d57129f1dfe3,"Hi, you've reached the phone of Kristen Beverage. Please leave a message and I'll get back to you as soon as possible. Thanks. Hi, this is Mikayla with Passage and Solar in partnership with Solar Holler. If you could just give me a call back at *-***-***-****. Thank you.",The call reached voicemail.  Mikayla from Passage and Solar left a return call request at *-***-***-****.  The initial message indicated the recipient was unavailable.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",176,224,8,6,15,16,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/eed23f66-9800-4428-8f15-d57129f1dfe3_20250407T21:39_UTC.wav,2025-04-07 21:39:30
+7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d,"Thank you for calling G Temple Construction. Please leave your name and a brief message at the tone, and someone will return your call. As soon as possible, thanks for calling and have a great day. At the tone, please record your message. When you have finished recording you may hang up or press one for more options. Good afternoon Mr. Temple. This is Erin with Positgen just following up with you in regards to our last call. You can give me a call back at ***-***-****. Thank you.",The call was a voicemail message from a representative named Erin with Positgen.  The message was a follow-up to a previous call.  The representative left a callback number.,Follow-up call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise message
+  - Professional tone
+  - Provided callback number
+improvement_areas:
+  - No specific improvement areas identified in this voicemail
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",186,167,10,20,30,35,5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d_20250407T21:39_UTC.wav,2025-04-07 21:39:11
+772a4737-2678-4735-8453-8b1326d6f51d,Your call has been forwarded to an automatic voice message system ***-***-**. *****.,The call was forwarded to an automated voicemail system.  No live agent interaction occurred. The customer did not reach a live representative.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+improvement_areas:
+specific_recommendations:
+skill_development_focus:",28,96,2,7,9,7,-2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/772a4737-2678-4735-8453-8b1326d6f51d_20250407T21:36_UTC.wav,2025-04-07 21:36:56
+2fca56a3-a646-465f-8f20-1902d4e5d016,"I'm sorry, the person you are trying to reach has a voicemail box that has not been set up yet. Please try your call again later. Goodbye. But Yeah",The call was unsuccessful. The recipient's voicemail box was not set up.  The caller received a message indicating that they should try again later.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",123,236,0,6,7,8,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/2fca56a3-a646-465f-8f20-1902d4e5d016_20250407T21:36_UTC.wav,2025-04-07 21:36:04
+d7fd369d-3368-4b51-90ed-9ce829e5b926,You're calling Your call has been forwarded to voicemail. The person you're trying to reach is not.,The call was unanswered and went to voicemail.  The recipient was unavailable. No interaction occurred.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",108,229,1,3,5,4,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/d7fd369d-3368-4b51-90ed-9ce829e5b926_20250407T21:35_UTC.wav,2025-04-07 21:35:44
+cb2fc9fb-ff2e-4546-b2b7-aaba1faee30e,"I'm sorry, but the person you called has a voicemail box that has not been set up yet. You called has a voicemail box that's not been set.",The caller reached a voicemail box that had not been set up.  The call was unsuccessful in reaching the intended recipient.  No message could be left.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",242,209,2,5,7,5,-2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/cb2fc9fb-ff2e-4546-b2b7-aaba1faee30e_20250407T21:35_UTC.wav,2025-04-07 21:35:04
+ab4f875a-8cf7-4a34-bbcd-1f798b0165b9,"Your call has been forwarded to an automatic voice message system. ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. Mhm.",The call was answered by an automated voicemail system. The intended recipient was unavailable.  A message could be left. The call ended.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",67,124,0,17,18,17,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/ab4f875a-8cf7-4a34-bbcd-1f798b0165b9_20250407T21:34_UTC.wav,2025-04-07 21:34:34
+7bddc541-1802-4022-97ef-341b42776af9,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Good afternoon. This is Mary calling on behalf of Passagegen in partnership with Lifestyle Solar. I am calling to speak with Jeffrey. When you have time, can you please just give me a call back at *-*****-*****. Thank you.","The call was unanswered and went to voicemail. A message was left by Mary from Passagegen, requesting a callback regarding an unspecified matter.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional identification
+  - Callback number provided
+improvement_areas:
+  - No specific reason for call provided in voicemail
+  - Lack of information for recipient
+  - Could improve call time for better chance of reaching the customer
+specific_recommendations:
+  - Include a brief summary of the call's purpose in future voicemails
+  - Consider scheduling calls strategically to improve contact rates
+  - Explore alternative contact methods if voicemail is consistently unsuccessful
+  - Prioritize calls based on urgency to ensure prompt handling of time-sensitive issues
+skill_development_focus:
+  - Effective communication
+  - Time management
+  - Contact strategy optimization",121,215,19,8,28,29,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/7bddc541-1802-4022-97ef-341b42776af9_20250407T21:34_UTC.wav,2025-04-07 21:34:32
+020473c1-6958-4b53-a68a-1934c29c2bde,"Call has been forwarded to an automated voice messaging system. ***-***-**** is not available. At the tone, please",The call was forwarded to voicemail. The recipient was unavailable.  No interaction with a live agent occurred. The call ended in voicemail.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,80,0,13,13,14,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/020473c1-6958-4b53-a68a-1934c29c2bde_20250407T21:33_UTC.wav,2025-04-07 21:33:13
+f02ff543-4dbe-47f5-b3ba-f810f9aa4d56,Please leave your message for Shelly. You Yeah,The call was directed to voicemail for Shelly.  No conversation occurred between the caller and a representative. The message left is unknown.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",79,59,1,6,7,6,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f02ff543-4dbe-47f5-b3ba-f810f9aa4d56_20250407T21:32_UTC.wav,2025-04-07 21:32:50
+33e94dde-a137-4d00-981a-a9228405f34f,Please leave your message for. Hominaja.,The call went straight to voicemail.  No interaction with an agent occurred. The voicemail message was left for Hominaja.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",0,101,0,3,3,6,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/33e94dde-a137-4d00-981a-a9228405f34f_20250407T21:32_UTC.wav,2025-04-07 21:32:33
+59a6b7bb-e7c9-4a96-ac17-3621c9607478,Your call has been forwarded to an automated voice messaging system. ***-***-****.,The call was directed to an automated voicemail system.  No live agent interaction occurred. The customer did not reach a live agent.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",0,67,0,10,10,11,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/59a6b7bb-e7c9-4a96-ac17-3621c9607478_20250407T21:31_UTC.wav,2025-04-07 21:31:40
+9d3343cc-613f-48ba-ac00-a016a9dacd63,Your call has been forwarded to an automatic voice message system ****. That,The call was answered by an automated voicemail system.  No live agent interaction occurred. The customer did not reach a live representative.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",125,125,0,5,6,5,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/9d3343cc-613f-48ba-ac00-a016a9dacd63_20250407T21:31_UTC.wav,2025-04-07 21:31:05
+4ce55534-6681-4c1e-b23e-0b405b58ecf7,I went. Please leave your message for Do ponder.,The call went to voicemail. No conversation took place.  The customer left a message for Do Ponder.,Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",37,119,3,3,6,7,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4ce55534-6681-4c1e-b23e-0b405b58ecf7_20250407T21:31_UTC.wav,2025-04-07 21:31:01
+494f2349-ef60-44c5-9d1b-755c8b3a4ea0,"Virginia Butcher. Can't take your call now. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options. Hi, this is Mikayla with Passage and Solar in partnership with Solar Holler. If you could just give me a call back at *-***-***-****. Thank you.","The call went to voicemail.  The caller, Mikayla, requested a call back at a provided number. The voicemail message was clear and concise.  The message included company identification.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional tone
+  - Company identification included
+improvement_areas:
+  - None applicable for a voicemail
+specific_recommendations:
+  - Maintain current voicemail practices
+  - Ensure voicemail box is regularly checked
+  - Consider adding call-back timeframe expectations to the message
+skill_development_focus:
+  - None applicable for a voicemail",171,133,9,12,21,24,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/494f2349-ef60-44c5-9d1b-755c8b3a4ea0_20250407T21:30_UTC.wav,2025-04-07 21:30:55
+992d685d-2bce-4a40-8912-1a62019cd687,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hello, this is Passagegen Solar. Please give us a call back at ***-***-**** option two.",The call was unanswered and went to voicemail.  A message was left indicating the caller should call back. The voicemail included the callback number and instructions to select option two.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",103,182,8,10,19,20,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/992d685d-2bce-4a40-8912-1a62019cd687_20250407T21:29_UTC.wav,2025-04-07 21:29:52
+d9701c2c-d49b-4b15-a9fb-378595e4b457,"Hello? Hola? No go, no go. So you come on withlejos.",The call was unsuccessful. The agent attempted to initiate contact but received no response.  The language barrier appears to have been a factor. The call ended abruptly.,Unsuccessful Contact Attempt,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Language proficiency
+  - Call initiation techniques
+  - Handling unsuccessful calls
+specific_recommendations:
+  - Improve multilingual communication skills, particularly Spanish
+  - Utilize clearer and more concise language for initial contact
+  - Implement strategies for handling communication difficulties
+  - Employ various contact methods to enhance connection success
+skill_development_focus:
+  - Multilingual communication
+  - Call handling techniques
+  - Problem-solving",0,146,0,4,4,16,12,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/d9701c2c-d49b-4b15-a9fb-378595e4b457_20250407T21:29_UTC.wav,2025-04-07 21:29:39
+4ade2690-85b4-4143-89b6-feaa66ba08de,"Still in there? Hello? Hello, this is Corey with Pay. Anyone there? Hello.","The call was unsuccessful. The agent, Corey, attempted to connect with the customer but received no response.  The call likely ended due to the customer not answering or being unavailable.  No conversation took place.",Unsuccessful Call Attempt,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Agent identified themselves clearly.
+  - 
+  - 
+improvement_areas:
+  - Improve call handling to better manage situations with no response.
+  - Consider implementing a system for more persistent attempts after initial silence.
+  - Explore using a callback system to increase success rates.
+specific_recommendations:
+  - Try using alternative methods of contact after multiple unsuccessful attempts (e.g., email, text).
+  - Implement a standardized script for handling unanswered calls.
+  - If possible, verify the customer's contact information for accuracy.
+  - Review company protocol on the appropriate number of call attempts.
+skill_development_focus:
+  - Call Handling Techniques
+  - Customer Communication Strategies
+  - Persistence and Follow-Up Procedures",230,0,3,0,3,18,15,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4ade2690-85b4-4143-89b6-feaa66ba08de_20250407T21:29_UTC.wav,2025-04-07 21:29:18
+1ff31ae0-6e11-4787-b4eb-627a88b653d4,"Call has been forwarded to an automated voice messaging system. Charles Kerr is not available. At the tone, please record your message. When you've finished recording you may hang up or press * for more options. To leave a callback number, press *. Hi, my name is Aurelia Posse and Solar. Uh, if you can give me a call back at ***-***-****, that's ***-***-****. Thank you.","The call was answered by an automated voicemail system.  The caller, Aurelia Posse, left a message requesting a callback at a specified phone number.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+improvement_areas:
+specific_recommendations:
+skill_development_focus:",109,174,12,14,27,37,10,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/1ff31ae0-6e11-4787-b4eb-627a88b653d4_20250407T21:26_UTC.wav,2025-04-07 21:26:10
+03b4d9b3-7e81-44b1-8e8f-ceeeb5b54040,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was unsuccessful.  The recipient's voicemail box was full and unable to accept messages.  The caller did not leave a message.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,100,0,16,16,17,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/03b4d9b3-7e81-44b1-8e8f-ceeeb5b54040_20250407T21:24_UTC.wav,2025-04-07 21:24:42
+8ca8ea29-cc60-4dc1-bfa2-b6e8799a6369,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. But",The call reached voicemail. The intended recipient was unavailable.  No message was left by the caller according to the provided transcript.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",109,186,0,7,7,7,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/8ca8ea29-cc60-4dc1-bfa2-b6e8799a6369_20250407T21:24_UTC.wav,2025-04-07 21:24:40
+b4477be6-686b-4446-8c36-f25598cfb7ac,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hi, this is Mikayla with Posit and Solar in partnership with Solar Might Solutions. If you could just give me a call back at *-***-***-****. Thank you.",The call was forwarded to voicemail.  Mikayla from Posit and Solar left a message requesting a call back at *-***-***-****. The initial contact was unsuccessful.,Unsuccessful Call Contact,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear voicemail message
+  - Professional tone
+  - Provided callback number
+improvement_areas:
+  - Unable to reach the customer directly
+  - No specific reason provided for the missed connection
+  - Could improve call-back timing
+specific_recommendations:
+  - Explore better scheduling practices to reduce missed calls
+  - Implement a system for tracking missed calls and reasons
+  - Consider offering alternative contact methods
+  - Suggest a more specific time frame for the callback
+skill_development_focus:
+  - Time Management
+  - Call Handling Techniques
+  - Proactive Communication",162,181,9,10,20,21,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/b4477be6-686b-4446-8c36-f25598cfb7ac_20250407T21:23_UTC.wav,2025-04-07 21:23:35
+a2bf78d8-e291-4303-aafb-4e119fcbef22,"I'm sorry, but the person you called has a voicemail box that has not been set up yet. Goodbye",The call was unsuccessful. The recipient's voicemail box was not yet set up.  The caller received a voicemail message.,Unsuccessful Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,200,0,5,5,7,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a2bf78d8-e291-4303-aafb-4e119fcbef22_20250407T21:23_UTC.wav,2025-04-07 21:23:03
+4e61891f-3d05-470c-9610-69d5fac6cc06,"I'm sorry, the person you are trying to reach has a voicemail box. Yeah",The call was unsuccessful. The caller reached a voicemail box.,Unsuccessful Call,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",134,293,0,2,3,2,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4e61891f-3d05-470c-9610-69d5fac6cc06_20250407T21:20_UTC.wav,2025-04-07 21:20:21
+4c71a5a7-2a5a-457c-8e3b-9a8a50204d5d,Please leave your message for Abel Ramirez.,The call reached voicemail.  No conversation took place. The agent was unavailable.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,126,0,3,3,6,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4c71a5a7-2a5a-457c-8e3b-9a8a50204d5d_20250407T21:18_UTC.wav,2025-04-07 21:18:47
+5c0016ba-43b8-4c93-b7a6-3d8eaf4b2cb7,"Please leave your message for ***-***-****. you asking, why you asking me. For",The call went straight to voicemail.  The caller's message was unclear and fragmented. No specific reason for the call was discernible.,Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Improve call handling to avoid going straight to voicemail
+  - Develop strategies for clearer communication and message taking
+  - Implement a system for tracking and returning missed calls
+specific_recommendations:
+  - Implement a system for managing high call volume
+  - Review and update voicemail greetings for improved clarity
+  - Train on effective call handling techniques and active listening
+  - Ensure adequate staffing levels to reduce missed calls
+skill_development_focus:
+  - Call handling
+  - Communication
+  - Time management",58,46,7,7,15,10,-5,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/5c0016ba-43b8-4c93-b7a6-3d8eaf4b2cb7_20250407T21:15_UTC.wav,2025-04-07 21:15:46
+686be406-63c1-4137-b525-1ff83416c479,"Your call has been forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. It Hi, this is Mikayla with Passage and Solar in partnership with Solar Solutions. If you could just give me a call back at *-***-***-****. Thank you.",The call was answered by an automated voicemail system.  Mikayla with Passage and Solar requested a callback.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",165,126,9,17,27,27,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/686be406-63c1-4137-b525-1ff83416c479_20250407T21:15_UTC.wav,2025-04-07 21:15:40
+be57f1d3-0833-48f1-bb2b-3b18c9cb849f,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hi, this is Mikayla with Passage and Solar in partnership with Solar Howler. If you could just give me a call back at *-***-***-****. Thank you.","The call was answered by voicemail.  The caller, Mikayla from Passage and Solar, requested a callback at *-***-***-****. The intended recipient was unavailable.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",166,214,9,8,18,18,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/be57f1d3-0833-48f1-bb2b-3b18c9cb849f_20250407T21:14_UTC.wav,2025-04-07 21:14:21
+442e5cfb-69af-489e-a437-2136173ce7ae,A call has been forwarded to an automated voice. Sure,The call was answered by an automated voice message.  No interaction with a live agent occurred. The call was likely forwarded to voicemail.,Automated Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",88,233,0,2,2,2,0,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/442e5cfb-69af-489e-a437-2136173ce7ae_20250407T21:12_UTC.wav,2025-04-07 21:12:45
+ca519e8b-2dc2-4c45-bd93-f2ea614616ea,A call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,"The call was directed to voicemail. The voicemail box was full, preventing message delivery.",Unsuccessful call attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,107,0,15,15,17,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/ca519e8b-2dc2-4c45-bd93-f2ea614616ea_20250407T21:10_UTC.wav,2025-04-07 21:10:13
+f488d0d9-e029-49a2-af90-ce3f32811c9e,A call has been forwarded to an automated voice messaging system. ***-***-**** is not available.,"The call was forwarded to voicemail. The intended recipient, ***-***-****, was unavailable.",Unavailable Recipient,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,76,0,11,11,12,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f488d0d9-e029-49a2-af90-ce3f32811c9e_20250407T21:09_UTC.wav,2025-04-07 21:09:51
+e58bdd9c-aee7-46be-b3d7-eef519a95638,Call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The ma,"The call was forwarded to voicemail. The recipient, ***-***-****, was unavailable.",Unavailable Recipient,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",0,73,0,13,13,14,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e58bdd9c-aee7-46be-b3d7-eef519a95638_20250407T21:09_UTC.wav,2025-04-07 21:09:00
+5804e0db-18d9-4e1a-93bf-597f28527678,Please leave your message for Victoria Lofton.,The call was unanswered and went to voicemail.  No interaction with an agent occurred. The voicemail was left for the intended recipient.,Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,112,0,3,3,9,6,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/5804e0db-18d9-4e1a-93bf-597f28527678_20250407T21:08_UTC.wav,2025-04-07 21:08:36
+f84c034f-56c5-4812-bd7e-1cef5474c701,Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. The mailbox is full and cannot accept any messages at this time. Goodbye.,The call was directed to voicemail. The mailbox was full and unable to accept messages.  No interaction with a live agent occurred.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Mailbox management
+  - Call routing efficiency
+  - 
+specific_recommendations:
+  - Implement a system to monitor and clear full voicemails regularly.
+  - Investigate call routing to prevent forwarding to full voicemails.
+  - Consider alternative solutions like call-back features.
+  - 
+skill_development_focus:
+  - Technical troubleshooting
+  - Customer service technology
+  -",0,103,0,16,16,17,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f84c034f-56c5-4812-bd7e-1cef5474c701_20250407T21:07_UTC.wav,2025-04-07 21:07:06
+6473afdb-26a4-4f92-808a-eb35621ce750,"Your call has been forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. We did not get your message.",The call was answered by an automated voicemail system. The caller did not leave a message.,Unsuccessful Contact,Unsuccessful Contact,Voicemail,"strengths:
+improvement_areas:
+specific_recommendations:
+skill_development_focus:",0,130,0,19,19,21,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/6473afdb-26a4-4f92-808a-eb35621ce750_20250407T21:07_UTC.wav,2025-04-07 21:07:00
+4f0bc029-449a-438e-882e-02dde28fed72,Oh hello. Hello,The call began with greetings.  No other information was provided in the transcript. The call was likely brief and inconclusive.,Initial Contact,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Prompt greeting
+  - 
+  - 
+improvement_areas:
+  - Needs to actively engage the caller to determine the purpose of the call.
+  - Requires training on handling brief or disconnected calls.
+  - Should implement strategies to prevent call disconnections.
+specific_recommendations:
+  - Implement a structured opening to gather customer information and needs.
+  - Develop skills in active listening to understand customer intent.
+  - Review call handling protocols to minimize dropped calls.
+  - Practice handling abrupt call terminations effectively.
+skill_development_focus:
+  - Active listening
+  - Call handling protocols
+  - Problem-solving",0,116,0,1,1,2,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4f0bc029-449a-438e-882e-02dde28fed72_20250407T21:06_UTC.wav,2025-04-07 21:06:58
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,Oh my gosh. Thank Please leave your message for I think I did this already. This is,The call was unanswered and went to voicemail.  The caller expressed frustration and implied a previous attempt to leave a message. The message itself was unclear.,Unanswered Call,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - Improve call handling to avoid unanswered calls
+  - Implement a system to track and respond to voicemail messages promptly
+  - Develop clear and concise voicemail greetings
+specific_recommendations:
+  - Review call routing and staffing levels to ensure sufficient coverage
+  - Implement a voicemail monitoring system
+  - Train agents on effective voicemail message techniques
+  - Analyze call patterns to identify peak times and potential staffing needs
+skill_development_focus:
+  - Call Handling
+  - Voicemail Management
+  - Customer Communication",164,180,3,2,5,7,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e3a8e5e7-a9e9-41a6-99e0-4daf937341b2_20250407T21:06_UTC.wav,2025-04-07 21:06:53
+41d0ab57-3900-4903-8f7d-e9874e8690fd,"Your call has been forwarded to an automatic voice message system. ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. Yes, hi, this is Roshanda calling from Posage and Solar. Please give us a call back, toll-free ***-***-****. Again, that number is ***-***-****. This is Posagegen Solar. Yeah If you are satisfied with your message, press one to listen to your, to send your message with no thank you. Your message has been sent. Goodbye. Yeah",The call was directed to voicemail. Roshanda from Posage and Solar left a message requesting a callback at the toll-free number ***-***-****.,Missed Call - Callback Request,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",113,147,15,26,41,45,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/41d0ab57-3900-4903-8f7d-e9874e8690fd_20250407T21:05_UTC.wav,2025-04-07 21:05:48
+f4455cae-7c2a-493c-a03a-dbcb14240bcc,"Your call has been forwarded to an automatic voice message system. ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. OK. Hi, this is Mikayla with Postage and Solar in partnership with Solar Holler. If you could just give me a call back at *-***-***-****. Thank you.","The call was directed to voicemail.  Mikayla from Postage and Solar, in partnership with Solar Holler, requested a callback at a provided number.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",173,128,9,17,26,27,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f4455cae-7c2a-493c-a03a-dbcb14240bcc_20250407T21:04_UTC.wav,2025-04-07 21:04:17
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,"Hello, this is Celeste with Positgen Solar. Who do I have the pleasure of speaking with? Hi Celeste, my name is Amy Garlett Smith. How are you doing today? I'm doing good, Amy how Hello? OK. Are you there? Yes, I'm here, Amy. I probably just over there. It doesn't have sound like it's a good connection. Hello? Hi Celeste, can you hear me? Yes, Amy, I can hear you perfectly. Are you able to hear me? I'm gonna call back. This is not a good connection. Oh, OK. I can hear you. You could call back.","The call experienced significant connectivity issues. The customer, Amy, had difficulty hearing the agent, Celeste.  The call ended prematurely due to poor audio quality. No specific customer issue was discussed.",Call Quality Issues,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Professional greeting
+  - Maintained composure during connection issues
+  - Offered a callback solution
+improvement_areas:
+  - Troubleshooting connectivity issues
+  - Proactive identification of poor connection
+  - Alternative communication methods
+specific_recommendations:
+  - Implement strategies for identifying and addressing poor call quality early
+  - Offer alternative contact methods (e.g., email, text) if connection is unreliable
+  - Develop a procedure for handling dropped calls, including follow-up
+  - Check personal audio equipment and network stability before taking calls
+skill_development_focus:
+  - Communication skills
+  - Technical troubleshooting
+  - Problem-solving",211,233,15,10,26,55,29,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/fdd4cdd6-beda-46ed-8292-08ec4e630cae_20250407T21:03_UTC.wav,2025-04-07 21:03:37
+2e1fd64a-ccca-436c-8a0d-fb79965297c6,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hi, this is Mikayla with Postage and Solar in partnership with New York State Solar. If you could just give me a call back at *-***-***-****. Thank you.",The call was unanswered and went to voicemail.  Mikayla left a message requesting a call back. The message included her name and phone number.,Unsuccessful Contact,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional tone
+  - Included necessary contact information
+improvement_areas:
+  - None applicable for this voicemail
+specific_recommendations:
+  - None applicable for this voicemail
+  - None applicable for this voicemail
+  - None applicable for this voicemail
+  - None applicable for this voicemail
+skill_development_focus:
+  - None applicable for this voicemail
+  - None applicable for this voicemail
+  - None applicable for this voicemail",178,208,9,9,18,19,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/2e1fd64a-ccca-436c-8a0d-fb79965297c6_20250407T21:03_UTC.wav,2025-04-07 21:03:08
+a427bc14-9a5b-4e81-b2dc-9fbd67df6ce2,Please leave your message for Jenny Savera.,The call reached voicemail.  No conversation took place with a live agent.  The caller left a message for Jenny Savera.,Voicemail Message,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",0,107,0,3,3,7,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a427bc14-9a5b-4e81-b2dc-9fbd67df6ce2_20250407T21:00_UTC.wav,2025-04-07 21:00:51
+e9b61ea1-c006-49cb-9019-9205acb0bf8a,"Call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record. Oh, it's honey, I.",The call was unsuccessful. The recipient was unavailable and the call went to voicemail. A voicemail message was left.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",178,178,1,6,8,6,-2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/e9b61ea1-c006-49cb-9019-9205acb0bf8a_20250407T21:00_UTC.wav,2025-04-07 21:00:46
+eceac558-4d4c-45e5-86b0-1d9124b29eac,"Oh. Hello? I have the pleasure of speaking with? Um, hello, I can't hardly hear you. Can you hear me a bit better? Um, no, it still sounds like you're far away. Hello hello? Yes, hello, can you hear me? Um, I can barely hear you. I'm just, you, you still still sound a little low. OK, OK, um, am I able to give you a call back? Uh, I think I'll probably have to res restart my system. Hello? Um, yes, my number here is uh uh ****-***-****. And what's your name? Tanika Blair. OK. I'll give you a call back. Thank you so much. OK, thank you. Mhm.","The call was plagued by significant audio issues, rendering most of the conversation unintelligible.  The agent attempted to troubleshoot the connection but was unsuccessful.  The agent offered to return the call and obtained the caller's phone number.",Call Quality Issues,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Offered to return the call
+  - Obtained caller's phone number
+  - Maintained professionalism despite technical difficulties
+improvement_areas:
+  - Troubleshooting audio issues
+  - Proactive communication regarding connection problems
+  - System checks for audio equipment
+specific_recommendations:
+  - Implement a system for quickly identifying and addressing call quality issues.
+  - Utilize available technology to improve audio quality (e.g., headset, software).
+  - Establish a standardized procedure for handling dropped calls, ensuring follow-up.
+  - Practice strategies for communicating clearly with low-quality connections.
+skill_development_focus:
+  - Technical troubleshooting
+  - Communication skills
+  - Problem-solving",191,147,19,19,39,74,35,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/eceac558-4d4c-45e5-86b0-1d9124b29eac_20250407T21:00_UTC.wav,2025-04-07 21:00:01
+6dc28553-e537-40e9-b398-7a8d791c1d48,"Your call has been forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. Hi, this is Mikayla with Postage and Solar in partnership with Solar Mite Solutions. If you could just give me a call back at *-***-***-****. Thank you.",The call was forwarded to voicemail.  Mikayla from Postage and Solar left a return call request.  The voicemail included a callback number.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Provided callback number
+  - Professional tone
+improvement_areas:
+  - None applicable for a voicemail
+specific_recommendations:
+  - None applicable for a voicemail
+skill_development_focus:
+  - None applicable for a voicemail",160,126,10,17,27,28,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/6dc28553-e537-40e9-b398-7a8d791c1d48_20250407T20:59_UTC.wav,2025-04-07 20:59:20
+309e3a05-4973-434f-ac43-ff4384a4886b,Please leave your message for Tamara Evans.,The call was answered by voicemail. No conversation took place with a live agent.  The caller left a message for Tamara Evans.  No information was exchanged.,Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,129,0,3,3,6,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/309e3a05-4973-434f-ac43-ff4384a4886b_20250407T20:58_UTC.wav,2025-04-07 20:58:38
+506d093b-8a55-4e6b-841b-88099f54351c,"Your forwarded to an automatic voice message system ***-***-**** is not available. At the tone, please record your message. When you have finished recording you may hang up or press * for more options. I'm like, oh my",The call was forwarded to voicemail.  The customer reached an automated message system indicating the intended recipient was unavailable. No message was left by the caller in the transcript provided.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",324,115,0,17,18,17,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/506d093b-8a55-4e6b-841b-88099f54351c_20250407T20:56_UTC.wav,2025-04-07 20:56:56
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,"So Hello? Yes, this is OK I can't hear you. Can you hear me a bit better? No, I can't hear you. Hello, I'm, I'm speaking right in the mic. Hello? Yes. I'm here. You're breaking up. You're sounding broke up. Sorry about that. I think it's something wrong with the signal right now. Yes, I can hear you barely. Can you hear me? Yes, I can hear, I can hear you clearly. I, I have nothing wrong with my signal right now, but can you hear me a little bit better now?",The call experienced significant audio issues due to poor connection.  The agent and caller struggled to understand each other throughout the conversation.  The issue was primarily related to the caller's end and not resolved during the call.,Call Quality Issues,Unsuccessful Contact,Disconnected / Dropped Call,"strengths:
+  - Persistent in attempting communication
+  - Maintained professionalism despite difficulties
+  - Confirmed own audio quality
+improvement_areas:
+  - Proactive troubleshooting of connectivity issues
+  - Exploring alternative communication methods
+  - More efficient communication during poor connection
+specific_recommendations:
+  - Suggest caller try a different phone or location
+  - Offer to reschedule the call for better connectivity
+  - Utilize written communication methods to resolve the issue
+  - Implement better call handling techniques for poor connections
+skill_development_focus:
+  - Troubleshooting communication issues
+  - Alternative communication strategies
+  - Active listening and clarity in poor audio",225,157,17,10,28,54,26,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/d26cfd05-b345-4ef8-a004-b6f1c809c44b_20250407T20:54_UTC.wav,2025-04-07 20:54:25
+2ee219c2-1ffb-49fb-853f-8f0029e796c7,"Message for Hello. Farmananal. Hi, this is Mikayla with Passage and Solar in partnership with Skyline Solar. If you could just give me a call back at *-***-***-****. Thank you.",Mikayla from Passage and Solar left a voicemail message requesting a callback.  The message did not contain any specific details regarding the reason for the call. The callback number was provided.,Missed Call/Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise message
+  - Professional tone
+  - Callback number provided
+improvement_areas:
+  - Lack of context in voicemail message
+  - No indication of urgency
+  - No attempt to schedule a call
+specific_recommendations:
+  - Include a brief summary of the reason for the call in future voicemail messages.
+  - Prioritize calls and indicate urgency where necessary.
+  - Attempt to schedule a specific time for the callback.
+skill_development_focus:
+  - Effective communication
+  - Time management
+  - Call scheduling",159,75,10,2,12,20,8,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/2ee219c2-1ffb-49fb-853f-8f0029e796c7_20250407T20:54_UTC.wav,2025-04-07 20:54:08
+6071c932-c53c-4f03-8bfd-650ef85c9a28,"Your call has been forwarded to an automated voice messaging system. ***-******* is not available. At the tone, please record your message. When you've finished recording you may hang up or press one for more options.","The call was answered by an automated voicemail system. The intended recipient, ***-*******, was unavailable.  The caller was given the option to leave a message.",Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,119,0,18,18,19,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/6071c932-c53c-4f03-8bfd-650ef85c9a28_20250407T20:53_UTC.wav,2025-04-07 20:53:53
+a6c7c349-c111-415d-8a8e-ca40e63fbd66,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. What happened?",The call went straight to voicemail. The intended recipient was unavailable.  No message was left by the caller.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - 
+  - 
+  - 
+improvement_areas:
+  - 
+  - 
+  - 
+specific_recommendations:
+  - 
+  - 
+  - 
+  - 
+skill_development_focus:
+  - 
+  - 
+  -",121,183,0,10,11,10,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/a6c7c349-c111-415d-8a8e-ca40e63fbd66_20250407T20:46_UTC.wav,2025-04-07 20:46:28
+cfddc1b2-0a36-4f24-a7e2-8c9320354daf,"I'm sorry, the person you are trying to reach has a voicemail box that has not been set up yet. Please try your call again later. Goodbye. It was making",The call was unsuccessful. The recipient's voicemail box was not set up.  The caller received a message indicating to try again later. The call ended.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+improvement_areas:
+specific_recommendations:
+skill_development_focus:",186,234,0,6,7,6,-1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/cfddc1b2-0a36-4f24-a7e2-8c9320354daf_20250407T20:45_UTC.wav,2025-04-07 20:45:50
+11bb5dc8-68c3-4e12-ad32-0d7b6cf0fba8,Please leave your message for Sheriff Felton.,The call reached voicemail for Sheriff Felton.  No conversation took place. The recipient did not answer the call.,Voicemail,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,64,0,6,6,10,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/11bb5dc8-68c3-4e12-ad32-0d7b6cf0fba8_20250407T20:45_UTC.wav,2025-04-07 20:45:30
+3982fbdf-8974-45c1-9e74-b0bd516f145c,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hi, good afternoon. This message is for Frederick Boggs. This is Evelyn with Posage and Solar. Please give me a call back at ***-***-****. Thank you and have a great day.",The call was unsuccessful.  The recipient was unavailable and the caller left a voicemail message. The voicemail included a request for a callback.,Unsuccessful Call Attempt,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional tone
+  - Provided callback number
+improvement_areas:
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+specific_recommendations:
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+skill_development_focus:
+  - None applicable for a voicemail
+  - None applicable for a voicemail
+  - None applicable for a voicemail",160,206,11,9,20,22,2,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/3982fbdf-8974-45c1-9e74-b0bd516f145c_20250407T20:43_UTC.wav,2025-04-07 20:43:21
+4d184ba9-8975-4204-b1e1-3a93c9055934,"Your call has been forwarded to an automated voice messaging system. ***-***-**** is not available. At the tone, please record your message. When you've finished recording you may hang up or press one for more options. Yes, hi, Mr. Barbara. This is Rashona calling from Posage and Solar. At your earliest convenience, can you please give us a call back to *-***-***-****. Again, that number is ***-***-****. This is Positgen Solar. If you're satisfied with the message, to send your message with normal delivery, thank you. Your message has been sent.",The call was answered by an automated voicemail system.  Rashona from Posage and Solar left a message requesting a callback from the customer at ***-***-****. The message was successfully sent.,Missed Call,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Provided callback number
+  - Message successfully delivered
+improvement_areas:
+  - None applicable for this voicemail scenario
+specific_recommendations:
+  - None applicable for this voicemail scenario
+skill_development_focus:
+  - None applicable for this voicemail scenario",130,140,16,24,40,43,3,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/4d184ba9-8975-4204-b1e1-3a93c9055934_20250407T20:42_UTC.wav,2025-04-07 20:42:33
+1d5fe74f-0998-426a-abb8-1fec93519547,"Has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up. Hi, good afternoon. This message is for Alfred Ballesteros. This is Evelyn with Posit and Solar. Please give me a call back at ***-***-****. Thank you and have a great day.",The call was forwarded to voicemail. A message was left for the customer by Evelyn with Posit and Solar requesting a callback.,Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - Clear and concise voicemail message
+  - Professional tone
+  - Provided callback number
+improvement_areas:
+  - None applicable for this voicemail interaction
+specific_recommendations:
+  - None applicable for this voicemail interaction
+  - None applicable for this voicemail interaction
+  - None applicable for this voicemail interaction
+  - None applicable for this voicemail interaction
+skill_development_focus:
+  - None applicable for this voicemail interaction
+  - None applicable for this voicemail interaction
+  - None applicable for this voicemail interaction",151,207,12,8,21,22,1,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/1d5fe74f-0998-426a-abb8-1fec93519547_20250407T20:37_UTC.wav,2025-04-07 20:37:16
+f057f2af-623a-4eac-a3c4-d0443529a0a9,Please leave your message for Robert Cooper.,The call was unanswered and went to voicemail.  No interaction with an agent occurred. The message was left for the intended recipient.,Voicemail Message Left,Unsuccessful Contact,Voicemail,"strengths:
+  - N/A
+  - N/A
+  - N/A
+improvement_areas:
+  - N/A
+  - N/A
+  - N/A
+specific_recommendations:
+  - N/A
+  - N/A
+  - N/A
+  - N/A
+skill_development_focus:
+  - N/A
+  - N/A
+  - N/A",0,126,0,3,3,7,4,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/f057f2af-623a-4eac-a3c4-d0443529a0a9_20250407T20:35_UTC.wav,2025-04-07 20:35:50
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,"No Hello? Hi, may I speak to Mrs. McKenzie? Uh, you have the wrong number. Well just so you can be.",The agent attempted to contact a customer. The recipient indicated an incorrect number.,Incorrect Number,Unsuccessful Contact,Incorrect Number,"strengths:
+improvement_areas:
+  - Verify contact information before calling.
+  - Utilize a more efficient system for contact verification.
+  - Employ scripts for handling wrong number situations.
+specific_recommendations:
+  - Double-check contact details against the customer database before initiating calls.
+  - Consider implementing a call verification system.
+  - Develop and practice scripts for politely handling incorrect numbers, including options like confirming details before the call or seeking clarification from supervisors.
+skill_development_focus:
+  - Call verification skills
+  - Script utilization
+  - Handling difficult calls",174,200,4,2,6,12,6,en-US,s3://amazon-connect-39f6aa5d9242/connect/posigen-prod-ac/CallRecordings/2025/04/07/fe9a5252-6d58-4a1e-8532-1c7c8cd47de7_20250407T19:58_UTC.wav,2025-04-07 19:58:27
