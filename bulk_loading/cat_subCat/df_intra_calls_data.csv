@@ -1,0 +1,303 @@
+CONTACT_ID,SPEAKER_TAG,CAPTION,CALL_LANGUAGE,NEGATIVE,NEUTRAL,POSITIVE,SENTIMENT_LABLE,START_TIME_SECOND,END_TIME_SECOND,TIME_SPOKEN_SECOND,TIME_SILENCE_SECOND,LOAD_DATE
+cf6c558b-b662-41df-9bb7-40e6021600ee,AGENT,"Yeah, Jack.",en-US,6.88,67.41,25.71,Neutral,0,0,0,1,2025-04-15 12:50:59.761292
+cf6c558b-b662-41df-9bb7-40e6021600ee,CUSTOMER,"Hello, we are not available now. Please call again. Thank you for your call.",en-US,68.81,29.19,2.0,Negative,1,7,6,4,2025-04-15 12:50:59.761292
+cf6c558b-b662-41df-9bb7-40e6021600ee,CUSTOMER,Memory full,en-US,3.01,42.04,54.95,Positive,11,12,1,0,2025-04-15 12:50:59.761292
+58b60fd8-3994-44c1-8d01-7682c86495a0,CUSTOMER,Your call has been forwarded to an automatic voice message system. Chan.,en-US,1.74,88.37,9.89,Neutral,0,4,4,1,2025-04-15 12:51:02.237195
+58b60fd8-3994-44c1-8d01-7682c86495a0,CUSTOMER,"is not available at the tone, please record your message. When you have finished recording you may hang up or press one for more options.",en-US,10.52,85.78,3.7,Neutral,5,14,9,0,2025-04-15 12:51:02.237195
+e936dacb-7470-4aca-a330-d51efe4bdda7,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,1,2,1,1,2025-04-15 12:51:04.110278
+e936dacb-7470-4aca-a330-d51efe4bdda7,AGENT,Closeo carcase.,en-US,5.34,81.19,13.47,Neutral,3,5,2,0,2025-04-15 12:51:04.110278
+e936dacb-7470-4aca-a330-d51efe4bdda7,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,4,5,1,0,2025-04-15 12:51:04.110278
+c86ad7f6-73e9-40f7-95f6-ddcb22b110c6,CUSTOMER,Call has been forwarded to an automated voice messaging system.,en-US,2.39,89.15,8.46,Neutral,0,3,3,0,2025-04-15 12:51:06.898935
+c86ad7f6-73e9-40f7-95f6-ddcb22b110c6,CUSTOMER,202-758-9684 is not available.,en-US,61.68,36.64,1.67,Negative,3,12,9,1,2025-04-15 12:51:06.898935
+c86ad7f6-73e9-40f7-95f6-ddcb22b110c6,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",en-US,1.37,90.28,8.35,Neutral,13,20,7,0,2025-04-15 12:51:06.898935
+593a963b-ac8e-471d-adb5-be38634c0de2,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:51:08.638457
+593a963b-ac8e-471d-adb5-be38634c0de2,CUSTOMER,202-553-9153 is not available.,en-US,66.71,31.84,1.45,Negative,4,12,8,1,2025-04-15 12:51:08.638457
+593a963b-ac8e-471d-adb5-be38634c0de2,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:51:08.638457
+17228774-5087-443d-bf13-5503d010d7e9,CUSTOMER,"I'm sorry, but the person you called has a voicemail box that has not been set up yet.",en-US,73.63,25.48,0.89,Negative,0,5,5,1,2025-04-15 12:51:10.967771
+17228774-5087-443d-bf13-5503d010d7e9,CUSTOMER,Goodbye.,en-US,21.59,58.58,19.83,Neutral,6,7,1,0,2025-04-15 12:51:10.967771
+496f45e3-02ef-4043-9ce8-7bec1c49251e,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,0,0,1,2025-04-15 12:51:13.211351
+496f45e3-02ef-4043-9ce8-7bec1c49251e,AGENT,"Hi, this is Alvario from Position in Sola on a recording line. Can I speak with",en-US,1.53,87.33,11.14,Neutral,1,6,5,0,2025-04-15 12:51:13.211351
+9d25c685-c5ca-4f63-afcd-c95f93b1bb83,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,1,2025-04-15 12:51:15.842784
+9d25c685-c5ca-4f63-afcd-c95f93b1bb83,AGENT,Good afternoon. This is Mary calling on behalf of Pathogen and partnership.,en-US,0.47,65.14,34.38,Neutral,10,16,6,1,2025-04-15 12:51:15.842784
+9d25c685-c5ca-4f63-afcd-c95f93b1bb83,AGENT,"With EMT Solar I am calling to speak with Christina. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,0.9,78.86,20.24,Neutral,17,32,15,0,2025-04-15 12:51:15.842784
+77240c4c-37dd-4424-88cc-fadbdac527dd,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:51:17.536488
+77240c4c-37dd-4424-88cc-fadbdac527dd,CUSTOMER,3109629154 is not available.,en-US,67.61,30.79,1.6,Negative,4,12,8,1,2025-04-15 12:51:17.536488
+77240c4c-37dd-4424-88cc-fadbdac527dd,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:51:17.536488
+a30cd39f-a46d-4be2-a871-a3d360d8386d,CUSTOMER,A call has been forwarded to an automated voice messaging system.,en-US,1.98,91.42,6.6,Neutral,0,3,3,0,2025-04-15 12:51:19.575195
+a30cd39f-a46d-4be2-a871-a3d360d8386d,CUSTOMER,203-627-3225 is not available.,en-US,61.31,37.21,1.48,Negative,3,12,9,2,2025-04-15 12:51:19.575195
+a30cd39f-a46d-4be2-a871-a3d360d8386d,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,14,18,4,0,2025-04-15 12:51:19.575195
+336b064b-7c5c-441d-9c60-fb3747a3598a,AGENT,No.,en-US,15.85,56.1,28.05,Neutral,0,0,0,4,2025-04-15 12:51:21.632561
+336b064b-7c5c-441d-9c60-fb3747a3598a,CUSTOMER,"Hello, you have",en-US,2.05,67.13,30.82,Neutral,4,5,1,0,2025-04-15 12:51:21.632561
+e1250ed1-44b0-462e-a13a-4982ab83c5a3,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,4,5,1,0,2025-04-15 12:51:23.865174
+e1250ed1-44b0-462e-a13a-4982ab83c5a3,CUSTOMER,"Hello, you have reached 215.",en-US,0.61,61.65,37.74,Neutral,4,7,3,0,2025-04-15 12:51:23.865174
+ef9b66cd-7329-44d8-8a43-582797708aff,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:51:26.137683
+ef9b66cd-7329-44d8-8a43-582797708aff,CUSTOMER,Brandon Stewart II.,en-US,2.09,90.54,7.38,Neutral,4,7,3,0,2025-04-15 12:51:26.137683
+f74408e7-fc80-4854-bfd2-1236f203ba87,CUSTOMER,A call has been forwarded to an automated voice messaging system.,en-US,1.98,91.42,6.6,Neutral,0,3,3,0,2025-04-15 12:51:27.803028
+f74408e7-fc80-4854-bfd2-1236f203ba87,CUSTOMER,2253973715 is not available.,en-US,62.79,35.38,1.82,Negative,3,12,9,1,2025-04-15 12:51:27.803028
+f74408e7-fc80-4854-bfd2-1236f203ba87,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press 1 for more options. To leave a callback number, press 5.",en-US,1.38,91.59,7.03,Neutral,13,22,9,0,2025-04-15 12:51:27.803028
+7b2eacce-a9ef-4673-995a-d4dacd2c27c8,CUSTOMER,Please leave your message for 740802-4896.,en-US,3.76,87.2,9.04,Neutral,2,9,7,2,2025-04-15 12:51:29.900705
+7b2eacce-a9ef-4673-995a-d4dacd2c27c8,AGENT,Good afternoon. This is Mary calling on behalf of Passage and Solar in partnership with AVO Services.,en-US,0.46,77.37,22.17,Neutral,11,18,7,1,2025-04-15 12:51:29.900705
+7b2eacce-a9ef-4673-995a-d4dacd2c27c8,AGENT,"I am calling to speak with Augustus when you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED].",en-US,1.06,86.7,12.24,Neutral,19,33,14,0,2025-04-15 12:51:29.900705
+7b2eacce-a9ef-4673-995a-d4dacd2c27c8,AGENT,Thank you.,en-US,1.88,14.67,83.45,Positive,33,34,1,0,2025-04-15 12:51:29.900705
+3e8ee191-5c87-4b80-9211-e53b6d211917,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,1,2025-04-15 12:51:33.005132
+3e8ee191-5c87-4b80-9211-e53b6d211917,AGENT,"Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with AVO Services. I am calling to speak with Paul. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED].",en-US,0.83,88.51,10.66,Neutral,10,31,21,1,2025-04-15 12:51:33.005132
+3e8ee191-5c87-4b80-9211-e53b6d211917,AGENT,Thank you.,en-US,1.88,14.67,83.45,Positive,32,32,0,0,2025-04-15 12:51:33.005132
+02cebabe-0210-4a49-9cc2-5988cab02883,CUSTOMER,"Your call has been forwarded to an automatic voice message system 207-436-0508 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,30.56,67.53,1.91,Neutral,0,18,18,1,2025-04-15 12:51:35.926217
+02cebabe-0210-4a49-9cc2-5988cab02883,AGENT,"Good afternoon. This is Mary calling on behalf of Passagegen Solar in partnership with AVO Services. I am calling to speak with James. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,0.99,86.27,12.74,Neutral,19,40,21,0,2025-04-15 12:51:35.926217
+801c86be-75d6-4366-8167-b9ad0a7c92e9,CUSTOMER,"Hi, please leave a message and I'll get back to you as soon as I can thanks.",en-US,2.1,64.32,33.58,Neutral,0,4,4,2,2025-04-15 12:51:38.170773
+801c86be-75d6-4366-8167-b9ad0a7c92e9,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,6,10,4,0,2025-04-15 12:51:38.170773
+c6c1dbd6-b91e-420f-a452-c01cb556d0e0,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,0,0,0,1,2025-04-15 12:51:40.473597
+c6c1dbd6-b91e-420f-a452-c01cb556d0e0,AGENT,"Hi, this is Alvaro from Pulsation Solar. Can I",en-US,1.35,84.92,13.73,Neutral,1,5,4,0,2025-04-15 12:51:40.473597
+a4437b5c-b97e-43de-9ba2-2ae4338a16b5,CUSTOMER,Please leave your message for 718.,en-US,2.88,88.34,8.78,Neutral,2,5,3,0,2025-04-15 12:51:42.748904
+a4437b5c-b97e-43de-9ba2-2ae4338a16b5,AGENT,Hello.,en-US,2.23,42.53,55.25,Positive,2,3,1,0,2025-04-15 12:51:42.748904
+88d3ea79-b615-4563-b318-0b9df8c4de86,AGENT,Reason,en-US,14.49,62.08,23.43,Neutral,0,0,0,2,2025-04-15 12:51:44.932236
+88d3ea79-b615-4563-b318-0b9df8c4de86,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,0,2025-04-15 12:51:44.932236
+ae7133fa-b53f-4ae8-97f7-1628b9719d6f,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,0,2025-04-15 12:51:47.215328
+ae7133fa-b53f-4ae8-97f7-1628b9719d6f,AGENT,Please.,en-US,7.84,52.13,40.03,Neutral,2,4,2,0,2025-04-15 12:51:47.215328
+184ab1ff-c6f4-44c3-b296-c0e54e73d99b,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 562-371-4495 is not available.,en-US,40.72,57.76,1.52,Neutral,0,12,12,1,2025-04-15 12:51:49.709589
+184ab1ff-c6f4-44c3-b296-c0e54e73d99b,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",en-US,1.37,90.28,8.35,Neutral,13,20,7,1,2025-04-15 12:51:49.709589
+184ab1ff-c6f4-44c3-b296-c0e54e73d99b,AGENT,"Good afternoon. This is Mary calling on behalf of Pathogen in partnership with Lifestyle Solar. I am calling to speak with Eric. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,0.83,82.79,16.38,Neutral,21,42,21,0,2025-04-15 12:51:49.709589
+777526a4-8e75-4cb0-bded-af85bade32a5,CUSTOMER,Welcome to this voicemail. 504-575-9209 is not available. Please leave your message after the tone.,en-US,35.65,61.61,2.74,Neutral,0,10,10,2,2025-04-15 12:51:51.523291
+777526a4-8e75-4cb0-bded-af85bade32a5,CUSTOMER,"After you have finished your message, just hang up, or to hear more options, please press one.",en-US,6.72,86.8,6.48,Neutral,12,17,5,0,2025-04-15 12:51:51.523291
+eb949f1b-0602-463e-93ea-69933e1c356e,CUSTOMER,"I'm sorry, but the person you called has a voicemail box that has not been set up yet.",en-US,73.63,25.48,0.89,Negative,0,5,5,1,2025-04-15 12:51:53.250134
+eb949f1b-0602-463e-93ea-69933e1c356e,CUSTOMER,Goodbye.,en-US,21.59,58.58,19.83,Neutral,6,7,1,0,2025-04-15 12:51:53.250134
+0f655265-687d-45d3-accd-620fd46223da,CUSTOMER,"has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,66.57,32.24,1.2,Negative,0,10,10,1,2025-04-15 12:51:55.455547
+0f655265-687d-45d3-accd-620fd46223da,AGENT,"Good afternoon. This is Mary calling on behalf of Passagegen in partnership with the Lifestyle Solar. I am calling to speak with Brian. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,0.93,86.64,12.43,Neutral,11,31,20,0,2025-04-15 12:51:55.455547
+3ce13e24-e14f-4cd1-a19e-6b098fcec619,CUSTOMER,Please leave your message for 917-886-7569.,en-US,4.61,85.25,10.14,Neutral,2,10,8,2,2025-04-15 12:51:57.670812
+3ce13e24-e14f-4cd1-a19e-6b098fcec619,AGENT,"Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with [ADDRESS_REDACTED] State Solar. I am calling to speak with Bao May. When you have time, can you please just give me a call back at 1-[ADDRESS_REDACTED]-9-4442.",en-US,0.81,88.88,10.31,Neutral,12,32,20,1,2025-04-15 12:51:57.670812
+3ce13e24-e14f-4cd1-a19e-6b098fcec619,AGENT,Thank you.,en-US,1.88,14.67,83.45,Positive,33,33,0,0,2025-04-15 12:51:57.670812
+751a66ad-cc67-4895-aae7-9c780c680526,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 504-975-3829 is not available.,en-US,47.0,51.72,1.29,Neutral,0,12,12,0,2025-04-15 12:52:00.294180
+751a66ad-cc67-4895-aae7-9c780c680526,AGENT,And you just,en-US,31.11,60.04,8.85,Neutral,0,0,0,13,2025-04-15 12:52:00.294180
+751a66ad-cc67-4895-aae7-9c780c680526,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:52:00.294180
+2928f13e-e174-4b48-a0de-b467a956e87d,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:52:02.255537
+2928f13e-e174-4b48-a0de-b467a956e87d,CUSTOMER,2253973284 is not available.,en-US,60.86,36.7,2.43,Negative,4,12,8,1,2025-04-15 12:52:02.255537
+2928f13e-e174-4b48-a0de-b467a956e87d,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:52:02.255537
+76da8096-6a17-4e7c-b754-af92f07ce656,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,0,1,1,1,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,Turner,en-US,2.85,80.71,16.44,Neutral,2,3,1,0,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,CUSTOMER,Hello.,en-US,2.23,42.53,55.25,Positive,3,4,1,0,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,"Hi, Ms. Turner.",en-US,0.6,61.61,37.79,Neutral,4,5,1,3,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,Ms. Turner.,en-US,1.49,86.83,11.68,Neutral,8,9,1,1,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,Can you hear me?,en-US,1.98,81.77,16.24,Neutral,10,10,0,2,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,This is your account manager from Passenger Solar on a recorded line. How are you?,en-US,1.09,92.38,6.53,Neutral,12,17,5,2,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,CUSTOMER,Uh,en-US,11.27,68.31,20.41,Neutral,19,20,1,2,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,CUSTOMER,Oh,en-US,11.75,49.62,38.63,Neutral,22,22,0,2,2025-04-15 12:52:05.090818
+76da8096-6a17-4e7c-b754-af92f07ce656,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,24,25,1,0,2025-04-15 12:52:05.090818
+4ae44c37-d4dd-46cc-97f8-6f5faa14384f,CUSTOMER,"Call has been forwarded to an automatic voice message system 201-904-1608 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,25.12,72.65,2.24,Neutral,0,17,17,1,2025-04-15 12:52:07.776051
+4ae44c37-d4dd-46cc-97f8-6f5faa14384f,AGENT,"Good afternoon. This is Mary calling on behalf of Pasagegen Solar in partnership with Power Energy Solutions. I am calling to speak with Antoinette. When you have time, can you please just give me a call back at one.",en-US,1.21,90.44,8.35,Neutral,18,32,14,0,2025-04-15 12:52:07.776051
+4ae44c37-d4dd-46cc-97f8-6f5faa14384f,AGENT,888-939-4442. Thank you.,en-US,1.99,43.02,54.99,Positive,32,39,7,0,2025-04-15 12:52:07.776051
+cc7cea44-7eba-4bfd-adf8-61e707b08354,CUSTOMER,"I'm sorry, but the person you called has a voicemail box that has not been set up yet.",en-US,73.63,25.48,0.89,Negative,0,5,5,1,2025-04-15 12:52:10.302960
+cc7cea44-7eba-4bfd-adf8-61e707b08354,CUSTOMER,Goodbye.,en-US,21.59,58.58,19.83,Neutral,6,7,1,0,2025-04-15 12:52:10.302960
+36fc9e62-de54-4eb4-8640-947294865f9e,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,10,10,0,2025-04-15 12:52:12.653812
+36fc9e62-de54-4eb4-8640-947294865f9e,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,0,0,0,12,2025-04-15 12:52:12.653812
+36fc9e62-de54-4eb4-8640-947294865f9e,AGENT,"Hello, my name is Leo with Posygen Solar in partnership with Power Energy Solutions. Uh, please give us a call to 888-939-4442 in reference to your account. Thank you and have a great day.",en-US,0.42,26.3,73.28,Positive,12,26,14,0,2025-04-15 12:52:12.653812
+72abdd6e-7261-4661-b8ff-3cbf3dc1e0b7,CUSTOMER,"Hi, you've reached the voicemail Tony Bullock. I'm sorry I missed your call. Please leave your name and a sweet message, and I'll be sure to return your call. Thank you. Have a nice day.",en-US,5.98,33.37,60.65,Positive,0,9,9,0,2025-04-15 12:52:15.117747
+72abdd6e-7261-4661-b8ff-3cbf3dc1e0b7,AGENT,Yeah.,en-US,9.89,57.98,32.13,Neutral,2,4,2,0,2025-04-15 12:52:15.117747
+ee49368f-6d85-4578-b6b4-f921b1afd97b,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,0,2025-04-15 12:52:17.847458
+ee49368f-6d85-4578-b6b4-f921b1afd97b,AGENT,job,en-US,14.87,59.81,25.32,Neutral,0,0,0,0,2025-04-15 12:52:17.847458
+705e8a1b-bb65-4f07-af38-0a7c3335ba03,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,0,2025-04-15 12:52:19.445473
+705e8a1b-bb65-4f07-af38-0a7c3335ba03,CUSTOMER,504-915-6834 is not available.,en-US,61.43,36.96,1.61,Negative,3,12,9,1,2025-04-15 12:52:19.445473
+705e8a1b-bb65-4f07-af38-0a7c3335ba03,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:52:19.445473
+b46bc8f3-fa23-4686-9e9f-31bf27c8f127,CUSTOMER,"Hi, you've definitely reached the right person unfortunately at an inconvenient time. However, if you leave a brief message, I'll be sure to get back to you at my earliest convenience. Please have.",en-US,9.94,50.58,39.48,Neutral,0,13,13,0,2025-04-15 12:52:21.580055
+b46bc8f3-fa23-4686-9e9f-31bf27c8f127,AGENT,"OK, uh.",en-US,4.64,82.34,13.02,Neutral,5,7,2,0,2025-04-15 12:52:21.580055
+e5440692-4cd3-4e72-9af2-e60abebe5c40,CUSTOMER,To yadda errebio Albus on the boss la persona colaque intenta communic carte no tpolegrava to menage desue del to puedegarasinado de gravaro.,en-US,9.52,79.95,10.53,Neutral,0,12,12,0,2025-04-15 12:52:24.267152
+e5440692-4cd3-4e72-9af2-e60abebe5c40,AGENT,"Hi, this is Mikayla with Posit and Solar in partnership with the EMT Solar. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.02,80.22,18.75,Neutral,12,22,10,0,2025-04-15 12:52:24.267152
+550ba547-7c58-47f6-9442-bdfa15b3bae7,CUSTOMER,"Call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,68.94,29.93,1.13,Negative,0,10,10,1,2025-04-15 12:52:26.929354
+550ba547-7c58-47f6-9442-bdfa15b3bae7,AGENT,"Good afternoon. This is Mary calling on behalf of Passagen in partnership with Lifestyle Solar. I am calling to speak with Angel. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,1.03,83.57,15.4,Neutral,11,30,19,0,2025-04-15 12:52:26.929354
+9c8f280e-2acd-489c-9441-eff50ab26609,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 504-505-2713 is not available.,en-US,50.2,48.55,1.24,Negative,0,12,12,1,2025-04-15 12:52:29.390764
+9c8f280e-2acd-489c-9441-eff50ab26609,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:52:29.390764
+324632c3-b03e-4a35-960d-d8f0d106e7e3,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:52:31.424630
+324632c3-b03e-4a35-960d-d8f0d106e7e3,CUSTOMER,Hello. Hello.,en-US,0.66,22.7,76.65,Positive,5,7,2,2,2025-04-15 12:52:31.424630
+324632c3-b03e-4a35-960d-d8f0d106e7e3,CUSTOMER,"Sorry, mailbox is full. To send an SMS notification, press 5.",en-US,22.36,72.48,5.16,Neutral,9,14,5,0,2025-04-15 12:52:31.424630
+be3610f8-d119-45f1-bfc4-3fa7f1ef9f33,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,2,2025-04-15 12:52:33.799428
+be3610f8-d119-45f1-bfc4-3fa7f1ef9f33,CUSTOMER,Hello. Hello.,en-US,0.66,22.7,76.65,Positive,6,8,2,0,2025-04-15 12:52:33.799428
+be3610f8-d119-45f1-bfc4-3fa7f1ef9f33,AGENT,Hey,en-US,6.39,48.86,44.75,Neutral,7,8,1,2,2025-04-15 12:52:33.799428
+be3610f8-d119-45f1-bfc4-3fa7f1ef9f33,CUSTOMER,"Sorry, mailbox.",en-US,46.5,47.6,5.91,Neutral,10,11,1,0,2025-04-15 12:52:33.799428
+eed23f66-9800-4428-8f15-d57129f1dfe3,CUSTOMER,"Hi, you've reached the phone of Kristen Beverage. Please leave a message and I'll get back to you as soon as possible. Thanks.",en-US,1.53,70.61,27.86,Neutral,0,6,6,1,2025-04-15 12:52:36.367403
+eed23f66-9800-4428-8f15-d57129f1dfe3,AGENT,"Hi, this is Mikayla with Passage and Solar in partnership with Solar Holler. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,0.99,82.16,16.84,Neutral,7,16,9,0,2025-04-15 12:52:36.367403
+7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d,CUSTOMER,"Thank you for calling G Temple Construction. Please leave your name and a brief message at the tone, and someone will return your call.",en-US,1.1,46.65,52.24,Positive,0,9,9,1,2025-04-15 12:52:38.945362
+7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d,CUSTOMER,"As soon as possible, thanks for calling and have a great day.",en-US,0.27,1.66,98.08,Positive,10,14,4,1,2025-04-15 12:52:38.945362
+7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d,CUSTOMER,"At the tone, please record your message. When you have finished recording you may hang up or press one for more options.",en-US,1.36,90.32,8.32,Neutral,15,22,7,3,2025-04-15 12:52:38.945362
+7197bcad-7dcb-4ad5-b1d2-a0a06dc3e49d,AGENT,Good afternoon Mr. Temple. This is Erin with Positgen just following up with you in regards to our last call. You can give me a call back at 985-323-4182. Thank you.,en-US,1.02,64.73,34.24,Neutral,25,35,10,0,2025-04-15 12:52:38.945362
+772a4737-2678-4735-8453-8b1326d6f51d,CUSTOMER,Your call has been forwarded to an automatic voice message system 504-722-33.,en-US,2.23,90.26,7.51,Neutral,0,7,7,0,2025-04-15 12:52:41.202217
+772a4737-2678-4735-8453-8b1326d6f51d,AGENT,[ADDRESS_REDACTED].,en-US,3.15,81.55,15.3,Neutral,5,7,2,0,2025-04-15 12:52:41.202217
+2fca56a3-a646-465f-8f20-1902d4e5d016,CUSTOMER,"I'm sorry, the person you are trying to reach has a voicemail box that has not been set up yet. Please try your call again later. Goodbye.",en-US,79.07,19.87,1.06,Negative,0,6,6,0,2025-04-15 12:52:43.495132
+2fca56a3-a646-465f-8f20-1902d4e5d016,AGENT,But,en-US,14.8,58.53,26.68,Neutral,0,0,0,8,2025-04-15 12:52:43.495132
+2fca56a3-a646-465f-8f20-1902d4e5d016,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,8,8,0,0,2025-04-15 12:52:43.495132
+d7fd369d-3368-4b51-90ed-9ce829e5b926,AGENT,You're calling,en-US,4.92,71.18,23.9,Neutral,0,1,1,0,2025-04-15 12:52:45.485478
+d7fd369d-3368-4b51-90ed-9ce829e5b926,CUSTOMER,Your call has been forwarded to voicemail. The person you're trying to reach is not.,en-US,63.6,34.77,1.62,Negative,0,4,4,0,2025-04-15 12:52:45.485478
+cb2fc9fb-ff2e-4546-b2b7-aaba1faee30e,CUSTOMER,"I'm sorry, but the person you called has a voicemail box that has not been set up yet.",en-US,73.63,25.48,0.89,Negative,0,5,5,0,2025-04-15 12:52:47.326733
+cb2fc9fb-ff2e-4546-b2b7-aaba1faee30e,AGENT,You called has a voicemail box that's not been set.,en-US,48.85,49.09,2.06,Neutral,3,5,2,0,2025-04-15 12:52:47.326733
+ab4f875a-8cf7-4a34-bbcd-1f798b0165b9,CUSTOMER,"Your call has been forwarded to an automatic voice message system. 732-209-5476 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,36.38,61.84,1.78,Neutral,0,17,17,0,2025-04-15 12:52:49.813702
+ab4f875a-8cf7-4a34-bbcd-1f798b0165b9,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,9,9,0,0,2025-04-15 12:52:49.813702
+7bddc541-1802-4022-97ef-341b42776af9,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,8,8,2,2025-04-15 12:52:51.591513
+7bddc541-1802-4022-97ef-341b42776af9,AGENT,"Good afternoon. This is Mary calling on behalf of Passagegen in partnership with Lifestyle Solar. I am calling to speak with Jeffrey. When you have time, can you please just give me a call back at 1-88893-[ADDRESS_REDACTED]. Thank you.",en-US,1.18,85.32,13.5,Neutral,10,29,19,0,2025-04-15 12:52:51.591513
+020473c1-6958-4b53-a68a-1934c29c2bde,CUSTOMER,Call has been forwarded to an automated voice messaging system.,en-US,2.39,89.15,8.46,Neutral,0,3,3,0,2025-04-15 12:52:54.153530
+020473c1-6958-4b53-a68a-1934c29c2bde,CUSTOMER,408-722-5436 is not available.,en-US,61.04,37.36,1.6,Negative,3,12,9,1,2025-04-15 12:52:54.153530
+020473c1-6958-4b53-a68a-1934c29c2bde,CUSTOMER,"At the tone, please",en-US,10.76,71.55,17.69,Neutral,13,14,1,0,2025-04-15 12:52:54.153530
+f02ff543-4dbe-47f5-b3ba-f810f9aa4d56,CUSTOMER,Please leave your message for Shelly.,en-US,3.14,86.12,10.74,Neutral,0,6,6,0,2025-04-15 12:52:56.396389
+f02ff543-4dbe-47f5-b3ba-f810f9aa4d56,AGENT,You,en-US,10.39,45.84,43.78,Neutral,1,2,1,4,2025-04-15 12:52:56.396389
+f02ff543-4dbe-47f5-b3ba-f810f9aa4d56,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,6,6,0,0,2025-04-15 12:52:56.396389
+33e94dde-a137-4d00-981a-a9228405f34f,CUSTOMER,Please leave your message for.,en-US,4.94,81.73,13.33,Neutral,2,4,2,1,2025-04-15 12:52:58.662726
+33e94dde-a137-4d00-981a-a9228405f34f,CUSTOMER,Hominaja.,en-US,6.46,79.5,14.04,Neutral,5,6,1,0,2025-04-15 12:52:58.662726
+59a6b7bb-e7c9-4a96-ac17-3621c9607478,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:53:00.962068
+59a6b7bb-e7c9-4a96-ac17-3621c9607478,CUSTOMER,609-709-8945.,en-US,7.44,83.98,8.57,Neutral,4,11,7,0,2025-04-15 12:53:00.962068
+9d3343cc-613f-48ba-ac00-a016a9dacd63,CUSTOMER,Your call has been forwarded to an automatic voice message system 3472.,en-US,2.34,89.93,7.74,Neutral,0,5,5,0,2025-04-15 12:53:03.019797
+9d3343cc-613f-48ba-ac00-a016a9dacd63,AGENT,That,en-US,16.76,48.94,34.29,Neutral,0,0,0,0,2025-04-15 12:53:03.019797
+4ce55534-6681-4c1e-b23e-0b405b58ecf7,AGENT,I went.,en-US,3.75,71.32,24.94,Neutral,0,3,3,0,2025-04-15 12:53:05.339875
+4ce55534-6681-4c1e-b23e-0b405b58ecf7,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:53:05.339875
+4ce55534-6681-4c1e-b23e-0b405b58ecf7,CUSTOMER,Do ponder.,en-US,7.89,73.08,19.03,Neutral,5,7,2,0,2025-04-15 12:53:05.339875
+494f2349-ef60-44c5-9d1b-755c8b3a4ea0,CUSTOMER,[ADDRESS_REDACTED] Butcher. Can't take your call now.,en-US,84.26,15.02,0.73,Negative,0,4,4,1,2025-04-15 12:53:07.171245
+494f2349-ef60-44c5-9d1b-755c8b3a4ea0,CUSTOMER,"At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",en-US,2.45,90.53,7.02,Neutral,5,13,8,2,2025-04-15 12:53:07.171245
+494f2349-ef60-44c5-9d1b-755c8b3a4ea0,AGENT,"Hi, this is Mikayla with Passage and Solar in partnership with Solar Holler. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,0.99,82.16,16.84,Neutral,15,24,9,0,2025-04-15 12:53:07.171245
+992d685d-2bce-4a40-8912-1a62019cd687,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,10,10,1,2025-04-15 12:53:09.701363
+992d685d-2bce-4a40-8912-1a62019cd687,AGENT,"Hello, this is Passagegen Solar. Please give us a call back at 888-939-4442 option two.",en-US,5.34,88.41,6.24,Neutral,11,20,9,0,2025-04-15 12:53:09.701363
+d9701c2c-d49b-4b15-a9fb-378595e4b457,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,4,5,1,4,2025-04-15 12:53:12.319647
+d9701c2c-d49b-4b15-a9fb-378595e4b457,CUSTOMER,Hola?,en-US,5.05,81.11,13.83,Neutral,9,9,0,3,2025-04-15 12:53:12.319647
+d9701c2c-d49b-4b15-a9fb-378595e4b457,CUSTOMER,"No go, no go.",en-US,42.52,50.82,6.66,Neutral,12,13,1,1,2025-04-15 12:53:12.319647
+d9701c2c-d49b-4b15-a9fb-378595e4b457,CUSTOMER,So you come on withlejos.,en-US,3.87,86.7,9.44,Neutral,14,16,2,0,2025-04-15 12:53:12.319647
+4ade2690-85b4-4143-89b6-feaa66ba08de,AGENT,Still in there?,en-US,4.61,92.28,3.11,Neutral,4,5,1,3,2025-04-15 12:53:14.893270
+4ade2690-85b4-4143-89b6-feaa66ba08de,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,8,8,0,4,2025-04-15 12:53:14.893270
+4ade2690-85b4-4143-89b6-feaa66ba08de,AGENT,"Hello, this is Corey with Pay. Anyone there?",en-US,2.15,84.2,13.65,Neutral,12,14,2,4,2025-04-15 12:53:14.893270
+4ade2690-85b4-4143-89b6-feaa66ba08de,AGENT,Hello.,en-US,2.23,42.53,55.25,Positive,18,18,0,0,2025-04-15 12:53:14.893270
+1ff31ae0-6e11-4787-b4eb-627a88b653d4,CUSTOMER,Call has been forwarded to an automated voice messaging system.,en-US,2.39,89.15,8.46,Neutral,0,3,3,1,2025-04-15 12:53:17.574688
+1ff31ae0-6e11-4787-b4eb-627a88b653d4,CUSTOMER,Charles Kerr is not available.,en-US,29.47,68.91,1.61,Neutral,4,7,3,1,2025-04-15 12:53:17.574688
+1ff31ae0-6e11-4787-b4eb-627a88b653d4,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press 1 for more options. To leave a callback number, press 5.",en-US,1.38,91.59,7.03,Neutral,8,17,9,7,2025-04-15 12:53:17.574688
+1ff31ae0-6e11-4787-b4eb-627a88b653d4,AGENT,"Hi, my name is Aurelia Posse and Solar. Uh, if you can give me a call back at 504-264-9590, that's 504-264-9590. Thank you.",en-US,2.64,82.39,14.97,Neutral,24,37,13,0,2025-04-15 12:53:17.574688
+03b4d9b3-7e81-44b1-8e8f-ceeeb5b54040,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 504-458-3623 is not available.,en-US,49.84,48.89,1.27,Negative,0,12,12,1,2025-04-15 12:53:19.887025
+03b4d9b3-7e81-44b1-8e8f-ceeeb5b54040,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:53:19.887025
+8ca8ea29-cc60-4dc1-bfa2-b6e8799a6369,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message.",en-US,75.2,23.92,0.87,Negative,0,7,7,0,2025-04-15 12:53:21.794504
+8ca8ea29-cc60-4dc1-bfa2-b6e8799a6369,AGENT,But,en-US,14.8,58.53,26.68,Neutral,5,5,0,0,2025-04-15 12:53:21.794504
+b4477be6-686b-4446-8c36-f25598cfb7ac,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,10,10,1,2025-04-15 12:53:23.819994
+b4477be6-686b-4446-8c36-f25598cfb7ac,AGENT,"Hi, this is Mikayla with Posit and Solar in partnership with Solar Might Solutions. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.04,81.2,17.76,Neutral,11,21,10,0,2025-04-15 12:53:23.819994
+a2bf78d8-e291-4303-aafb-4e119fcbef22,CUSTOMER,"I'm sorry, but the person you called has a voicemail box that has not been set up yet.",en-US,73.63,25.48,0.89,Negative,0,5,5,2,2025-04-15 12:53:26.094653
+a2bf78d8-e291-4303-aafb-4e119fcbef22,CUSTOMER,Goodbye,en-US,18.41,50.32,31.27,Neutral,7,7,0,0,2025-04-15 12:53:26.094653
+4e61891f-3d05-470c-9610-69d5fac6cc06,CUSTOMER,"I'm sorry, the person you are trying to reach has a voicemail box.",en-US,77.99,21.0,1.01,Negative,0,2,2,0,2025-04-15 12:53:28.025474
+4e61891f-3d05-470c-9610-69d5fac6cc06,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,0,0,0,0,2025-04-15 12:53:28.025474
+4c71a5a7-2a5a-457c-8e3b-9a8a50204d5d,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:53:29.858437
+4c71a5a7-2a5a-457c-8e3b-9a8a50204d5d,CUSTOMER,Abel Ramirez.,en-US,2.38,88.59,9.03,Neutral,5,6,1,0,2025-04-15 12:53:29.858437
+5c0016ba-43b8-4c93-b7a6-3d8eaf4b2cb7,CUSTOMER,Please leave your message for 347-737-1597.,en-US,4.19,87.37,8.44,Neutral,2,10,8,0,2025-04-15 12:53:31.754697
+5c0016ba-43b8-4c93-b7a6-3d8eaf4b2cb7,AGENT,"you asking, why you asking me.",en-US,10.14,84.15,5.71,Neutral,2,8,6,1,2025-04-15 12:53:31.754697
+5c0016ba-43b8-4c93-b7a6-3d8eaf4b2cb7,AGENT,For,en-US,11.67,47.03,41.31,Neutral,9,10,1,0,2025-04-15 12:53:31.754697
+686be406-63c1-4137-b525-1ff83416c479,CUSTOMER,"Your call has been forwarded to an automatic voice message system 202-480-1743 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,30.99,67.01,2.0,Neutral,0,17,17,0,2025-04-15 12:53:34.190066
+686be406-63c1-4137-b525-1ff83416c479,AGENT,It,en-US,12.4,44.88,42.72,Neutral,12,12,0,6,2025-04-15 12:53:34.190066
+686be406-63c1-4137-b525-1ff83416c479,AGENT,"Hi, this is Mikayla with Passage and Solar in partnership with Solar Solutions. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.08,80.7,18.22,Neutral,18,27,9,0,2025-04-15 12:53:34.190066
+be57f1d3-0833-48f1-bb2b-3b18c9cb849f,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,8,8,1,2025-04-15 12:53:36.550779
+be57f1d3-0833-48f1-bb2b-3b18c9cb849f,AGENT,"Hi, this is Mikayla with Passage and Solar in partnership with Solar Howler. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.06,83.12,15.82,Neutral,9,18,9,0,2025-04-15 12:53:36.550779
+442e5cfb-69af-489e-a437-2136173ce7ae,CUSTOMER,A call has been forwarded to an automated voice.,en-US,2.44,89.14,8.42,Neutral,0,2,2,0,2025-04-15 12:53:38.810060
+442e5cfb-69af-489e-a437-2136173ce7ae,AGENT,Sure,en-US,6.38,56.61,37.01,Neutral,0,1,1,0,2025-04-15 12:53:38.810060
+ca519e8b-2dc2-4c45-bd93-f2ea614616ea,CUSTOMER,A call has been forwarded to an automated voice messaging system.,en-US,1.98,91.42,6.6,Neutral,0,3,3,1,2025-04-15 12:53:41.082300
+ca519e8b-2dc2-4c45-bd93-f2ea614616ea,CUSTOMER,646-244-5531 is not available.,en-US,65.17,33.35,1.48,Negative,4,12,8,1,2025-04-15 12:53:41.082300
+ca519e8b-2dc2-4c45-bd93-f2ea614616ea,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:53:41.082300
+f488d0d9-e029-49a2-af90-ce3f32811c9e,CUSTOMER,A call has been forwarded to an automated voice messaging system.,en-US,1.98,91.42,6.6,Neutral,0,3,3,1,2025-04-15 12:53:42.967215
+f488d0d9-e029-49a2-af90-ce3f32811c9e,CUSTOMER,646-244-5531 is not available.,en-US,65.17,33.35,1.48,Negative,4,12,8,0,2025-04-15 12:53:42.967215
+e58bdd9c-aee7-46be-b3d7-eef519a95638,CUSTOMER,Call has been forwarded to an automated voice messaging system. 504-261-2330 is not available.,en-US,37.7,60.71,1.6,Neutral,0,12,12,1,2025-04-15 12:53:44.798348
+e58bdd9c-aee7-46be-b3d7-eef519a95638,CUSTOMER,The ma,en-US,10.32,67.23,22.44,Neutral,13,14,1,0,2025-04-15 12:53:44.798348
+5804e0db-18d9-4e1a-93bf-597f28527678,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,3,2025-04-15 12:53:46.730374
+5804e0db-18d9-4e1a-93bf-597f28527678,CUSTOMER,Victoria Lofton.,en-US,5.91,84.24,9.85,Neutral,7,9,2,0,2025-04-15 12:53:46.730374
+f84c034f-56c5-4812-bd7e-1cef5474c701,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 504-975-3742 is not available.,en-US,46.36,52.31,1.33,Neutral,0,12,12,1,2025-04-15 12:53:48.991680
+f84c034f-56c5-4812-bd7e-1cef5474c701,CUSTOMER,The mailbox is full and cannot accept any messages at this time. Goodbye.,en-US,75.14,23.49,1.37,Negative,13,17,4,0,2025-04-15 12:53:48.991680
+6473afdb-26a4-4f92-808a-eb35621ce750,CUSTOMER,"Your call has been forwarded to an automatic voice message system 504-259-0767 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,30.35,67.73,1.92,Neutral,0,18,18,2,2025-04-15 12:53:50.834206
+6473afdb-26a4-4f92-808a-eb35621ce750,CUSTOMER,We did not get your message.,en-US,53.59,44.48,1.93,Negative,20,21,1,0,2025-04-15 12:53:50.834206
+4f0bc029-449a-438e-882e-02dde28fed72,CUSTOMER,Oh hello.,en-US,2.21,39.41,58.38,Positive,0,1,1,1,2025-04-15 12:53:52.438063
+4f0bc029-449a-438e-882e-02dde28fed72,CUSTOMER,Hello,en-US,5.67,41.5,52.83,Positive,2,2,0,0,2025-04-15 12:53:52.438063
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,AGENT,Oh my gosh.,en-US,38.96,34.1,26.94,Negative,0,0,0,2,2025-04-15 12:53:55.306095
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,AGENT,Thank,en-US,6.34,37.04,56.63,Positive,2,3,1,0,2025-04-15 12:53:55.306095
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,0,2025-04-15 12:53:55.306095
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,AGENT,I think I did this already.,en-US,2.35,86.64,11.01,Neutral,4,5,1,1,2025-04-15 12:53:55.306095
+e3a8e5e7-a9e9-41a6-99e0-4daf937341b2,CUSTOMER,This is,en-US,11.04,53.55,35.41,Neutral,6,7,1,0,2025-04-15 12:53:55.306095
+41d0ab57-3900-4903-8f7d-e9874e8690fd,CUSTOMER,"Your call has been forwarded to an automatic voice message system. 228-382-7909 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,35.04,63.18,1.78,Neutral,0,17,17,2,2025-04-15 12:53:58.187524
+41d0ab57-3900-4903-8f7d-e9874e8690fd,AGENT,"Yes, hi, this is Roshanda calling from Posage and Solar. Please give us a call back, toll-free 888-939-4442. Again, that number is 888-939-4442. This is Posagegen Solar.",en-US,1.85,87.82,10.34,Neutral,19,33,14,2,2025-04-15 12:53:58.187524
+41d0ab57-3900-4903-8f7d-e9874e8690fd,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,35,36,1,0,2025-04-15 12:53:58.187524
+41d0ab57-3900-4903-8f7d-e9874e8690fd,CUSTOMER,"If you are satisfied with your message, press one to listen to your, to send your message with no thank you. Your message has been sent. Goodbye.",en-US,13.12,56.42,30.45,Neutral,36,45,9,0,2025-04-15 12:53:58.187524
+41d0ab57-3900-4903-8f7d-e9874e8690fd,AGENT,Yeah,en-US,8.01,43.81,48.17,Positive,43,43,0,0,2025-04-15 12:53:58.187524
+f4455cae-7c2a-493c-a03a-dbcb14240bcc,CUSTOMER,"Your call has been forwarded to an automatic voice message system. 304-439-4255 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,39.14,59.14,1.72,Neutral,0,17,17,0,2025-04-15 12:54:00.734701
+f4455cae-7c2a-493c-a03a-dbcb14240bcc,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,0,0,0,18,2025-04-15 12:54:00.734701
+f4455cae-7c2a-493c-a03a-dbcb14240bcc,AGENT,"Hi, this is Mikayla with Postage and Solar in partnership with Solar Holler. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.05,80.84,18.12,Neutral,18,27,9,0,2025-04-15 12:54:00.734701
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,"Hello, this is Celeste with Positgen Solar. Who do I have the pleasure of speaking with?",en-US,0.68,50.59,48.73,Neutral,11,14,3,4,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,CUSTOMER,"Hi Celeste, my name is Amy Garlett Smith. How are you doing today?",en-US,0.68,76.09,23.23,Neutral,18,22,4,1,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,"I'm doing good, Amy how",en-US,0.9,7.45,91.64,Positive,23,24,1,3,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,27,28,1,3,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,31,31,0,1,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,CUSTOMER,Are you there?,en-US,2.01,91.76,6.23,Neutral,32,33,1,0,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,"Yes, I'm here, Amy.",en-US,0.53,36.55,62.92,Positive,33,34,1,1,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,I probably just over there.,en-US,13.16,79.65,7.19,Neutral,35,37,2,0,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,CUSTOMER,It doesn't have sound like it's a good connection.,en-US,84.29,14.27,1.44,Negative,36,38,2,0,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,38,39,1,4,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,CUSTOMER,"Hi Celeste, can you hear me?",en-US,0.6,75.19,24.21,Neutral,43,45,2,1,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,"Yes, Amy, I can hear you perfectly. Are you able to hear me?",en-US,0.39,13.2,86.41,Positive,46,49,3,0,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,CUSTOMER,I'm gonna call back. This is not a good connection.,en-US,93.44,5.97,0.59,Negative,49,51,2,0,2025-04-15 12:54:04.661255
+fdd4cdd6-beda-46ed-8292-08ec4e630cae,AGENT,"Oh, OK. I can hear you. You could call back.",en-US,2.29,66.91,30.79,Neutral,51,55,4,0,2025-04-15 12:54:04.661255
+2e1fd64a-ccca-436c-8a0d-fb79965297c6,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,0,2025-04-15 12:54:07.484464
+2e1fd64a-ccca-436c-8a0d-fb79965297c6,AGENT,"Hi, this is Mikayla with Postage and Solar in partnership with [ADDRESS_REDACTED] State Solar. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,0.96,81.58,17.46,Neutral,9,19,10,0,2025-04-15 12:54:07.484464
+a427bc14-9a5b-4e81-b2dc-9fbd67df6ce2,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:54:09.967262
+a427bc14-9a5b-4e81-b2dc-9fbd67df6ce2,CUSTOMER,Jenny Savera.,en-US,4.86,83.68,11.46,Neutral,5,7,2,0,2025-04-15 12:54:09.967262
+e9b61ea1-c006-49cb-9019-9205acb0bf8a,CUSTOMER,"Call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record.",en-US,70.93,27.98,1.09,Negative,0,6,6,0,2025-04-15 12:54:11.798177
+e9b61ea1-c006-49cb-9019-9205acb0bf8a,AGENT,"Oh, it's honey, I.",en-US,2.21,39.63,58.16,Positive,4,5,1,0,2025-04-15 12:54:11.798177
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,Oh.,en-US,13.57,62.58,23.85,Neutral,5,6,1,0,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,6,6,0,1,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,I have the pleasure of speaking with?,en-US,1.58,59.52,38.9,Neutral,7,9,2,2,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,"Um, hello, I can't hardly hear you.",en-US,49.47,43.72,6.81,Negative,11,13,2,2,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,Can you hear me a bit better?,en-US,1.18,24.02,74.8,Positive,15,16,1,2,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,"Um, no, it still sounds like you're far away.",en-US,57.1,41.06,1.84,Negative,18,20,2,16,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,Hello hello?,en-US,2.81,75.74,21.45,Neutral,36,37,1,1,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,"Yes, hello, can you hear me?",en-US,0.62,43.99,55.39,Positive,38,39,1,2,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,"Um, I can barely hear you. I'm just, you, you still still sound a little low.",en-US,68.69,28.82,2.49,Negative,41,46,5,1,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,"OK, OK, um, am I able to give you a call back? Uh, I think I'll probably have to res restart my system.",en-US,12.71,80.36,6.94,Neutral,47,54,7,3,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,Hello?,en-US,4.48,79.4,16.11,Neutral,57,58,1,0,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,"Um, yes, my number here is uh uh 2215-205-0579.",en-US,0.87,88.21,10.92,Neutral,58,64,6,0,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,And what's your name?,en-US,5.44,89.93,4.63,Neutral,63,64,1,2,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,Tanika Blair.,en-US,10.35,82.29,7.36,Neutral,66,68,2,0,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,OK.,en-US,8.54,60.05,31.41,Neutral,68,69,1,1,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,I'll give you a call back. Thank you so much.,en-US,0.68,11.49,87.83,Positive,70,72,2,1,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,CUSTOMER,"OK, thank you.",en-US,1.74,20.69,77.57,Positive,73,74,1,0,2025-04-15 12:54:15.039239
+eceac558-4d4c-45e5-86b0-1d9124b29eac,AGENT,Mhm.,en-US,7.62,73.91,18.48,Neutral,74,74,0,0,2025-04-15 12:54:15.039239
+6dc28553-e537-40e9-b398-7a8d791c1d48,CUSTOMER,"Your call has been forwarded to an automatic voice message system 609-456-3022 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,32.06,66.07,1.87,Neutral,0,17,17,1,2025-04-15 12:54:17.715201
+6dc28553-e537-40e9-b398-7a8d791c1d48,AGENT,"Hi, this is Mikayla with Postage and Solar in partnership with Solar Mite Solutions. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,1.12,81.4,17.48,Neutral,18,28,10,0,2025-04-15 12:54:17.715201
+309e3a05-4973-434f-ac43-ff4384a4886b,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:54:20.051912
+309e3a05-4973-434f-ac43-ff4384a4886b,CUSTOMER,Tamara Evans.,en-US,2.54,90.81,6.65,Neutral,5,6,1,0,2025-04-15 12:54:20.051912
+506d093b-8a55-4e6b-841b-88099f54351c,CUSTOMER,"Your forwarded to an automatic voice message system 631-627-0815 is not available. At the tone, please record your message. When you have finished recording you may hang up or press 1 for more options.",en-US,40.65,57.45,1.9,Neutral,0,17,17,0,2025-04-15 12:54:21.572210
+506d093b-8a55-4e6b-841b-88099f54351c,AGENT,"I'm like, oh my",en-US,14.89,38.92,46.19,Positive,0,0,0,0,2025-04-15 12:54:21.572210
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,So,en-US,13.18,50.03,36.78,Neutral,4,5,1,6,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,11,12,1,0,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,"Yes, this is",en-US,3.63,73.08,23.3,Neutral,12,13,1,3,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,OK,en-US,9.38,42.41,48.21,Positive,16,16,0,0,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,I can't hear you.,en-US,51.59,45.29,3.12,Negative,16,17,1,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,Can you hear me a bit better?,en-US,1.18,24.02,74.8,Positive,18,19,1,3,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,"No, I can't hear you.",en-US,40.91,54.09,5.0,Neutral,22,23,1,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,"Hello, I'm, I'm speaking right in the mic.",en-US,1.29,45.85,52.87,Positive,24,27,3,0,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,27,27,0,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,Yes.,en-US,7.42,58.11,34.46,Neutral,28,28,0,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,I'm here.,en-US,2.23,67.45,30.31,Neutral,29,30,1,0,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,You're breaking up. You're sounding broke up.,en-US,77.72,21.14,1.15,Negative,30,34,4,2,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,Sorry about that. I think it's something wrong with the signal right now.,en-US,78.12,20.87,1.02,Negative,36,40,4,3,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,"Yes, I can hear you barely.",en-US,3.21,67.99,28.8,Neutral,43,45,2,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,CUSTOMER,Can you hear me?,en-US,1.98,81.77,16.24,Neutral,46,47,1,1,2025-04-15 12:54:24.426927
+d26cfd05-b345-4ef8-a004-b6f1c809c44b,AGENT,"Yes, I can hear, I can hear you clearly. I, I have nothing wrong with my signal right now, but can you hear me a little bit better now?",en-US,2.21,25.78,72.01,Positive,48,54,6,0,2025-04-15 12:54:24.426927
+2ee219c2-1ffb-49fb-853f-8f0029e796c7,CUSTOMER,Message for,en-US,5.15,75.84,19.01,Neutral,3,4,1,0,2025-04-15 12:54:27.279176
+2ee219c2-1ffb-49fb-853f-8f0029e796c7,AGENT,Hello.,en-US,2.23,42.53,55.25,Positive,4,4,0,1,2025-04-15 12:54:27.279176
+2ee219c2-1ffb-49fb-853f-8f0029e796c7,CUSTOMER,Farmananal.,en-US,5.63,82.65,11.73,Neutral,5,7,2,3,2025-04-15 12:54:27.279176
+2ee219c2-1ffb-49fb-853f-8f0029e796c7,AGENT,"Hi, this is Mikayla with Passage and Solar in partnership with Skyline Solar. If you could just give me a call back at 1-888-939-4442. Thank you.",en-US,0.98,82.53,16.49,Neutral,10,20,10,0,2025-04-15 12:54:27.279176
+6071c932-c53c-4f03-8bfd-650ef85c9a28,CUSTOMER,Your call has been forwarded to an automated voice messaging system.,en-US,2.52,88.65,8.83,Neutral,0,3,3,1,2025-04-15 12:54:30.061600
+6071c932-c53c-4f03-8bfd-650ef85c9a28,CUSTOMER,203-6153222 is not available.,en-US,67.5,31.36,1.14,Negative,4,12,8,1,2025-04-15 12:54:30.061600
+6071c932-c53c-4f03-8bfd-650ef85c9a28,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",en-US,1.37,90.28,8.35,Neutral,13,19,6,0,2025-04-15 12:54:30.061600
+a6c7c349-c111-415d-8a8e-ca40e63fbd66,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,10,10,0,2025-04-15 12:54:31.771054
+a6c7c349-c111-415d-8a8e-ca40e63fbd66,AGENT,What happened?,en-US,9.63,82.38,8.0,Neutral,2,3,1,0,2025-04-15 12:54:31.771054
+cfddc1b2-0a36-4f24-a7e2-8c9320354daf,CUSTOMER,"I'm sorry, the person you are trying to reach has a voicemail box that has not been set up yet. Please try your call again later. Goodbye.",en-US,79.07,19.87,1.06,Negative,0,6,6,0,2025-04-15 12:54:33.643640
+cfddc1b2-0a36-4f24-a7e2-8c9320354daf,AGENT,It was making,en-US,7.0,62.6,30.4,Neutral,0,0,0,0,2025-04-15 12:54:33.643640
+11bb5dc8-68c3-4e12-ad32-0d7b6cf0fba8,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:54:35.973737
+11bb5dc8-68c3-4e12-ad32-0d7b6cf0fba8,CUSTOMER,Sheriff Felton.,en-US,3.04,87.53,9.44,Neutral,5,10,5,0,2025-04-15 12:54:35.973737
+3982fbdf-8974-45c1-9e74-b0bd516f145c,CUSTOMER,"Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,73.08,25.99,0.93,Negative,0,9,9,1,2025-04-15 12:54:38.263424
+3982fbdf-8974-45c1-9e74-b0bd516f145c,AGENT,"Hi, good afternoon. This message is for Frederick Boggs. This is Evelyn with Posage and Solar. Please give me a call back at 888-939-4442. Thank you and have a great day.",en-US,0.6,32.13,67.26,Positive,10,22,12,0,2025-04-15 12:54:38.263424
+4d184ba9-8975-4204-b1e1-3a93c9055934,CUSTOMER,Your call has been forwarded to an automated voice messaging system. 559-429-1132 is not available.,en-US,46.68,51.99,1.33,Neutral,0,12,12,0,2025-04-15 12:54:41.352386
+4d184ba9-8975-4204-b1e1-3a93c9055934,CUSTOMER,"At the tone, please record your message. When you've finished recording you may hang up or press one for more options.",en-US,1.37,90.28,8.35,Neutral,12,19,7,1,2025-04-15 12:54:41.352386
+4d184ba9-8975-4204-b1e1-3a93c9055934,AGENT,"Yes, hi, Mr. Barbara. This is Rashona calling from Posage and Solar. At your earliest convenience, can you please give us a call back to 3-888-939-4442. Again, that number is 888-939-4442. This is Positgen Solar.",en-US,2.03,87.62,10.36,Neutral,20,36,16,1,2025-04-15 12:54:41.352386
+4d184ba9-8975-4204-b1e1-3a93c9055934,CUSTOMER,"If you're satisfied with the message, to send your message with normal delivery, thank you. Your message has been sent.",en-US,0.76,18.75,80.49,Positive,37,43,6,0,2025-04-15 12:54:41.352386
+1d5fe74f-0998-426a-abb8-1fec93519547,CUSTOMER,"Has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.",en-US,70.92,28.01,1.08,Negative,0,8,8,1,2025-04-15 12:54:43.485269
+1d5fe74f-0998-426a-abb8-1fec93519547,AGENT,"Hi, good afternoon. This message is for Alfred Ballesteros. This is Evelyn with Posit and Solar. Please give me a call back at 888-939-4442. Thank you and have a great day.",en-US,0.59,27.34,72.06,Positive,9,22,13,0,2025-04-15 12:54:43.485269
+f057f2af-623a-4eac-a3c4-d0443529a0a9,CUSTOMER,Please leave your message for,en-US,4.29,83.39,12.32,Neutral,2,4,2,1,2025-04-15 12:54:45.646143
+f057f2af-623a-4eac-a3c4-d0443529a0a9,CUSTOMER,Robert Cooper.,en-US,2.51,85.74,11.75,Neutral,5,7,2,0,2025-04-15 12:54:45.646143
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,AGENT,No,en-US,14.17,44.06,41.77,Neutral,2,3,1,0,2025-04-15 12:54:48.212482
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,CUSTOMER,Hello?,en-US,4.48,79.4,16.11,Neutral,3,3,0,1,2025-04-15 12:54:48.212482
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,AGENT,"Hi, may I speak to Mrs. McKenzie?",en-US,0.85,90.98,8.17,Neutral,4,6,2,1,2025-04-15 12:54:48.212482
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,CUSTOMER,"Uh, you have the wrong number.",en-US,53.13,44.97,1.91,Negative,7,9,2,1,2025-04-15 12:54:48.212482
+fe9a5252-6d58-4a1e-8532-1c7c8cd47de7,AGENT,Well just so you can be.,en-US,19.69,61.86,18.45,Neutral,10,12,2,0,2025-04-15 12:54:48.212482
